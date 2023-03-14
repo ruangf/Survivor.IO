@@ -15,7 +15,7 @@ MonoBehaviour:
   ProjectConf:
     projectName: tp
     Appid: wxc73561039f98bb6e
-    CDN: 
+    CDN: https://github.com/ruangf/Survivor.IO/tree/master/WebGl
     assetLoadType: 0
     VideoUrl: 
     DST: E:/work/xixuegui/tp
