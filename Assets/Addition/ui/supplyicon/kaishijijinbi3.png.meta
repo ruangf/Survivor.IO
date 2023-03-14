@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 5f0e3d2a21a73d34eb7b8c21b0865028
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: kaishijijinbi3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 48
+  maxTextureSize: 100
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kaishijijinbi3
+      rect:
+        serializedVersion: 2
+        x: 2.0761204
+        y: 5.026751
+        width: 97.89713
+        height: 83.9465
+      alignment: 9
+      pivot: {x: 0.48953304, y: 0.535737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.975315, y: -42.000004}
+        - {x: -49.024685, y: -42.000004}
+        - {x: -49.024685, y: 18.999996}
+        - {x: -42.024685, y: 41.999996}
+        - {x: 48.975315, y: 41.999996}
+      physicsShape:
+      - - {x: 36.975315, y: -32.000004}
+        - {x: 44.97531, y: -29.000004}
+        - {x: 47.97531, y: -17.000002}
+        - {x: 47.97531, y: -8.000004}
+        - {x: 38.97531, y: 3.9999962}
+        - {x: 36.975315, y: 38.999996}
+        - {x: 25.975313, y: 39.999996}
+        - {x: 7.975315, y: 40.999996}
+        - {x: -10.024685, y: 40.999996}
+        - {x: -35.024685, y: 37.999996}
+        - {x: -43.024685, y: 22.999994}
+        - {x: -48.024685, y: 8.999996}
+        - {x: -48.024685, y: -7.000003}
+        - {x: -42.024685, y: -25.000004}
+        - {x: -35.024685, y: -41.000004}
+        - {x: -14.024685, y: -41.000004}
+        - {x: -9.024685, y: -34.000004}
+        - {x: 4.975315, y: -36.000004}
+        - {x: 16.975315, y: -33.000004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07265f50a3c14f40b17254d2e457cbb4
+      internalID: 21300000
+      vertices:
+      - {x: 9, y: 89}
+      - {x: 100, y: 5}
+      - {x: 100, y: 89}
+      - {x: 2, y: 66}
+      - {x: 2, y: 5}
+      indices: 040000000300000001000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kaishijijinbi3: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

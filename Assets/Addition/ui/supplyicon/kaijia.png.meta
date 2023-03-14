@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: e7d97cc4d51d0284dbf3ed70a3b5b4fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: kaijia
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 48
+  maxTextureSize: 100
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kaijia
+      rect:
+        serializedVersion: 2
+        x: 6.0761204
+        y: 8.07612
+        width: 87.89713
+        height: 83.89713
+      alignment: 9
+      pivot: {x: 0.49971917, y: 0.49970576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.024685, y: -42.024685}
+        - {x: -44.024685, y: -35.024685}
+        - {x: -44.024685, y: 41.975315}
+        - {x: 41.975315, y: 41.975315}
+        - {x: 43.975315, y: 38.975315}
+        - {x: 43.975315, y: -38.024685}
+        - {x: 34.975315, y: -42.024685}
+      physicsShape:
+      - - {x: 43.975315, y: 5.975315}
+        - {x: 40.975315, y: 25.975315}
+        - {x: 32.975315, y: 40.975315}
+        - {x: 20.975315, y: 41.975315}
+        - {x: 9.975314, y: 41.975315}
+        - {x: 3.975315, y: 34.975315}
+        - {x: -3.024685, y: 33.975315}
+        - {x: -8.024685, y: 39.97531}
+        - {x: -11.024685, y: 40.975315}
+        - {x: -23.024683, y: 41.975315}
+        - {x: -34.024685, y: 35.975315}
+        - {x: -42.024685, y: 8.975315}
+        - {x: -43.02468, y: -0.024684906}
+        - {x: -43.02468, y: -24.024685}
+        - {x: -42.024685, y: -31.024685}
+        - {x: -34.024685, y: -36.024685}
+        - {x: 13.975315, y: -42.024685}
+        - {x: 18.975315, y: -41.024685}
+        - {x: 36.975315, y: -31.024685}
+        - {x: 41.975315, y: -26.024685}
+        - {x: 43.975315, y: -21.024685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239dfb8904144bebbb2f9488dc4b7cdf
+      internalID: 21300000
+      vertices:
+      - {x: 92, y: 92}
+      - {x: 94, y: 12}
+      - {x: 94, y: 89}
+      - {x: 85, y: 8}
+      - {x: 22, y: 8}
+      - {x: 6, y: 92}
+      - {x: 6, y: 15}
+      indices: 060000000500000004000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kaijia: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

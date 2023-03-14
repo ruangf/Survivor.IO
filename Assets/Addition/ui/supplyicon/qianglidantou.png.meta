@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 5241ce73bfac92c468f8d600c9293efb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: qianglidantou
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 48
+  maxTextureSize: 100
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: qianglidantou
+      rect:
+        serializedVersion: 2
+        x: 14.026751
+        y: 8.07612
+        width: 80.89713
+        height: 84.84776
+      alignment: 9
+      pivot: {x: 0.44467893, y: 0.4941071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.475315, y: -42.5}
+        - {x: -40.475315, y: -36.5}
+        - {x: -40.475315, y: 31.5}
+        - {x: -26.475315, y: 42.5}
+        - {x: -10.475315, y: 42.5}
+        - {x: -2.475315, y: 40.5}
+        - {x: 30.524685, y: 6.5}
+        - {x: 40.524685, y: -0.5}
+        - {x: 40.524685, y: -29.5}
+        - {x: 30.524685, y: -41.5}
+        - {x: 23.524685, y: -42.5}
+      physicsShape:
+      - - {x: 40.524685, y: 6.5}
+        - {x: 8.524685, y: 41.5}
+        - {x: -29.475315, y: 41.5}
+        - {x: -39.475315, y: 37.5}
+        - {x: -39.475315, y: -35.5}
+        - {x: -38.475315, y: -41.5}
+        - {x: 18.524683, y: -41.5}
+        - {x: 29.524685, y: -38.5}
+        - {x: 37.524685, y: -33.5}
+        - {x: 40.524685, y: -21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa94e6c1265442e997281115dc50b8a6
+      internalID: 21300000
+      vertices:
+      - {x: 85, y: 57}
+      - {x: 95, y: 21}
+      - {x: 95, y: 50}
+      - {x: 85, y: 9}
+      - {x: 78, y: 8}
+      - {x: 52, y: 91}
+      - {x: 44, y: 93}
+      - {x: 28, y: 93}
+      - {x: 22, y: 8}
+      - {x: 14, y: 82}
+      - {x: 14, y: 14}
+      indices: 0a0000000900000008000000070000000800000009000000040000000800000007000000060000000400000007000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      qianglidantou: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: e30af69cec0e4c44eb963847442298da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: nengliangkuai
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 48
+  maxTextureSize: 100
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nengliangkuai
+      rect:
+        serializedVersion: 2
+        x: 1.026751
+        y: 0.076120496
+        width: 97.9465
+        height: 91.89713
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.54325825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.000004, y: -43.024693}
+        - {x: -49.000004, y: -26.024694}
+        - {x: -49.000004, y: -1.0246925}
+        - {x: -9.000004, y: 45.975307}
+        - {x: 14.999997, y: 45.975307}
+        - {x: 42.999996, y: 40.975307}
+        - {x: 48.999996, y: 30.97531}
+        - {x: 48.999996, y: 10.975307}
+        - {x: 10.999996, y: -46.024693}
+        - {x: -0.0000038146973, y: -46.024693}
+      physicsShape:
+      - - {x: 47.999996, y: 31.975307}
+        - {x: 37.999996, y: 37.975307}
+        - {x: 3.9999962, y: 44.975307}
+        - {x: -4.000004, y: 44.975307}
+        - {x: -20.000002, y: 28.975307}
+        - {x: -48.000004, y: -0.024692535}
+        - {x: -48.000004, y: -12.024693}
+        - {x: -45.000004, y: -24.024693}
+        - {x: -39.000004, y: -28.024693}
+        - {x: -21.000004, y: -31.024693}
+        - {x: -4.000004, y: -39.02469}
+        - {x: -0.0000038146973, y: -44.024693}
+        - {x: 2.9999962, y: -45.02469}
+        - {x: 6.999996, y: -45.02469}
+        - {x: 17.999996, y: -32.024693}
+        - {x: 42.999992, y: 2.9753075}
+        - {x: 47.999996, y: 10.975307}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd75ea5dbc2f4fcd868c7606a1eae0dc
+      internalID: 21300000
+      vertices:
+      - {x: 93, y: 87}
+      - {x: 99, y: 57}
+      - {x: 99, y: 77}
+      - {x: 65, y: 92}
+      - {x: 61, y: 0}
+      - {x: 50, y: 0}
+      - {x: 43, y: 3}
+      - {x: 41, y: 92}
+      - {x: 1, y: 45}
+      - {x: 1, y: 19.999998}
+      indices: 090000000800000006000000070000000600000008000000030000000600000007000000050000000600000003000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      nengliangkuai: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

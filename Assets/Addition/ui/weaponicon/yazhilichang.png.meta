@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 489fc9e6df61e8b4bb565531be1b04a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: yazhilichang
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 48
+  maxTextureSize: 100
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yazhilichang
+      rect:
+        serializedVersion: 2
+        x: 2.0513167
+        y: 3.0761204
+        width: 95.87257
+        height: 91.880974
+      alignment: 9
+      pivot: {x: 0.50012934, y: 0.5107029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.012402, y: -46.016605}
+        - {x: -44.9876, y: -46.016605}
+        - {x: -47.9876, y: -45.016605}
+        - {x: -47.9876, y: 41.983395}
+        - {x: -37.9876, y: 45.983395}
+        - {x: 22.012402, y: 45.983395}
+        - {x: 48.0124, y: 28.983395}
+        - {x: 48.0124, y: -25.016605}
+      physicsShape:
+      - - {x: 46.012398, y: -3.0166054}
+        - {x: 46.012398, y: 14.983395}
+        - {x: 30.0124, y: 31.983395}
+        - {x: 24.012402, y: 39.983395}
+        - {x: 21.012402, y: 42.983395}
+        - {x: 15.012401, y: 43.98339}
+        - {x: -3.9875984, y: 43.98339}
+        - {x: -37.9876, y: 30.983393}
+        - {x: -45.987595, y: 19.983395}
+        - {x: -46.9876, y: 13.983395}
+        - {x: -46.9876, y: 1.9833946}
+        - {x: -41.9876, y: -21.016605}
+        - {x: -25.987598, y: -40.016605}
+        - {x: -9.987597, y: -45.0166}
+        - {x: 10.012401, y: -45.0166}
+        - {x: 24.012402, y: -40.016605}
+        - {x: 34.0124, y: -31.016605}
+        - {x: 41.0124, y: -18.016605}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0906d115140348878cfd1184271f4d37
+      internalID: 21300000
+      vertices:
+      - {x: 12, y: 95}
+      - {x: 13, y: 89}
+      - {x: 72, y: 95}
+      - {x: 10, y: 90}
+      - {x: 8, y: 88}
+      - {x: 2, y: 91}
+      - {x: 5, y: 3}
+      - {x: 2, y: 4}
+      - {x: 98, y: 78}
+      - {x: 97, y: 33}
+      - {x: 98, y: 24}
+      - {x: 95, y: 35}
+      - {x: 93, y: 35}
+      - {x: 91, y: 33}
+      - {x: 76, y: 3}
+      - {x: 91, y: 31}
+      - {x: 13, y: 86}
+      - {x: 10, y: 85}
+      - {x: 97, y: 30}
+      - {x: 95, y: 29}
+      - {x: 92, y: 29}
+      indices: 0400000003000000110000001000000011000000030000000100000010000000030000000f0000000d000000140000000c000000140000000d00000013000000140000000c0000000b000000130000000c00000012000000130000000b00000009000000120000000b0000000f000000140000000e0000000a0000000e00000014000000130000000a00000014000000120000000a00000013000000090000000a000000120000000400000011000000060000000e0000000600000011000000100000000e00000011000000010000000e00000010000000020000000e00000001000000080000000e000000020000000d0000000e000000080000000f0000000e0000000d0000000c0000000d000000080000000b0000000c00000008000000090000000b000000080000000a0000000900000008000000070000000500000006000000040000000600000005000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      yazhilichang: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

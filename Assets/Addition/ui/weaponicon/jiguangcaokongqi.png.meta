@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 127fab2a13c0ea44abb463aef3e76744
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: jiguangcaokongqi
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jiguangcaokongqi
+      rect:
+        serializedVersion: 2
+        x: 26.07612
+        y: 8.07612
+        width: 211.89713
+        height: 231.84775
+      alignment: 9
+      pivot: {x: 0.48100644, y: 0.51725274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.02468, y: 116.00001}
+        - {x: 39.97532, y: 89.00001}
+        - {x: 76.97532, y: 82.00001}
+        - {x: 94.97532, y: 50.000008}
+        - {x: 105.97532, y: -15.999992}
+        - {x: 105.97532, y: -64.99999}
+        - {x: 74.97532, y: -95.99999}
+        - {x: 2.975319, y: -116}
+        - {x: -37.02468, y: -116}
+        - {x: -106.02468, y: 20.000008}
+        - {x: -106.02468, y: 112.000015}
+        - {x: -98.02468, y: 114.00001}
+        - {x: -92.02468, y: 116.00001}
+      physicsShape:
+      - - {x: 100.97531, y: -58.999992}
+        - {x: 104.97532, y: -42.999992}
+        - {x: 104.97532, y: -33.999992}
+        - {x: 100.97531, y: -24.999992}
+        - {x: 82.97532, y: -2.9999924}
+        - {x: 74.97532, y: 12.000008}
+        - {x: 84.97532, y: 22.000008}
+        - {x: 89.97532, y: 35.000008}
+        - {x: 87.97531, y: 57.000004}
+        - {x: 74.97532, y: 76.00001}
+        - {x: 57.97532, y: 82.00001}
+        - {x: 42.97532, y: 82.00001}
+        - {x: 29.975319, y: 76.00001}
+        - {x: 24.975319, y: 72.00001}
+        - {x: 11.975319, y: 84}
+        - {x: 5.975318, y: 85.00001}
+        - {x: -8.024681, y: 85.00001}
+        - {x: -17.024681, y: 96}
+        - {x: -54.02468, y: 94.00001}
+        - {x: -58.024677, y: 82.00001}
+        - {x: -76.02468, y: 109}
+        - {x: -83.02468, y: 114.00001}
+        - {x: -98.02468, y: 114.00001}
+        - {x: -104.02468, y: 105.00001}
+        - {x: -104.02468, y: 93.00001}
+        - {x: -94.02468, y: 75.00001}
+        - {x: -94.02468, y: 67.00001}
+        - {x: -100.02468, y: 57.000004}
+        - {x: -101.02468, y: 29.000008}
+        - {x: -98.02468, y: 20.000008}
+        - {x: -39.02468, y: -95.99999}
+        - {x: -40.02468, y: -97.99999}
+        - {x: -32.02468, y: -109.99999}
+        - {x: -25.024681, y: -113.999985}
+        - {x: -4.024681, y: -113.999985}
+        - {x: 76.97532, y: -79.99999}
+        - {x: 90.97532, y: -72.99999}
+        - {x: 95.97532, y: -68.999985}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470b39e6cded49cc8bc7173a478cdc66
+      internalID: 21300000
+      vertices:
+      - {x: 227, y: 174}
+      - {x: 238, y: 59}
+      - {x: 238, y: 108}
+      - {x: 209, y: 206}
+      - {x: 207, y: 28}
+      - {x: 172, y: 213}
+      - {x: 135, y: 7.9999924}
+      - {x: 120, y: 224}
+      - {x: 119, y: 227}
+      - {x: 116, y: 227}
+      - {x: 100, y: 225}
+      - {x: 114, y: 225}
+      - {x: 98, y: 226}
+      - {x: 93, y: 226}
+      - {x: 73, y: 240}
+      - {x: 91, y: 224}
+      - {x: 118, y: 222}
+      - {x: 115, y: 222}
+      - {x: 100, y: 223}
+      - {x: 98, y: 219}
+      - {x: 95, y: 7.9999924}
+      - {x: 93, y: 219}
+      - {x: 40, y: 240}
+      - {x: 34, y: 238}
+      - {x: 26, y: 236}
+      - {x: 26, y: 144}
+      indices: 0b00000009000000110000001000000011000000090000000800000010000000090000000700000010000000080000000f0000000d0000001500000013000000150000000d0000000c000000130000000d00000012000000130000000c0000000a000000120000000c0000001900000018000000140000001700000014000000180000001600000014000000170000000e00000014000000160000000f000000140000000e00000015000000140000000f0000001300000014000000150000000600000014000000130000001200000006000000130000000a00000006000000120000000b000000060000000a00000011000000060000000b00000010000000060000001100000007000000060000001000000005000000080000000e000000090000000e000000080000000d0000000e000000090000000f0000000e0000000d0000000c0000000d000000090000000a0000000c000000090000000b0000000a00000009000000070000000800000005000000060000000700000005000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      jiguangcaokongqi: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

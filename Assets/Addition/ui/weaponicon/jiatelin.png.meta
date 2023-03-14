@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 24e47923387c78e4cb481a6655714888
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: jiatelin
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 48
+  maxTextureSize: 100
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jiatelin
+      rect:
+        serializedVersion: 2
+        x: 0.076120496
+        y: 7.026751
+        width: 99.89713
+        height: 83.89713
+      alignment: 9
+      pivot: {x: 0.49975285, y: 0.5122135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.024689, y: -41.97532}
+        - {x: -47.02469, y: -27.975319}
+        - {x: -50.02469, y: -6.975319}
+        - {x: -50.02469, y: 31.024683}
+        - {x: -37.02469, y: 42.02468}
+        - {x: 43.97531, y: 42.02468}
+        - {x: 49.97531, y: 19.024681}
+        - {x: 49.97531, y: -13.97532}
+        - {x: 48.97531, y: -16.975319}
+        - {x: 41.97531, y: -41.97532}
+      physicsShape:
+      - - {x: 47.97531, y: 14.024681}
+        - {x: 33.97531, y: 16.024681}
+        - {x: 37.97531, y: 32.02468}
+        - {x: 30.975311, y: 38.02468}
+        - {x: 18.975311, y: 41.024677}
+        - {x: 12.975311, y: 41.024677}
+        - {x: 6.9753113, y: 37.02468}
+        - {x: -6.0246887, y: 29.024681}
+        - {x: -18.024689, y: 37.02468}
+        - {x: -32.02469, y: 38.02468}
+        - {x: -45.02469, y: 24.02468}
+        - {x: -47.02469, y: 20.024681}
+        - {x: -47.02469, y: 0.024681091}
+        - {x: -46.024685, y: -3.9753184}
+        - {x: -42.02469, y: -6.975319}
+        - {x: -29.024689, y: -13.975318}
+        - {x: -7.0246887, y: -21.975317}
+        - {x: -5.0246882, y: -36.97532}
+        - {x: 1.9753113, y: -40.97532}
+        - {x: 24.975311, y: -40.97532}
+        - {x: 32.97531, y: -35.97532}
+        - {x: 46.97531, y: -17.975319}
+        - {x: 47.97531, y: -10.975319}
+      - - {x: 10.975311, y: -25.975317}
+        - {x: 11.975311, y: -26.975319}
+        - {x: 15.975311, y: -26.975319}
+        - {x: 16.975311, y: -27.975319}
+        - {x: 19.97531, y: -27.975319}
+        - {x: 10.975311, y: -27.975319}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55a3d52763044bab4c0456a3b42b073
+      internalID: 21300000
+      vertices:
+      - {x: 100, y: 68}
+      - {x: 99, y: 32}
+      - {x: 100, y: 35}
+      - {x: 94, y: 91}
+      - {x: 92, y: 7}
+      - {x: 41, y: 7}
+      - {x: 18, y: 25}
+      - {x: 16, y: 27}
+      - {x: 14, y: 27}
+      - {x: 13, y: 91}
+      - {x: 12, y: 25}
+      - {x: 3, y: 21}
+      - {x: 12, y: 22.999998}
+      - {x: 0, y: 80}
+      - {x: 0, y: 42}
+      - {x: 18, y: 22.999998}
+      - {x: 16, y: 21}
+      - {x: 14, y: 21}
+      indices: 0c0000000a0000001100000008000000110000000a0000001000000011000000080000000700000010000000080000000f0000001000000007000000060000000f000000070000000c000000110000000b000000050000000b000000110000001000000005000000110000000f000000050000001000000006000000050000000f0000000e0000000d0000000b000000090000000b0000000d0000000a0000000b000000090000000c0000000b0000000a000000080000000a00000009000000030000000800000009000000070000000800000003000000060000000700000003000000050000000600000003000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      jiatelin: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

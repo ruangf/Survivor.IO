@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 137e709b70e34e0408364e04126f80a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: leidianmaichongqi
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 48
+  maxTextureSize: 100
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leidianmaichongqi
+      rect:
+        serializedVersion: 2
+        x: 4.026751
+        y: 3.026751
+        width: 90.9465
+        height: 91.96034
+      alignment: 9
+      pivot: {x: 0.5054977, y: 0.510799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.500004, y: -46.00692}
+        - {x: -45.500004, y: -30.00692}
+        - {x: -45.500004, y: 13.99308}
+        - {x: -22.500004, y: 33.99308}
+        - {x: -7.500004, y: 45.99308}
+        - {x: 31.499996, y: 45.99308}
+        - {x: 45.499996, y: 34.99308}
+        - {x: 45.499996, y: -11.00692}
+        - {x: 3.4999962, y: -46.00692}
+      physicsShape:
+      - - {x: 25.499996, y: 43.993076}
+        - {x: -4.5000033, y: 43.993076}
+        - {x: -19.500002, y: 31.99308}
+        - {x: -42.5, y: 6.99308}
+        - {x: -44.500004, y: -5.00692}
+        - {x: -44.500004, y: -26.006918}
+        - {x: -31.500004, y: -40.00692}
+        - {x: -19.500002, y: -44.00692}
+        - {x: 3.4999962, y: -44.00692}
+        - {x: 44.499996, y: -8.00692}
+        - {x: 44.499996, y: 19.99308}
+        - {x: 41.499996, y: 31.99308}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df11cc4c4764fd99c381f273900a949
+      internalID: 21300000
+      vertices:
+      - {x: 81, y: 95}
+      - {x: 95, y: 38}
+      - {x: 95, y: 84}
+      - {x: 53, y: 3}
+      - {x: 42, y: 95}
+      - {x: 27, y: 83}
+      - {x: 11, y: 3}
+      - {x: 4, y: 63}
+      - {x: 4, y: 19}
+      indices: 080000000700000006000000050000000600000007000000030000000600000005000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      leidianmaichongqi: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

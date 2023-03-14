@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 027551a8f79d60145bc21240d94df8f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: jixiebi
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 48
+  maxTextureSize: 100
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jixiebi
+      rect:
+        serializedVersion: 2
+        x: 4.0761204
+        y: 2.0761204
+        width: 91.89713
+        height: 95.84776
+      alignment: 9
+      pivot: {x: 0.4997314, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.024685, y: -48}
+        - {x: -46.024685, y: -46}
+        - {x: -46.024685, y: -16}
+        - {x: -45.024685, y: -13}
+        - {x: -23.024685, y: 34}
+        - {x: -13.024685, y: 48}
+        - {x: 27.975315, y: 48}
+        - {x: 45.975315, y: 39}
+        - {x: 45.975315, y: -9}
+        - {x: -2.024685, y: -48}
+      physicsShape:
+      - - {x: 43.975315, y: 2}
+        - {x: 44.975315, y: 14}
+        - {x: 44.975315, y: 24}
+        - {x: 28.975315, y: 44}
+        - {x: 22.975313, y: 47}
+        - {x: 5.975315, y: 47}
+        - {x: -2.024685, y: 45.999996}
+        - {x: -21.024685, y: 38}
+        - {x: -16.024685, y: 6}
+        - {x: -22.024685, y: -7}
+        - {x: -34.024685, y: -8}
+        - {x: -45.024685, y: -22}
+        - {x: -45.024685, y: -41}
+        - {x: -43.02468, y: -45.999996}
+        - {x: -36.024685, y: -47}
+        - {x: -8.024685, y: -47}
+        - {x: 1.9753151, y: -35}
+        - {x: 26.975313, y: -19.999998}
+        - {x: 41.975315, y: -4.9999995}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48a0c9f6a0e4c86afd8ac1f5812f0e3
+      internalID: 21300000
+      vertices:
+      - {x: 78, y: 98}
+      - {x: 96, y: 41}
+      - {x: 96, y: 89}
+      - {x: 48, y: 2}
+      - {x: 37, y: 98}
+      - {x: 27, y: 84}
+      - {x: 13, y: 2}
+      - {x: 5, y: 37}
+      - {x: 4, y: 34}
+      - {x: 4, y: 4}
+      indices: 090000000800000006000000070000000600000008000000050000000600000007000000030000000600000005000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      jixiebi: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

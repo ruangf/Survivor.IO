@@ -1,0 +1,1009 @@
+fileFormatVersion: 2
+guid: 917cb301f6afa3f47930f25ef1a3c897
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: BigRewardBorder
+  - first:
+      213: 21300002
+    second: GiftSelectLine
+  - first:
+      213: 21300004
+    second: GiftSelectBG
+  - first:
+      213: 21300006
+    second: baoxiang_idle_1
+  - first:
+      213: 21300008
+    second: baoxiang_open_1
+  - first:
+      213: 21300010
+    second: BackBoard
+  - first:
+      213: 21300012
+    second: TaskProgressFG
+  - first:
+      213: 21300014
+    second: baoxiang_idle_2
+  - first:
+      213: 21300016
+    second: tiao1
+  - first:
+      213: 21300018
+    second: CarnivalIcon
+  - first:
+      213: 21300020
+    second: ProcessBar
+  - first:
+      213: 21300022
+    second: ProgressBarBack
+  - first:
+      213: 21300024
+    second: tiao
+  - first:
+      213: 21300026
+    second: TaskRewardBorder
+  - first:
+      213: 21300028
+    second: TaskProgressBG
+  - first:
+      213: 21300030
+    second: biaoti
+  - first:
+      213: 21300032
+    second: ProgressBarForward
+  - first:
+      213: 21300034
+    second: kuang1
+  - first:
+      213: 21300036
+    second: baoxiang_open_2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 0
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BigRewardBorder
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 256
+        width: 59
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 22, y: 22, z: 22, w: 22}
+      outline:
+      - - {x: -24.5, y: -27.000002}
+        - {x: -29.499998, y: -15.000001}
+        - {x: -29.499998, y: 26}
+        - {x: -27.5, y: 27.000002}
+        - {x: 17.5, y: 27.000002}
+        - {x: 29.499998, y: 24}
+        - {x: 29.499998, y: -21}
+        - {x: 26.499998, y: -27.000002}
+      physicsShape:
+      - - {x: -16.5, y: 26.999998}
+        - {x: -29.499998, y: 21}
+        - {x: -29.499998, y: -12}
+        - {x: -15.5, y: -26.999998}
+        - {x: 23.5, y: -26.999998}
+        - {x: 29.499998, y: -14}
+        - {x: 29.499998, y: 26.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba69eccab8f436badb8a312fb9913e2
+      internalID: 21300000
+      vertices:
+      - {x: 59, y: 51}
+      - {x: 56, y: -0.0000019073486}
+      - {x: 59, y: 6}
+      - {x: 47, y: 54}
+      - {x: 5, y: -0.0000019073486}
+      - {x: 2, y: 54}
+      - {x: 0.0000019073486, y: 53}
+      - {x: 0.0000019073486, y: 11.999999}
+      indices: 070000000600000004000000050000000400000006000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiftSelectLine
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 760
+        width: 63
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline:
+      - - {x: -26.499998, y: -28.5}
+        - {x: -31.5, y: -24.5}
+        - {x: -31.5, y: 26.499998}
+        - {x: -28.5, y: 28.5}
+        - {x: 29.499998, y: 28.5}
+        - {x: 31.5, y: 23.5}
+        - {x: 31.5, y: -23.5}
+        - {x: 30.5, y: -24.5}
+        - {x: 25.5, y: -28.5}
+      physicsShape:
+      - - {x: -25.5, y: 28.5}
+        - {x: -31.5, y: 23.5}
+        - {x: -31.5, y: -28.5}
+        - {x: 31.5, y: -28.5}
+        - {x: 31.5, y: 26.499998}
+        - {x: 27.5, y: 28.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88aa35230a7e433c99b786ded41b4b1d
+      internalID: 21300002
+      vertices:
+      - {x: 63, y: 52}
+      - {x: 62, y: 4}
+      - {x: 63, y: 5}
+      - {x: 61, y: 57}
+      - {x: 57, y: 0}
+      - {x: 5.000002, y: 0}
+      - {x: 3, y: 57}
+      - {x: 0, y: 55}
+      - {x: 0, y: 4}
+      indices: 080000000700000005000000060000000500000007000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiftSelectBG
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 104
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline:
+      - - {x: -48, y: -51.5}
+        - {x: -52, y: -46.5}
+        - {x: -52, y: 52.499996}
+        - {x: 52, y: 52.499996}
+        - {x: 52, y: -50.5}
+        - {x: 47, y: -52.499996}
+        - {x: -47, y: -52.499996}
+      physicsShape:
+      - - {x: -52, y: 52.499996}
+        - {x: -52, y: -52.499996}
+        - {x: 52, y: -52.499996}
+        - {x: 52, y: 52.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3a980a05a04be68fd2f301097975a0
+      internalID: 21300004
+      vertices:
+      - {x: 104, y: 105}
+      - {x: 99, y: 0.0000038146973}
+      - {x: 104, y: 2}
+      - {x: 5, y: 0.0000038146973}
+      - {x: 4, y: 1}
+      - {x: 0, y: 105}
+      - {x: 0, y: 6}
+      indices: 060000000500000004000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baoxiang_idle_1
+      rect:
+        serializedVersion: 2
+        x: 1210.0762
+        y: 165.07613
+        width: 98.89713
+        height: 88.84776
+      alignment: 9
+      pivot: {x: 0.4946946, y: 0.52813804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.52469, y: -42.499996}
+        - {x: -49.52469, y: -19.499996}
+        - {x: -49.52469, y: 20.500004}
+        - {x: -47.52469, y: 44.500004}
+        - {x: 46.47531, y: 44.500004}
+        - {x: 49.47531, y: 22.500004}
+        - {x: 49.47531, y: -26.499996}
+        - {x: 44.47531, y: -44.499996}
+        - {x: -44.52469, y: -44.499996}
+      physicsShape:
+      - - {x: -45.52469, y: 43.500004}
+        - {x: -48.52469, y: 29.500002}
+        - {x: -48.52469, y: -30.499996}
+        - {x: -43.524685, y: -43.499992}
+        - {x: 48.475307, y: -43.499992}
+        - {x: 48.475307, y: 43.500004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de29da67a8ed419c8d979b4fd69a84ea
+      internalID: 21300006
+      vertices:
+      - {x: 97, y: 92}
+      - {x: 100, y: 21}
+      - {x: 100, y: 70}
+      - {x: 95, y: 3}
+      - {x: 6, y: 3}
+      - {x: 5, y: 5}
+      - {x: 3, y: 92}
+      - {x: 1, y: 68}
+      - {x: 1, y: 28}
+      indices: 080000000700000005000000060000000500000007000000000000000500000006000000040000000500000000000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baoxiang_open_1
+      rect:
+        serializedVersion: 2
+        x: 464.0129
+        y: 543.0761
+        width: 96.98709
+        height: 92.84776
+      alignment: 9
+      pivot: {x: 0.4947781, y: 0.50538516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.50646, y: -46.5}
+        - {x: -48.50646, y: -34.5}
+        - {x: -48.50646, y: 45.5}
+        - {x: -47.50646, y: 46.5}
+        - {x: 44.49354, y: 46.5}
+        - {x: 48.49354, y: 39.5}
+        - {x: 48.49354, y: -20.5}
+        - {x: 44.49354, y: -46.5}
+      physicsShape:
+      - - {x: 46.49354, y: 46.499996}
+        - {x: -47.50646, y: 46.499996}
+        - {x: -47.50646, y: -4.4999995}
+        - {x: -44.50646, y: -45.499996}
+        - {x: 43.49354, y: -45.499996}
+        - {x: 47.49354, y: -4.4999995}
+        - {x: 47.49354, y: 45.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d73093bfd845de893d3b15c677cd16
+      internalID: 21300008
+      vertices:
+      - {x: 95, y: 96}
+      - {x: 99, y: 29}
+      - {x: 99, y: 89}
+      - {x: 95, y: 3}
+      - {x: 6, y: 3}
+      - {x: 3, y: 96}
+      - {x: 2, y: 95}
+      - {x: 2, y: 15}
+      indices: 070000000600000004000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackBoard
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 0
+        width: 274
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 190, y: 0, z: 32, w: 0}
+      outline:
+      - - {x: -134, y: -81.5}
+        - {x: -137, y: -77.5}
+        - {x: -137, y: 77.5}
+        - {x: -134, y: 80.5}
+        - {x: -131, y: 81.5}
+        - {x: 131, y: 81.5}
+        - {x: 134, y: 80.5}
+        - {x: 137, y: 77.5}
+        - {x: 137, y: -78.5}
+        - {x: 134, y: -81.5}
+      physicsShape:
+      - - {x: -136, y: 81.5}
+        - {x: -137, y: 80.5}
+        - {x: -137, y: -81.5}
+        - {x: 133.99998, y: -81.5}
+        - {x: 137, y: -79.49999}
+        - {x: 137, y: 81.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3946addd4254e299c609481663a6b68
+      internalID: 21300010
+      vertices:
+      - {x: 271, y: 162}
+      - {x: 274, y: 3}
+      - {x: 274, y: 159}
+      - {x: 271, y: 0}
+      - {x: 268, y: 163}
+      - {x: 6, y: 163}
+      - {x: 3, y: 162}
+      - {x: 3, y: 0}
+      - {x: 0, y: 159}
+      - {x: 0, y: 4}
+      indices: 090000000800000007000000060000000700000008000000030000000700000006000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaskProgressFG
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 543
+        width: 69
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 0, z: 10, w: 0}
+      outline:
+      - - {x: 34.5, y: -29}
+        - {x: -34.5, y: -29}
+        - {x: -34.5, y: -7}
+        - {x: -25.5, y: 29}
+        - {x: 34.5, y: 29}
+      physicsShape:
+      - - {x: -21.499998, y: 29}
+        - {x: -34.5, y: -2}
+        - {x: -34.5, y: -29}
+        - {x: 33.499996, y: -29}
+        - {x: 34.5, y: -28}
+        - {x: 34.5, y: 28}
+        - {x: 33.499996, y: 29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf043b1b53e4c89a3ca632db83a7438
+      internalID: 21300012
+      vertices:
+      - {x: 9, y: 58}
+      - {x: 69, y: 0}
+      - {x: 69, y: 58}
+      - {x: 0, y: 22}
+      - {x: 0, y: 0}
+      indices: 040000000300000001000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baoxiang_idle_2
+      rect:
+        serializedVersion: 2
+        x: 106.07612
+        y: 760.0761
+        width: 86.84776
+        height: 85.84776
+      alignment: 9
+      pivot: {x: 0.4942428, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.5, y: -43}
+        - {x: -43.5, y: -43}
+        - {x: -43.5, y: 41}
+        - {x: -35.5, y: 43}
+        - {x: 23.5, y: 43}
+        - {x: 42.5, y: 42}
+        - {x: 43.5, y: 40}
+      physicsShape:
+      - - {x: -25.5, y: 42}
+        - {x: -43.499996, y: 38}
+        - {x: -43.499996, y: -42}
+        - {x: -39.5, y: -42.999996}
+        - {x: 43.5, y: -42.999996}
+        - {x: 43.5, y: 42}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de5c9dd28394f718d68df07dd36d46b
+      internalID: 21300014
+      vertices:
+      - {x: 93, y: 92}
+      - {x: 94, y: 7}
+      - {x: 94, y: 90}
+      - {x: 74, y: 93}
+      - {x: 15, y: 93}
+      - {x: 7, y: 91}
+      - {x: 7, y: 7}
+      indices: 060000000500000001000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiao1
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 165
+        width: 167
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 60, z: 0, w: 6}
+      outline:
+      - - {x: -10.5, y: -70}
+        - {x: -83.5, y: -28}
+        - {x: -83.5, y: 66}
+        - {x: -78.5, y: 70}
+        - {x: 79.5, y: 70}
+        - {x: 83.5, y: 68}
+        - {x: 83.5, y: -31}
+        - {x: 14.5, y: -70}
+      physicsShape:
+      - - {x: -78.5, y: 70}
+        - {x: -83.5, y: 66}
+        - {x: -83.5, y: -25}
+        - {x: -7.4999995, y: -69}
+        - {x: 5.5, y: -69}
+        - {x: 83.5, y: -25}
+        - {x: 83.5, y: 66}
+        - {x: 78.5, y: 70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f64d88a0e243ccb0f8107d1253c7ea
+      internalID: 21300016
+      vertices:
+      - {x: 163, y: 140}
+      - {x: 167, y: 39}
+      - {x: 167, y: 138}
+      - {x: 98, y: 0}
+      - {x: 73, y: 0}
+      - {x: 5, y: 140}
+      - {x: 0, y: 136}
+      - {x: 0, y: 42}
+      indices: 070000000600000004000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarnivalIcon
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 0.012912512
+        width: 128
+        height: 123.935776
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5001549}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: -61.9808}
+        - {x: -64, y: -61.9808}
+        - {x: -64, y: 39.0192}
+        - {x: -36, y: 62.0192}
+        - {x: 43, y: 62.0192}
+        - {x: 64, y: 32.0192}
+        - {x: 64, y: -45.9808}
+      physicsShape:
+      - - {x: 61, y: -36.9808}
+        - {x: 64, y: -27.9808}
+        - {x: 64, y: -8.980801}
+        - {x: 57, y: 4.0191994}
+        - {x: 57, y: 15.019198}
+        - {x: 41, y: 33.0192}
+        - {x: 39, y: 49.019196}
+        - {x: 25, y: 59.019196}
+        - {x: 9, y: 59.019196}
+        - {x: 6, y: 56.0192}
+        - {x: -9, y: 47.0192}
+        - {x: -17, y: 56.0192}
+        - {x: -22, y: 56.0192}
+        - {x: -41, y: 48.0192}
+        - {x: -50, y: 21.0192}
+        - {x: -53.999996, y: 20.019197}
+        - {x: -64, y: 6.0191994}
+        - {x: -64, y: -7.9808006}
+        - {x: -59.999996, y: -30.9808}
+        - {x: -56, y: -49.9808}
+        - {x: -35, y: -59.980797}
+        - {x: 6, y: -59.980797}
+        - {x: 25, y: -57.9808}
+        - {x: 42, y: -54.9808}
+        - {x: 45, y: -53.980797}
+        - {x: 55, y: -42.980797}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecbc36408e64142a81fcb2fbebd7d2f
+      internalID: 21300018
+      vertices:
+      - {x: 128, y: 96}
+      - {x: 112, y: 2}
+      - {x: 128, y: 18}
+      - {x: 107, y: 126}
+      - {x: 28, y: 126}
+      - {x: 0, y: 103}
+      - {x: 0, y: 2}
+      indices: 060000000500000001000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessBar
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 307
+        width: 7
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -18}
+        - {x: -3.5, y: 18}
+        - {x: 3.5, y: 18}
+        - {x: 3.5, y: -18}
+      physicsShape:
+      - - {x: -3.5, y: 18}
+        - {x: -3.5, y: -18}
+        - {x: 3.5, y: -18}
+        - {x: 3.5, y: 18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1431cb7f0540d3b3174553103cf5a5
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 7, y: 36}
+      - {x: 0, y: 0}
+      - {x: 7, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBarBack
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 60
+        width: 10
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -9.5}
+        - {x: -5, y: 9.5}
+        - {x: 5, y: 9.5}
+        - {x: 5, y: -9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d86d986f2d44dba574f32876e71550
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 19}
+      - {x: 10, y: 19}
+      - {x: 0, y: 0}
+      - {x: 10, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiao
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 126
+        width: 131
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 43, z: 0, w: 10}
+      outline:
+      - - {x: -9.5, y: -54.000004}
+        - {x: -65.5, y: -32}
+        - {x: -65.5, y: 54.000004}
+        - {x: 65.5, y: 54.000004}
+        - {x: 65.5, y: -32}
+        - {x: 18.5, y: -54.000004}
+      physicsShape:
+      - - {x: -63.5, y: 53.999996}
+        - {x: -65.5, y: 51}
+        - {x: -65.5, y: -25}
+        - {x: -19.5, y: -53.999996}
+        - {x: 16.5, y: -53.999996}
+        - {x: 65.5, y: -22.999998}
+        - {x: 65.5, y: 52}
+        - {x: 62.5, y: 53.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9367a4bfcd944a482c48a3bc379c106
+      internalID: 21300024
+      vertices:
+      - {x: 131, y: 108}
+      - {x: 84, y: -0.0000038146973}
+      - {x: 131, y: 22}
+      - {x: 56, y: -0.0000038146973}
+      - {x: 0, y: 108}
+      - {x: 0, y: 22}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaskRewardBorder
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 543
+        width: 52
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 22, y: 22, z: 22, w: 22}
+      outline:
+      - - {x: -25, y: -27.000002}
+        - {x: -26, y: -24}
+        - {x: -26, y: 24}
+        - {x: -17, y: 27.000002}
+        - {x: 20, y: 27.000002}
+        - {x: 26, y: 15.000001}
+        - {x: 26, y: -14}
+        - {x: 24, y: -16}
+        - {x: 12, y: -27.000002}
+      physicsShape:
+      - - {x: -19, y: 26.999998}
+        - {x: -26, y: 21}
+        - {x: -26, y: -25}
+        - {x: -14.999999, y: -26.999998}
+        - {x: 14.999999, y: -26.999998}
+        - {x: 26, y: -17}
+        - {x: 26, y: 22.999998}
+        - {x: 12, y: 26.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c3a11ce9824c0e957d98b78d7f6df1
+      internalID: 21300026
+      vertices:
+      - {x: 52, y: 42}
+      - {x: 50, y: 11}
+      - {x: 52, y: 13}
+      - {x: 46, y: 54}
+      - {x: 38, y: -0.0000019073486}
+      - {x: 9, y: 54}
+      - {x: 1, y: -0.0000019073486}
+      - {x: 0, y: 51}
+      - {x: 0, y: 3}
+      indices: 080000000700000006000000050000000600000007000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaskProgressBG
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 0
+        width: 69
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 0, z: 10, w: 0}
+      outline:
+      - - {x: 34.5, y: -29}
+        - {x: -34.5, y: -29}
+        - {x: -34.5, y: -7}
+        - {x: -25.5, y: 29}
+        - {x: 34.5, y: 29}
+      physicsShape:
+      - - {x: -21.499998, y: 29}
+        - {x: -34.5, y: -2}
+        - {x: -34.5, y: -29}
+        - {x: 33.499996, y: -29}
+        - {x: 34.5, y: -28}
+        - {x: 34.5, y: 28}
+        - {x: 33.499996, y: 29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f2e5a80d104fecb71a70a35059c912
+      internalID: 21300028
+      vertices:
+      - {x: 9, y: 58}
+      - {x: 69, y: 0}
+      - {x: 69, y: 58}
+      - {x: 0, y: 22}
+      - {x: 0, y: 0}
+      indices: 040000000300000001000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biaoti
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 462
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 200, y: 0, z: 200, w: 0}
+      outline:
+      - - {x: -41, y: -59.500004}
+        - {x: -39, y: -74.5}
+        - {x: -44, y: -81.5}
+        - {x: -185, y: -81.5}
+        - {x: -231, y: -36.5}
+        - {x: -231, y: -6.5}
+        - {x: -186, y: 50.5}
+        - {x: -132, y: 47.5}
+        - {x: -132, y: 77.5}
+        - {x: -127, y: 81.5}
+        - {x: -116.99999, y: 81.5}
+        - {x: -115, y: 78.5}
+        - {x: 113, y: 78.5}
+        - {x: 116, y: 81.5}
+        - {x: 126, y: 81.5}
+        - {x: 132, y: 73.5}
+        - {x: 131, y: 47.5}
+        - {x: 183, y: 48.5}
+        - {x: 231, y: -7.5000005}
+        - {x: 231, y: -32.5}
+        - {x: 182, y: -81.5}
+        - {x: 42, y: -81.5}
+        - {x: 39, y: -79.5}
+        - {x: 38, y: -59.500004}
+      physicsShape:
+      - - {x: 179, y: -70.5}
+        - {x: 231, y: -20.5}
+        - {x: 231, y: -12.5}
+        - {x: 229, y: -6.5}
+        - {x: 182, y: 47.5}
+        - {x: 127, y: 76.5}
+        - {x: -129, y: 76.5}
+        - {x: -131, y: 74.5}
+        - {x: -131, y: 46.5}
+        - {x: -183, y: 47.5}
+        - {x: -231, y: -7.4999995}
+        - {x: -231, y: -21.499998}
+        - {x: -230, y: -23.5}
+        - {x: -183, y: -70.5}
+        - {x: -44, y: -70.5}
+        - {x: -42.999996, y: -44.5}
+        - {x: 42.999996, y: -64.5}
+        - {x: 47, y: -70.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8a42ce3d614faa9e2eb966c2757c61
+      internalID: 21300030
+      vertices:
+      - {x: 363, y: 155}
+      - {x: 357, y: 163}
+      - {x: 362, y: 129}
+      - {x: 414, y: 130}
+      - {x: 462, y: 49}
+      - {x: 462, y: 74}
+      - {x: 413, y: 0}
+      - {x: 347, y: 163}
+      - {x: 344, y: 160}
+      - {x: 273, y: 0}
+      - {x: 270, y: 2}
+      - {x: 269, y: 21.999996}
+      - {x: 190, y: 21.999996}
+      - {x: 116, y: 160}
+      - {x: 187, y: 0}
+      - {x: 114.00001, y: 163}
+      - {x: 104, y: 163}
+      - {x: 99, y: 159}
+      - {x: 99, y: 129}
+      - {x: 46, y: 0}
+      - {x: 45, y: 132}
+      - {x: 0, y: 75}
+      - {x: 0, y: 45}
+      - {x: 192, y: 7}
+      indices: 0e0000000c000000170000001600000015000000130000001400000013000000150000001200000013000000140000000e0000001300000012000000110000000e00000012000000100000000e000000110000000f0000000e000000100000000d0000000e0000000f0000000c0000000e0000000d000000080000000c0000000d0000000b0000000c000000080000000a0000000b00000008000000090000000a00000008000000060000000900000008000000070000000600000008000000020000000600000007000000010000000200000007000000030000000600000002000000040000000600000003000000050000000400000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBarForward
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 708
+        width: 822
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 411, y: -25}
+        - {x: -411, y: -25}
+        - {x: -411, y: 22}
+        - {x: -408, y: 25}
+        - {x: 408, y: 25}
+        - {x: 411, y: 22}
+      physicsShape:
+      - - {x: -411, y: 25}
+        - {x: -411, y: -25}
+        - {x: 411, y: -25}
+        - {x: 411, y: 25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9803214dd7d473d972ac34afd84ef66
+      internalID: 21300032
+      vertices:
+      - {x: 819, y: 50}
+      - {x: 822, y: 0}
+      - {x: 822, y: 47}
+      - {x: 3, y: 50}
+      - {x: 0, y: 47}
+      - {x: 0, y: 0}
+      indices: 050000000400000001000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuang1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1039
+        height: 541
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 43, y: 48, z: 43, w: 390}
+      outline:
+      - - {x: 518.5, y: -270.5}
+        - {x: -519.5, y: -270.5}
+        - {x: -519.5, y: 270.5}
+        - {x: 518.5, y: 270.5}
+        - {x: 519.5, y: 269.5}
+        - {x: 519.5, y: -269.5}
+      physicsShape:
+      - - {x: -519.5, y: 270.5}
+        - {x: -519.5, y: -270.5}
+        - {x: 519.5, y: -270.5}
+        - {x: 519.5, y: 270.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7bb8ae99324cdea571b4c5c4634180
+      internalID: 21300034
+      vertices:
+      - {x: 1038, y: 541}
+      - {x: 1039, y: 1}
+      - {x: 1039, y: 540}
+      - {x: 1038, y: 0}
+      - {x: 0, y: 541}
+      - {x: 0, y: 0}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baoxiang_open_2
+      rect:
+        serializedVersion: 2
+        x: 563.0761
+        y: 543.0761
+        width: 93.84776
+        height: 93.84776
+      alignment: 9
+      pivot: {x: 0.4786889, y: 0.48934445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: -47}
+        - {x: -47, y: -47}
+        - {x: -47, y: 47}
+        - {x: 47, y: 47}
+        - {x: 47, y: -25}
+      physicsShape:
+      - - {x: -47, y: 47}
+        - {x: -47, y: -46.999996}
+        - {x: 45, y: -46.999996}
+        - {x: 46.999996, y: -5.9999995}
+        - {x: 46.999996, y: 44}
+        - {x: 37.999996, y: 47}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23c0c13dfbe4c23a546c4dae511b7d5
+      internalID: 21300036
+      vertices:
+      - {x: 99, y: 98}
+      - {x: 97, y: 4}
+      - {x: 99, y: 26}
+      - {x: 5, y: 98}
+      - {x: 5, y: 4}
+      indices: 040000000300000001000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kuang1: 21300034
+      BigRewardBorder: 21300000
+      TaskProgressFG: 21300012
+      baoxiang_open_1: 21300008
+      GiftSelectBG: 21300004
+      baoxiang_idle_2: 21300014
+      BackBoard: 21300010
+      CarnivalIcon: 21300018
+      ProcessBar: 21300020
+      TaskProgressBG: 21300028
+      ProgressBarForward: 21300032
+      tiao: 21300024
+      TaskRewardBorder: 21300026
+      baoxiang_idle_1: 21300006
+      biaoti: 21300030
+      baoxiang_open_2: 21300036
+      tiao1: 21300016
+      GiftSelectLine: 21300002
+      ProgressBarBack: 21300022
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

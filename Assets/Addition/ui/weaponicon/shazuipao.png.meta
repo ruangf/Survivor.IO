@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: ecbbe658cf506774ab553aaa9ebbca52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: shazuipao
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 48
+  maxTextureSize: 100
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shazuipao
+      rect:
+        serializedVersion: 2
+        x: 2.042908
+        y: 8.026751
+        width: 95.880974
+        height: 85.96034
+      alignment: 9
+      pivot: {x: 0.5001732, y: 0.48828623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.983391, y: -43.00692}
+        - {x: -47.98339, y: -43.00692}
+        - {x: -47.98339, y: -10.00692}
+        - {x: -34.98339, y: 14.99308}
+        - {x: -9.983391, y: 42.99308}
+        - {x: 48.01661, y: 42.99308}
+        - {x: 48.01661, y: 3.9930801}
+        - {x: 46.01661, y: -6.00692}
+        - {x: 10.016609, y: -40.00692}
+      physicsShape:
+      - - {x: 20.016607, y: -25.00692}
+        - {x: 34.01661, y: -11.006919}
+        - {x: 44.01661, y: 8.993079}
+        - {x: 46.016605, y: 17.99308}
+        - {x: 46.016605, y: 34.99308}
+        - {x: 39.01661, y: 40.99308}
+        - {x: 11.016609, y: 40.99308}
+        - {x: -15.983391, y: 26.99308}
+        - {x: -27.98339, y: 14.99308}
+        - {x: -32.98339, y: -3.0069199}
+        - {x: -44.98339, y: -14.00692}
+        - {x: -45.983387, y: -25.00692}
+        - {x: -45.983387, y: -40.00692}
+        - {x: -35.98339, y: -42.00692}
+        - {x: -20.98339, y: -42.00692}
+        - {x: -16.98339, y: -41.006916}
+        - {x: -5.983391, y: -30.00692}
+        - {x: 2.0166092, y: -32.00692}
+        - {x: 13.016609, y: -31.006918}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda834ff295641d9a06603cd6d2e7844
+      internalID: 21300000
+      vertices:
+      - {x: 98, y: 94}
+      - {x: 96, y: 45}
+      - {x: 98, y: 55}
+      - {x: 60, y: 11}
+      - {x: 42, y: 8}
+      - {x: 40, y: 94}
+      - {x: 15, y: 66}
+      - {x: 2, y: 41}
+      - {x: 2, y: 8}
+      indices: 080000000700000004000000060000000400000007000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      shazuipao: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

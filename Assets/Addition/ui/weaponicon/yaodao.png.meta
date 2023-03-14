@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 04bb037eb1a97514daf162fc8e49bdd7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: yaodao
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 48
+  maxTextureSize: 100
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yaodao
+      rect:
+        serializedVersion: 2
+        x: 9.07612
+        y: 3.026751
+        width: 88.887596
+        height: 92.9465
+      alignment: 9
+      pivot: {x: 0.46040037, y: 0.5053794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5199165, y: -43.500004}
+        - {x: -44.519917, y: 0.4999962}
+        - {x: -44.519917, y: 43.499996}
+        - {x: -40.519917, y: 46.499996}
+        - {x: -19.519917, y: 46.499996}
+        - {x: 44.480083, y: -19.500004}
+        - {x: 44.480083, y: -46.500004}
+        - {x: 10.480083, y: -46.500004}
+      physicsShape:
+      - - {x: 38.480083, y: -28.500004}
+        - {x: 17.480083, y: -6.500004}
+        - {x: -6.5199165, y: 7.499996}
+        - {x: -29.519917, y: 44.499996}
+        - {x: -37.519917, y: 44.499996}
+        - {x: -43.519913, y: 32.499996}
+        - {x: -43.519913, y: 5.4999957}
+        - {x: -40.519917, y: -2.5000038}
+        - {x: -9.519917, y: -26.500002}
+        - {x: -8.519917, y: -35.500004}
+        - {x: 9.480083, y: -45.5}
+        - {x: 11.4800825, y: -45.5}
+        - {x: 16.480082, y: -39.5}
+        - {x: 31.480083, y: -45.5}
+        - {x: 38.480083, y: -45.5}
+        - {x: 41.480083, y: -41.500004}
+        - {x: 42.48008, y: -35.500004}
+        - {x: 42.48008, y: -31.500004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5953dc77744d4010afc5947103b03d2e
+      internalID: 21300000
+      vertices:
+      - {x: 98, y: 30}
+      - {x: 64, y: 3}
+      - {x: 98, y: 3}
+      - {x: 49, y: 6}
+      - {x: 34, y: 96}
+      - {x: 13, y: 96}
+      - {x: 9, y: 93}
+      - {x: 9, y: 50}
+      indices: 070000000600000003000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      yaodao: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

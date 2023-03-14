@@ -1,0 +1,927 @@
+fileFormatVersion: 2
+guid: 31a5f05583f52a441ba25629f73cc8c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: reward_box_bg2
+  - first:
+      213: 21300002
+    second: imgbig_1
+  - first:
+      213: 21300004
+    second: reward_box_item_bg
+  - first:
+      213: 21300006
+    second: item_bg_blue
+  - first:
+      213: 21300008
+    second: common_top_bg
+  - first:
+      213: 21300010
+    second: imgbig_2
+  - first:
+      213: 21300012
+    second: down_bg
+  - first:
+      213: 21300014
+    second: imgbig_4
+  - first:
+      213: 21300016
+    second: day_bg_2
+  - first:
+      213: 21300018
+    second: item_bg_yellow
+  - first:
+      213: 21300020
+    second: imgbig_3
+  - first:
+      213: 21300022
+    second: day_bg
+  - first:
+      213: 21300024
+    second: reward_box
+  - first:
+      213: 21300026
+    second: GiftPackBG
+  - first:
+      213: 21300028
+    second: item_bg_gray
+  - first:
+      213: 21300030
+    second: reward_box_bg1
+  - first:
+      213: 21300032
+    second: item_bg_green
+  - first:
+      213: 21300034
+    second: day_box
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 0
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: reward_box_bg2
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 581
+        width: 39
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -33}
+        - {x: -19.5, y: -33}
+        - {x: -19.5, y: 33}
+        - {x: 19.5, y: 33}
+      physicsShape:
+      - - {x: -19.5, y: -33}
+        - {x: 19.5, y: -33}
+        - {x: 19.5, y: 33}
+        - {x: -19.5, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1127729011cf4dab8f075daf4edd5de2
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 66}
+      - {x: 39, y: 0}
+      - {x: 39, y: 66}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbig_1
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 581
+        width: 142
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: -71.5}
+        - {x: -71, y: -65.5}
+        - {x: -71, y: 71.5}
+        - {x: 60.000004, y: 71.5}
+        - {x: 71, y: 58.499996}
+        - {x: 71, y: -58.499996}
+        - {x: 58, y: -71.5}
+      physicsShape:
+      - - {x: -55, y: 71.5}
+        - {x: -71, y: 54.5}
+        - {x: -71, y: -69.5}
+        - {x: -58.999996, y: -71.5}
+        - {x: 68, y: -71.5}
+        - {x: 71, y: -59.499996}
+        - {x: 71, y: 54.5}
+        - {x: 56, y: 71.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64efdbab272e44178a019feb20c00488
+      internalID: 21300002
+      vertices:
+      - {x: 131, y: 143}
+      - {x: 142, y: 13.000004}
+      - {x: 142, y: 130}
+      - {x: 129, y: 0}
+      - {x: 14, y: 0}
+      - {x: 0, y: 143}
+      - {x: 0, y: 6}
+      indices: 060000000500000004000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_box_item_bg
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 258
+        width: 119
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 30, z: 30, w: 30}
+      outline:
+      - - {x: 59.500004, y: -54.5}
+        - {x: -59.500004, y: -54.5}
+        - {x: -59.500004, y: 54.5}
+        - {x: 59.500004, y: 54.5}
+      physicsShape:
+      - - {x: -59.499996, y: 54.5}
+        - {x: -59.499996, y: -54.5}
+        - {x: 59.499996, y: -54.5}
+        - {x: 59.499996, y: 54.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381ef87d03564647bc6758538891db57
+      internalID: 21300004
+      vertices:
+      - {x: -0.0000038146973, y: 109}
+      - {x: 119, y: 0}
+      - {x: 119, y: 109}
+      - {x: -0.0000038146973, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_bg_blue
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 0
+        width: 325
+        height: 443
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -158.5, y: -221.49998}
+        - {x: -162.5, y: -217.5}
+        - {x: -162.5, y: 214.5}
+        - {x: -161.5, y: 218.5}
+        - {x: -158.5, y: 221.49998}
+        - {x: 158.5, y: 221.49998}
+        - {x: 161.5, y: 218.5}
+        - {x: 161.5, y: 210.5}
+        - {x: 162.5, y: 209.5}
+        - {x: 162.5, y: -217.5}
+        - {x: 158.5, y: -221.49998}
+      physicsShape:
+      - - {x: -161.5, y: 221.49998}
+        - {x: -161.5, y: -207.5}
+        - {x: -158.49998, y: -209.5}
+        - {x: 161.5, y: -209.5}
+        - {x: 161.5, y: 221.49998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a52285bf4354eaa853c07b84461c408
+      internalID: 21300006
+      vertices:
+      - {x: 324, y: 440}
+      - {x: 321, y: 443}
+      - {x: 324, y: 432}
+      - {x: 325, y: 4}
+      - {x: 325, y: 431}
+      - {x: 321, y: 0.000015258789}
+      - {x: 4, y: 443}
+      - {x: 4, y: 0.000015258789}
+      - {x: 1, y: 440}
+      - {x: 0, y: 436}
+      - {x: 0, y: 4}
+      indices: 0a0000000900000007000000080000000700000009000000060000000700000008000000050000000700000006000000010000000500000006000000030000000500000001000000020000000300000001000000040000000300000002000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: common_top_bg
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1080
+        height: 579
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 573, z: 0, w: 0}
+      outline:
+      - - {x: 540, y: -289.5}
+        - {x: -540, y: -289.5}
+        - {x: -540, y: 289.5}
+        - {x: 540, y: 289.5}
+      physicsShape:
+      - - {x: -540, y: 289.5}
+        - {x: -540, y: -289.5}
+        - {x: 540, y: -289.5}
+        - {x: 540, y: 289.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5a1ba59b394d48b3d1018911bdbdc7
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 579}
+      - {x: 1080, y: 0}
+      - {x: 1080, y: 579}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbig_2
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 581
+        width: 142
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: -71.5}
+        - {x: -71, y: -65.5}
+        - {x: -71, y: 71.5}
+        - {x: 60.000004, y: 71.5}
+        - {x: 71, y: 58.499996}
+        - {x: 71, y: -58.499996}
+        - {x: 58, y: -71.5}
+      physicsShape:
+      - - {x: -55, y: 71.5}
+        - {x: -71, y: 54.5}
+        - {x: -71, y: -69.5}
+        - {x: -58.999996, y: -71.5}
+        - {x: 68, y: -71.5}
+        - {x: 71, y: -59.499996}
+        - {x: 71, y: 54.5}
+        - {x: 56, y: 71.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ff4cdd49464efdae72851351c233ac
+      internalID: 21300010
+      vertices:
+      - {x: 131, y: 143}
+      - {x: 142, y: 13.000004}
+      - {x: 142, y: 130}
+      - {x: 129, y: 0}
+      - {x: 14, y: 0}
+      - {x: 0, y: 143}
+      - {x: 0, y: 6}
+      indices: 060000000500000004000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: down_bg
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 581
+        width: 48
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: -91.5}
+        - {x: -24, y: -91.5}
+        - {x: -24, y: 91.5}
+        - {x: 24, y: 91.5}
+      physicsShape:
+      - - {x: -24, y: -91.5}
+        - {x: 24, y: -91.5}
+        - {x: 24, y: 91.5}
+        - {x: -24, y: 91.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb07eee744b4a5995a08994594b8d68
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 183}
+      - {x: 48, y: 0}
+      - {x: 48, y: 183}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbig_4
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 581
+        width: 142
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: -71.5}
+        - {x: -71, y: -65.5}
+        - {x: -71, y: 71.5}
+        - {x: 60.000004, y: 71.5}
+        - {x: 71, y: 58.499996}
+        - {x: 71, y: -58.499996}
+        - {x: 58, y: -71.5}
+      physicsShape:
+      - - {x: -55, y: 71.5}
+        - {x: -71, y: 54.5}
+        - {x: -71, y: -69.5}
+        - {x: -58.999996, y: -71.5}
+        - {x: 68, y: -71.5}
+        - {x: 71, y: -59.499996}
+        - {x: 71, y: 54.5}
+        - {x: 56, y: 71.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac12d9d2b92c44af95bfaebb63016732
+      internalID: 21300014
+      vertices:
+      - {x: 131, y: 143}
+      - {x: 142, y: 13.000004}
+      - {x: 142, y: 130}
+      - {x: 129, y: 0}
+      - {x: 14, y: 0}
+      - {x: 0, y: 143}
+      - {x: 0, y: 6}
+      indices: 060000000500000004000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: day_bg_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 581
+        width: 293
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 146.5, y: -86}
+        - {x: -146.5, y: -86}
+        - {x: -146.5, y: 86}
+        - {x: 83.5, y: 86}
+        - {x: 89.5, y: 70}
+        - {x: 109.5, y: 18}
+        - {x: 112.5, y: 10}
+        - {x: 116.5, y: 0}
+        - {x: 121.5, y: -13}
+        - {x: 123.5, y: -18}
+        - {x: 126.5, y: -26}
+        - {x: 133.5, y: -44}
+        - {x: 143.5, y: -70}
+        - {x: 146.5, y: -76}
+      physicsShape:
+      - - {x: 105.49999, y: 26}
+        - {x: 86.5, y: 75}
+        - {x: 81.5, y: 85.99999}
+        - {x: -146.49998, y: 85.99999}
+        - {x: -146.49998, y: -85.99999}
+        - {x: 146.49998, y: -85.99999}
+        - {x: 146.49998, y: -78}
+        - {x: 122.5, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89488cb072d4f16a7c92cbf0ea8e375
+      internalID: 21300016
+      vertices:
+      - {x: 290, y: 16}
+      - {x: 293, y: 0}
+      - {x: 293, y: 10}
+      - {x: 280, y: 42}
+      - {x: 273, y: 60}
+      - {x: 270, y: 68}
+      - {x: 268, y: 73}
+      - {x: 263, y: 86}
+      - {x: 259, y: 96}
+      - {x: 256, y: 104}
+      - {x: 236, y: 156}
+      - {x: 230, y: 172}
+      - {x: 0, y: 172}
+      - {x: 0, y: 0}
+      indices: 0d0000000c000000010000000b000000010000000c0000000a000000010000000b00000009000000010000000a000000080000000100000009000000070000000100000008000000060000000100000007000000050000000100000006000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_bg_yellow
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 0
+        width: 325
+        height: 443
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -158.5, y: -221.49998}
+        - {x: -162.5, y: -217.5}
+        - {x: -162.5, y: 209.5}
+        - {x: -161.5, y: 210.5}
+        - {x: -161.5, y: 218.5}
+        - {x: -158.5, y: 221.49998}
+        - {x: 158.5, y: 221.49998}
+        - {x: 161.5, y: 218.5}
+        - {x: 162.5, y: 213.5}
+        - {x: 162.5, y: -217.5}
+        - {x: 158.5, y: -221.49998}
+      physicsShape:
+      - - {x: -161.5, y: 221.49998}
+        - {x: -161.5, y: -209.5}
+        - {x: 161.5, y: -209.5}
+        - {x: 161.5, y: 221.49998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78eaf25c5474122bca8b0e017009f91
+      internalID: 21300018
+      vertices:
+      - {x: 324, y: 440}
+      - {x: 325, y: 4}
+      - {x: 325, y: 435}
+      - {x: 321, y: 443}
+      - {x: 321, y: 0.000015258789}
+      - {x: 4, y: 443}
+      - {x: 4, y: 0.000015258789}
+      - {x: 1, y: 440}
+      - {x: 1, y: 432}
+      - {x: 0, y: 431}
+      - {x: 0, y: 4}
+      indices: 0a0000000900000006000000080000000600000009000000070000000600000008000000050000000600000007000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbig_3
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 113
+        width: 142
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: -71.5}
+        - {x: -71, y: -65.5}
+        - {x: -71, y: 71.5}
+        - {x: 60.000004, y: 71.5}
+        - {x: 71, y: 58.499996}
+        - {x: 71, y: -58.499996}
+        - {x: 58, y: -71.5}
+      physicsShape:
+      - - {x: -55, y: 71.5}
+        - {x: -71, y: 54.5}
+        - {x: -71, y: -69.5}
+        - {x: -58.999996, y: -71.5}
+        - {x: 68, y: -71.5}
+        - {x: 71, y: -59.499996}
+        - {x: 71, y: 54.5}
+        - {x: 56, y: 71.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99df51644a0c49ac8e6bbaa0cb313917
+      internalID: 21300020
+      vertices:
+      - {x: 131, y: 143}
+      - {x: 142, y: 13.000004}
+      - {x: 142, y: 130}
+      - {x: 129, y: 0}
+      - {x: 14, y: 0}
+      - {x: 0, y: 143}
+      - {x: 0, y: 6}
+      indices: 060000000500000004000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: day_bg
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 755
+        width: 160
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: -50}
+        - {x: -80, y: -50}
+        - {x: -80, y: 41}
+        - {x: -71, y: 50}
+        - {x: 72, y: 50}
+        - {x: 80, y: 42}
+        - {x: 80, y: -44}
+      physicsShape:
+      - - {x: -79, y: 50}
+        - {x: -79.99999, y: 44}
+        - {x: -79.99999, y: -47}
+        - {x: -71, y: -50}
+        - {x: 79.99999, y: -50}
+        - {x: 79.99999, y: 50}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7591b2ad1141efb79158da3fb40eb9
+      internalID: 21300022
+      vertices:
+      - {x: 160, y: 92}
+      - {x: 158, y: 0}
+      - {x: 160, y: 6}
+      - {x: 152, y: 100}
+      - {x: 9, y: 100}
+      - {x: 0, y: 91}
+      - {x: 0, y: 0}
+      indices: 060000000500000001000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_box
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 0
+        width: 183
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.5, y: -55.5}
+        - {x: -91.5, y: -11.5}
+        - {x: -91.5, y: 18.5}
+        - {x: -64.5, y: 55.5}
+        - {x: 64.5, y: 55.5}
+        - {x: 91.5, y: 20.5}
+        - {x: 91.5, y: -11.5}
+        - {x: 70.5, y: -55.5}
+      physicsShape:
+      - - {x: 91.5, y: 4.5}
+        - {x: 89.5, y: 10.5}
+        - {x: 81.5, y: 22.5}
+        - {x: 63.5, y: 53.499996}
+        - {x: 60.499996, y: 55.5}
+        - {x: -61.5, y: 55.5}
+        - {x: -62.5, y: 54.5}
+        - {x: -91.5, y: 4.5}
+        - {x: -91.5, y: -5.5}
+        - {x: -65.5, y: -50.5}
+        - {x: -61.5, y: -55.5}
+        - {x: 62.5, y: -55.5}
+        - {x: 63.5, y: -54.5}
+        - {x: 75.5, y: -33.499996}
+        - {x: 91.5, y: -7.4999995}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2880fb580c144df5835b2b69ebf364b5
+      internalID: 21300024
+      vertices:
+      - {x: 183, y: 76}
+      - {x: 162, y: 0}
+      - {x: 183, y: 44}
+      - {x: 156, y: 111}
+      - {x: 27, y: 111}
+      - {x: 20, y: 0}
+      - {x: 0, y: 74}
+      - {x: 0, y: 44}
+      indices: 070000000600000005000000040000000500000006000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiftPackBG
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 0
+        width: 54
+        height: 182
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.000002, y: -91}
+        - {x: -27.000002, y: -91}
+        - {x: -27.000002, y: 91}
+        - {x: 27.000002, y: 91}
+      physicsShape:
+      - - {x: -26.999998, y: -91}
+        - {x: 26.999998, y: -91}
+        - {x: 26.999998, y: 91}
+        - {x: -26.999998, y: 91}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52102a888bd44d6855d48d69e2805cf
+      internalID: 21300026
+      vertices:
+      - {x: -0.0000019073486, y: 182}
+      - {x: 54, y: 0}
+      - {x: 54, y: 182}
+      - {x: -0.0000019073486, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_bg_gray
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 445
+        width: 325
+        height: 443
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -158.5, y: -221.49998}
+        - {x: -162.5, y: -217.5}
+        - {x: -162.5, y: 214.5}
+        - {x: -161.5, y: 218.5}
+        - {x: -158.5, y: 221.49998}
+        - {x: 158.5, y: 221.49998}
+        - {x: 161.5, y: 218.5}
+        - {x: 161.5, y: 210.5}
+        - {x: 162.5, y: 209.5}
+        - {x: 162.5, y: -217.5}
+        - {x: 158.5, y: -221.49998}
+      physicsShape:
+      - - {x: -161.5, y: 221.49998}
+        - {x: -161.5, y: -207.5}
+        - {x: -158.49998, y: -209.5}
+        - {x: 161.5, y: -209.5}
+        - {x: 161.5, y: 221.49998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39491bf5841d425e8782d47bb9a336f5
+      internalID: 21300028
+      vertices:
+      - {x: 324, y: 440}
+      - {x: 321, y: 443}
+      - {x: 324, y: 432}
+      - {x: 325, y: 4}
+      - {x: 325, y: 431}
+      - {x: 321, y: 0.000015258789}
+      - {x: 4, y: 443}
+      - {x: 4, y: 0.000015258789}
+      - {x: 1, y: 440}
+      - {x: 0, y: 436}
+      - {x: 0, y: 4}
+      indices: 0a0000000900000007000000080000000700000009000000060000000700000008000000050000000700000006000000010000000500000006000000030000000500000001000000020000000300000001000000040000000300000002000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_box_bg1
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 369
+        width: 31
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -22.5}
+        - {x: -15.5, y: 22.5}
+        - {x: 15.5, y: 22.5}
+        - {x: 15.5, y: -22.5}
+      physicsShape:
+      - - {x: -15.5, y: 22.5}
+        - {x: -15.5, y: -22.5}
+        - {x: 15.5, y: -22.5}
+        - {x: 15.5, y: 22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cb1eb7c1514300baa30b7e3963203a
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 31, y: 45}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_bg_green
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 445
+        width: 325
+        height: 443
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -158.5, y: -221.49998}
+        - {x: -162.5, y: -217.5}
+        - {x: -162.5, y: 209.5}
+        - {x: -161.5, y: 210.5}
+        - {x: -161.5, y: 218.5}
+        - {x: -158.5, y: 221.49998}
+        - {x: 158.5, y: 221.49998}
+        - {x: 161.5, y: 218.5}
+        - {x: 162.5, y: 213.5}
+        - {x: 162.5, y: -217.5}
+        - {x: 158.5, y: -221.49998}
+      physicsShape:
+      - - {x: -161.5, y: 221.49998}
+        - {x: -161.5, y: -209.5}
+        - {x: 161.5, y: -209.5}
+        - {x: 161.5, y: 221.49998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2fd3b06a6b49c1b573f410e48a8291
+      internalID: 21300032
+      vertices:
+      - {x: 324, y: 440}
+      - {x: 325, y: 4}
+      - {x: 325, y: 435}
+      - {x: 321, y: 443}
+      - {x: 321, y: 0.000015258789}
+      - {x: 4, y: 443}
+      - {x: 4, y: 0.000015258789}
+      - {x: 1, y: 440}
+      - {x: 1, y: 432}
+      - {x: 0, y: 431}
+      - {x: 0, y: 4}
+      indices: 0a0000000900000006000000080000000600000009000000070000000600000008000000050000000600000007000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: day_box
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 755
+        width: 119
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: -60.000004}
+        - {x: -59.500004, y: -51}
+        - {x: -59.500004, y: 49}
+        - {x: -48.5, y: 60.000004}
+        - {x: 48.5, y: 60.000004}
+        - {x: 59.500004, y: 49}
+        - {x: 59.500004, y: -50}
+        - {x: 57.5, y: -52}
+        - {x: 48.5, y: -60.000004}
+      physicsShape:
+      - - {x: -57.5, y: 59.999996}
+        - {x: -59.499996, y: 50}
+        - {x: -59.499996, y: -58}
+        - {x: -52.499996, y: -59.999996}
+        - {x: 57.5, y: -59.999996}
+        - {x: 59.499996, y: -51}
+        - {x: 59.499996, y: 58}
+        - {x: 49.499996, y: 59.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7ba297dc8140be89da6d1ae4f3cd6f
+      internalID: 21300034
+      vertices:
+      - {x: 119, y: 109}
+      - {x: 117, y: 8}
+      - {x: 119, y: 10}
+      - {x: 108, y: 120}
+      - {x: 108, y: -0.0000038146973}
+      - {x: 11, y: 120}
+      - {x: 10, y: -0.0000038146973}
+      - {x: -0.0000038146973, y: 109}
+      - {x: -0.0000038146973, y: 9}
+      indices: 080000000700000006000000050000000600000007000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      reward_box: 21300024
+      day_bg_2: 21300016
+      reward_box_bg2: 21300000
+      item_bg_blue: 21300006
+      day_bg: 21300022
+      imgbig_1: 21300002
+      day_box: 21300034
+      imgbig_4: 21300014
+      reward_box_bg1: 21300030
+      imgbig_2: 21300010
+      item_bg_green: 21300032
+      down_bg: 21300012
+      reward_box_item_bg: 21300004
+      imgbig_3: 21300020
+      GiftPackBG: 21300026
+      item_bg_gray: 21300028
+      item_bg_yellow: 21300018
+      common_top_bg: 21300008
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

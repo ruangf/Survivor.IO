@@ -1,0 +1,5 @@
+{
+    "folderName": "Ads",
+    "longVersion": "1.10.6",
+    "shortVersion": 8
+}

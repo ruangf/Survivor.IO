@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: c9e3ee66628e4614db8ce9f01d4c81de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Bullet_Monster
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 48
+  maxTextureSize: 100
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bullet_Monster
+      rect:
+        serializedVersion: 2
+        x: 23.07612
+        y: 22.07612
+        width: 54.847763
+        height: 54.847763
+      alignment: 9
+      pivot: {x: 0.49088383, y: 0.5091161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.500002, y: -27.500002}
+        - {x: -27.500004, y: -12.500002}
+        - {x: -27.500004, y: 17.499998}
+        - {x: -16.500002, y: 27.5}
+        - {x: 13.499998, y: 27.5}
+        - {x: 27.499998, y: 15.499999}
+        - {x: 27.499998, y: -22.500002}
+        - {x: 11.499998, y: -27.500002}
+      physicsShape:
+      - - {x: 13.499998, y: 27.499996}
+        - {x: -12.500002, y: 27.499996}
+        - {x: -27.5, y: 12.499998}
+        - {x: -27.5, y: -11.500002}
+        - {x: -26.500002, y: -14.500001}
+        - {x: -17.500002, y: -25.500002}
+        - {x: -9.500002, y: -27.500002}
+        - {x: 12.499998, y: -27.500002}
+        - {x: 16.499998, y: -23.500002}
+        - {x: 27.499998, y: -9.500001}
+        - {x: 27.499998, y: 12.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb562ba23d4d4d3594d9359531bb8d3a
+      internalID: 21300000
+      vertices:
+      - {x: 64, y: 77}
+      - {x: 78, y: 27}
+      - {x: 78, y: 65}
+      - {x: 62, y: 22}
+      - {x: 34, y: 77}
+      - {x: 29, y: 22}
+      - {x: 22.999998, y: 67}
+      - {x: 22.999998, y: 37}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bullet_Monster: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

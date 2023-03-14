@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: ec433bc08869cd64280a2fd0f70b89f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: qingshizhuan
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 48
+  maxTextureSize: 100
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: qingshizhuan
+      rect:
+        serializedVersion: 2
+        x: 5.026751
+        y: 1.026751
+        width: 91.9465
+        height: 96.9465
+      alignment: 9
+      pivot: {x: 0.48912406, y: 0.5051575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.999996, y: -48.5}
+        - {x: -46.000004, y: -31.5}
+        - {x: -46.000004, y: 1.5}
+        - {x: -43.000004, y: 15.500001}
+        - {x: -21.000004, y: 48.5}
+        - {x: 40.999996, y: 48.5}
+        - {x: 45.999996, y: 18.5}
+        - {x: 45.999996, y: -29.500002}
+        - {x: 25.999998, y: -48.5}
+      physicsShape:
+      - - {x: 36.999996, y: 22.5}
+        - {x: 27.999996, y: 25.5}
+        - {x: 29.999996, y: 40.499996}
+        - {x: 20.999996, y: 46.499996}
+        - {x: -19.000004, y: 46.499996}
+        - {x: -22.000004, y: 41.5}
+        - {x: -22.000004, y: 26.5}
+        - {x: -29.000004, y: 25.5}
+        - {x: -38.000004, y: 18.5}
+        - {x: -44, y: -9.499999}
+        - {x: -45.000004, y: -14.499999}
+        - {x: -45.000004, y: -25.5}
+        - {x: -39.000004, y: -30.5}
+        - {x: 3.9999957, y: -47.5}
+        - {x: 18.999994, y: -47.5}
+        - {x: 29.999996, y: -41.5}
+        - {x: 44.999992, y: -22.499998}
+        - {x: 44.999992, y: -7.5}
+        - {x: 40.999996, y: 18.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bff1a972e941ada5192ae36eda3ffd
+      internalID: 21300000
+      vertices:
+      - {x: 92, y: 98}
+      - {x: 97, y: 19.999998}
+      - {x: 97, y: 68}
+      - {x: 77, y: 1}
+      - {x: 61, y: 1}
+      - {x: 30, y: 98}
+      - {x: 8, y: 65}
+      - {x: 5, y: 51}
+      - {x: 5, y: 18}
+      indices: 080000000700000004000000060000000400000007000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      qingshizhuan: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

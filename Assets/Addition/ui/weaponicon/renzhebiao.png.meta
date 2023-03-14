@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 53e8566a4b3ee7747ba0b7521ed17b9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: renzhebiao
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 48
+  maxTextureSize: 100
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: renzhebiao
+      rect:
+        serializedVersion: 2
+        x: 9.026751
+        y: 9.07612
+        width: 81.9465
+        height: 82.84776
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49396482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -41.5}
+        - {x: -41, y: -36.5}
+        - {x: -41, y: 9.5}
+        - {x: -31, y: 38.5}
+        - {x: -15.000001, y: 41.5}
+        - {x: 23, y: 41.5}
+        - {x: 41, y: 26.500002}
+        - {x: 41, y: -27.500002}
+        - {x: 29, y: -41.5}
+      physicsShape:
+      - - {x: 39.999996, y: 2.5}
+        - {x: 39, y: 3.5}
+        - {x: 39.999996, y: 13.5}
+        - {x: 39.999996, y: 18.5}
+        - {x: 38, y: 21.5}
+        - {x: 26.999998, y: 31.5}
+        - {x: 19.999998, y: 28.5}
+        - {x: 13, y: 38.5}
+        - {x: 4.9999995, y: 40.5}
+        - {x: -11, y: 40.5}
+        - {x: -18, y: 38.5}
+        - {x: -25, y: 25.5}
+        - {x: -25, y: 21.5}
+        - {x: -37, y: 12.5}
+        - {x: -39.999996, y: 6.5}
+        - {x: -39.999996, y: -9.5}
+        - {x: -39, y: -17.5}
+        - {x: -32, y: -21.5}
+        - {x: -26.999998, y: -19.5}
+        - {x: -11, y: -40.499996}
+        - {x: 9, y: -40.499996}
+        - {x: 29.999998, y: -28.5}
+        - {x: 38, y: -19.5}
+        - {x: 39.999996, y: -12.5}
+      - - {x: -1, y: 9.499999}
+        - {x: -3, y: 7.5}
+        - {x: -6, y: 5.5}
+        - {x: -4.9999995, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2067e69db18941f6ae9bc4837ca43fb2
+      internalID: 21300000
+      vertices:
+      - {x: 91, y: 77}
+      - {x: 79, y: 9}
+      - {x: 91, y: 22.999998}
+      - {x: 73, y: 92}
+      - {x: 35, y: 92}
+      - {x: 24, y: 9}
+      - {x: 19, y: 89}
+      - {x: 9, y: 60}
+      - {x: 9, y: 14}
+      indices: 080000000700000005000000060000000500000007000000040000000500000006000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      renzhebiao: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

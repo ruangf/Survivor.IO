@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: a674e60ddb77b1340be0d1c0448909f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: gaobaoranliao
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 48
+  maxTextureSize: 100
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gaobaoranliao
+      rect:
+        serializedVersion: 2
+        x: 6.0429077
+        y: 0
+        width: 87.93034
+        height: 99.963715
+      alignment: 9
+      pivot: {x: 0.49990812, y: 0.5001815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.00808, y: -49.981857}
+        - {x: -44.00808, y: -37.981857}
+        - {x: -44.00808, y: -4.9818573}
+        - {x: -6.0080795, y: 50.018143}
+        - {x: 27.99192, y: 50.018143}
+        - {x: 43.99192, y: 34.018143}
+        - {x: 43.99192, y: 1.0181427}
+        - {x: -4.0080795, y: -49.981857}
+      physicsShape:
+      - - {x: 22.991919, y: 49.01814}
+        - {x: 4.99192, y: 49.01814}
+        - {x: -1.0080795, y: 47.018143}
+        - {x: -1.0080795, y: 36.018143}
+        - {x: -13.00808, y: 35.018143}
+        - {x: -19.00808, y: 29.018143}
+        - {x: -44.00808, y: -20.981857}
+        - {x: -44.00808, y: -32.981857}
+        - {x: -33.00808, y: -47.981857}
+        - {x: -26.00808, y: -49.981857}
+        - {x: -5.008079, y: -49.981857}
+        - {x: 42.991917, y: 4.0181427}
+        - {x: 42.991917, y: 29.018143}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa74c312ca0c4e40b6597b0819a18c3e
+      internalID: 21300000
+      vertices:
+      - {x: 78, y: 100}
+      - {x: 94, y: 51}
+      - {x: 94, y: 84}
+      - {x: 46, y: 0}
+      - {x: 44, y: 100}
+      - {x: 12, y: 0}
+      - {x: 6, y: 45}
+      - {x: 6, y: 12}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gaobaoranliao: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

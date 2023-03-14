@@ -1,0 +1,591 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a27903ac2c9c754b9f68751656a1eaa, type: 3}
+  m_Name: AdSettingsData
+  m_EditorClassIdentifier: 
+  mediationSettings:
+  - advertiser: 0
+    advertiserName: Admob
+    bannerSettings:
+      adType: 1
+      orderAndroid: 1
+      orderiOS: 1
+      orderWindows: 1
+      weightAndroid: 100
+      weightiOS: 100
+      weightWindows: 100
+    interstitialSettings:
+      adType: 2
+      orderAndroid: 1
+      orderiOS: 1
+      orderWindows: 1
+      weightAndroid: 63
+      weightiOS: 63
+      weightWindows: 63
+    rewardedSettings:
+      adType: 3
+      orderAndroid: 1
+      orderiOS: 1
+      orderWindows: 1
+      weightAndroid: 52
+      weightiOS: 52
+      weightWindows: 52
+  - advertiser: 4
+    advertiserName: Unity
+    bannerSettings:
+      adType: 1
+      orderAndroid: 0
+      orderiOS: 0
+      orderWindows: 0
+      weightAndroid: 0
+      weightiOS: 0
+      weightWindows: 0
+    interstitialSettings:
+      adType: 2
+      orderAndroid: 2
+      orderiOS: 2
+      orderWindows: 2
+      weightAndroid: 45
+      weightiOS: 45
+      weightWindows: 45
+    rewardedSettings:
+      adType: 3
+      orderAndroid: 2
+      orderiOS: 2
+      orderWindows: 2
+      weightAndroid: 45
+      weightiOS: 45
+      weightWindows: 45
+  advertiserSettings:
+  - advertiser: 2
+    useSDK: 0
+    preprocessorDirective: USE_ADCOLONY
+    sdkLink: https://github.com/AdColony/
+    platformSettings:
+    - platform: 0
+      enabled: 0
+      appId:
+        id: 
+        displayName: App ID
+        notRequired: 0
+      idBanner:
+        id: 
+        displayName: Banner Zone ID
+        notRequired: 0
+      idInterstitial:
+        id: 
+        displayName: Interstitial Zone ID
+        notRequired: 0
+      idRewarded:
+        id: 
+        displayName: Rewarded Zone ID
+        notRequired: 0
+      hasBanner: 1
+      hasInterstitial: 1
+      hasRewarded: 1
+      directedForChildren: 0
+    - platform: 1
+      enabled: 0
+      appId:
+        id: 
+        displayName: App ID
+        notRequired: 0
+      idBanner:
+        id: 
+        displayName: Banner Zone ID
+        notRequired: 0
+      idInterstitial:
+        id: 
+        displayName: Interstitial Zone ID
+        notRequired: 0
+      idRewarded:
+        id: 
+        displayName: Rewarded Zone ID
+        notRequired: 0
+      hasBanner: 1
+      hasInterstitial: 1
+      hasRewarded: 1
+      directedForChildren: 0
+  - advertiser: 0
+    useSDK: 1
+    preprocessorDirective: USE_ADMOB
+    sdkLink: https://github.com/googleads/googleads-mobile-unity/releases
+    platformSettings:
+    - platform: 0
+      enabled: 1
+      appId:
+        id: ca-app-pub-9001455574301597~1849353193
+        displayName: App ID
+        notRequired: 0
+      idBanner:
+        id: ca-app-pub-3940256099942544/6300978111
+        displayName: Banner ID
+        notRequired: 0
+      idInterstitial:
+        id: ca-app-pub-3940256099942544/1033173712
+        displayName: Interstitial ID
+        notRequired: 0
+      idRewarded:
+        id: ca-app-pub-3940256099942544/5224354917
+        displayName: Rewarded Video ID
+        notRequired: 0
+      hasBanner: 1
+      hasInterstitial: 1
+      hasRewarded: 1
+      directedForChildren: 0
+    - platform: 1
+      enabled: 0
+      appId:
+        id: 
+        displayName: App ID
+        notRequired: 0
+      idBanner:
+        id: 
+        displayName: Banner ID
+        notRequired: 0
+      idInterstitial:
+        id: 
+        displayName: Interstitial ID
+        notRequired: 0
+      idRewarded:
+        id: 
+        displayName: Rewarded Video ID
+        notRequired: 0
+      hasBanner: 1
+      hasInterstitial: 1
+      hasRewarded: 1
+      directedForChildren: 0
+  - advertiser: 3
+    useSDK: 0
+    preprocessorDirective: USE_CHARTBOOST
+    sdkLink: https://answers.chartboost.com/en-us/articles/download
+    platformSettings:
+    - platform: 0
+      enabled: 0
+      appId:
+        id: 
+        displayName: App ID
+        notRequired: 0
+      idBanner:
+        id: 
+        displayName: 
+        notRequired: 1
+      idInterstitial:
+        id: 
+        displayName: App Signature
+        notRequired: 0
+      idRewarded:
+        id: 
+        displayName: 
+        notRequired: 1
+      hasBanner: 0
+      hasInterstitial: 1
+      hasRewarded: 1
+      directedForChildren: 0
+    - platform: 1
+      enabled: 0
+      appId:
+        id: 
+        displayName: App ID
+        notRequired: 0
+      idBanner:
+        id: 
+        displayName: 
+        notRequired: 1
+      idInterstitial:
+        id: 
+        displayName: App Signature
+        notRequired: 0
+      idRewarded:
+        id: 
+        displayName: 
+        notRequired: 1
+      hasBanner: 0
+      hasInterstitial: 1
+      hasRewarded: 1
+      directedForChildren: 0
+  - advertiser: 5
+    useSDK: 0
+    preprocessorDirective: USE_HEYZAP
+    sdkLink: https://developers.heyzap.com/docs/unity_sdk_setup_and_requirements
+    platformSettings:
+    - platform: 0
+      enabled: 0
+      appId:
+        id: 
+        displayName: Publisher ID
+        notRequired: 0
+      idBanner:
+        id: 
+        displayName: 
+        notRequired: 1
+      idInterstitial:
+        id: 
+        displayName: 
+        notRequired: 1
+      idRewarded:
+        id: 
+        displayName: 
+        notRequired: 1
+      hasBanner: 1
+      hasInterstitial: 1
+      hasRewarded: 1
+      directedForChildren: 0
+    - platform: 1
+      enabled: 0
+      appId:
+        id: 
+        displayName: Publisher ID
+        notRequired: 0
+      idBanner:
+        id: 
+        displayName: 
+        notRequired: 1
+      idInterstitial:
+        id: 
+        displayName: 
+        notRequired: 1
+      idRewarded:
+        id: 
+        displayName: 
+        notRequired: 1
+      hasBanner: 1
+      hasInterstitial: 1
+      hasRewarded: 1
+      directedForChildren: 0
+  - advertiser: 4
+    useSDK: 1
+    preprocessorDirective: USE_UNITYADS
+    sdkLink: https://assetstore.unity.com/packages/add-ons/services/unity-monetization-66123
+    platformSettings:
+    - platform: 0
+      enabled: 1
+      appId:
+        id: 4612435
+        displayName: Game ID
+        notRequired: 0
+      idBanner:
+        id: Interstitial_Android
+        displayName: Placement ID Banner
+        notRequired: 0
+      idInterstitial:
+        id: Interstitial_Android
+        displayName: Placement ID Interstitial
+        notRequired: 0
+      idRewarded:
+        id: Rewarded_Android
+        displayName: Placement ID Rewarded
+        notRequired: 0
+      hasBanner: 1
+      hasInterstitial: 1
+      hasRewarded: 1
+      directedForChildren: 0
+    - platform: 1
+      enabled: 0
+      appId:
+        id: 
+        displayName: Game ID
+        notRequired: 0
+      idBanner:
+        id: 
+        displayName: Placement ID Banner
+        notRequired: 0
+      idInterstitial:
+        id: 
+        displayName: Placement ID Interstitial
+        notRequired: 0
+      idRewarded:
+        id: 
+        displayName: Placement ID Rewarded
+        notRequired: 0
+      hasBanner: 1
+      hasInterstitial: 1
+      hasRewarded: 1
+      directedForChildren: 0
+  - advertiser: 1
+    useSDK: 0
+    preprocessorDirective: USE_VUNGLE
+    sdkLink: https://publisher.vungle.com/sdk/plugins/unity
+    platformSettings:
+    - platform: 0
+      enabled: 0
+      appId:
+        id: 
+        displayName: App ID
+        notRequired: 0
+      idBanner:
+        id: 
+        displayName: Banner Placement ID
+        notRequired: 0
+      idInterstitial:
+        id: 
+        displayName: Interstitial Placement ID
+        notRequired: 0
+      idRewarded:
+        id: 
+        displayName: Rewarded Placement ID
+        notRequired: 0
+      hasBanner: 1
+      hasInterstitial: 1
+      hasRewarded: 1
+      directedForChildren: 0
+    - platform: 1
+      enabled: 0
+      appId:
+        id: 
+        displayName: App ID
+        notRequired: 0
+      idBanner:
+        id: 
+        displayName: Banner Placement ID
+        notRequired: 0
+      idInterstitial:
+        id: 
+        displayName: Interstitial Placement ID
+        notRequired: 0
+      idRewarded:
+        id: 
+        displayName: Rewarded Placement ID
+        notRequired: 0
+      hasBanner: 1
+      hasInterstitial: 1
+      hasRewarded: 1
+      directedForChildren: 0
+    - platform: 2
+      enabled: 0
+      appId:
+        id: 
+        displayName: App ID
+        notRequired: 0
+      idBanner:
+        id: 
+        displayName: Banner Placement ID
+        notRequired: 0
+      idInterstitial:
+        id: 
+        displayName: Interstitial Placement ID
+        notRequired: 0
+      idRewarded:
+        id: 
+        displayName: Rewarded Placement ID
+        notRequired: 0
+      hasBanner: 1
+      hasInterstitial: 1
+      hasRewarded: 1
+      directedForChildren: 0
+  - advertiser: 6
+    useSDK: 0
+    preprocessorDirective: USE_APPLOVIN
+    sdkLink: https://dash.applovin.com/documentation/mediation/unity/getting-started/integration
+    platformSettings:
+    - platform: 0
+      enabled: 0
+      appId:
+        id: 
+        displayName: SDK key
+        notRequired: 0
+      idBanner:
+        id: 
+        displayName: Banner ID
+        notRequired: 0
+      idInterstitial:
+        id: 
+        displayName: Interstitial ID
+        notRequired: 0
+      idRewarded:
+        id: 
+        displayName: Rewarded Video ID
+        notRequired: 0
+      hasBanner: 1
+      hasInterstitial: 1
+      hasRewarded: 1
+      directedForChildren: 0
+    - platform: 1
+      enabled: 0
+      appId:
+        id: 
+        displayName: SDK key
+        notRequired: 0
+      idBanner:
+        id: 
+        displayName: Banner ID
+        notRequired: 0
+      idInterstitial:
+        id: 
+        displayName: Interstitial ID
+        notRequired: 0
+      idRewarded:
+        id: 
+        displayName: Rewarded Video ID
+        notRequired: 0
+      hasBanner: 1
+      hasInterstitial: 1
+      hasRewarded: 1
+      directedForChildren: 0
+  - advertiser: 7
+    useSDK: 0
+    preprocessorDirective: USE_FACEBOOKADS
+    sdkLink: https://developers.facebook.com/docs/audience-network/setting-up/platform-steup/unity/add-sdk
+    platformSettings:
+    - platform: 0
+      enabled: 0
+      appId:
+        id: 
+        displayName: 
+        notRequired: 1
+      idBanner:
+        id: 
+        displayName: Banner Placement ID
+        notRequired: 0
+      idInterstitial:
+        id: 
+        displayName: Interstitial Placement ID
+        notRequired: 0
+      idRewarded:
+        id: 
+        displayName: Rewarded Placement ID
+        notRequired: 0
+      hasBanner: 1
+      hasInterstitial: 1
+      hasRewarded: 1
+      directedForChildren: 0
+    - platform: 1
+      enabled: 0
+      appId:
+        id: 
+        displayName: 
+        notRequired: 1
+      idBanner:
+        id: 
+        displayName: Banner Placement ID
+        notRequired: 0
+      idInterstitial:
+        id: 
+        displayName: Interstitial Placement ID
+        notRequired: 0
+      idRewarded:
+        id: 
+        displayName: Rewarded Placement ID
+        notRequired: 0
+      hasBanner: 1
+      hasInterstitial: 1
+      hasRewarded: 1
+      directedForChildren: 0
+  - advertiser: 8
+    useSDK: 0
+    preprocessorDirective: USE_MOPUB
+    sdkLink: https://github.com/mopub/mopub-unity-sdk
+    platformSettings:
+    - platform: 0
+      enabled: 0
+      appId:
+        id: 
+        displayName: 
+        notRequired: 1
+      idBanner:
+        id: 
+        displayName: Banner Placement ID
+        notRequired: 0
+      idInterstitial:
+        id: 
+        displayName: Interstitial Placement ID
+        notRequired: 0
+      idRewarded:
+        id: 
+        displayName: Rewarded Placement ID
+        notRequired: 0
+      hasBanner: 1
+      hasInterstitial: 1
+      hasRewarded: 1
+      directedForChildren: 0
+    - platform: 1
+      enabled: 0
+      appId:
+        id: 
+        displayName: 
+        notRequired: 1
+      idBanner:
+        id: 
+        displayName: Banner Placement ID
+        notRequired: 0
+      idInterstitial:
+        id: 
+        displayName: Interstitial Placement ID
+        notRequired: 0
+      idRewarded:
+        id: 
+        displayName: Rewarded Placement ID
+        notRequired: 0
+      hasBanner: 1
+      hasInterstitial: 1
+      hasRewarded: 1
+      directedForChildren: 0
+  - advertiser: 9
+    useSDK: 0
+    preprocessorDirective: USE_IRONSOURCE
+    sdkLink: https://developers.ironsrc.com/ironsource-mobile-unity/unity-plugin/
+    platformSettings:
+    - platform: 0
+      enabled: 0
+      appId:
+        id: 
+        displayName: App Key
+        notRequired: 0
+      idBanner:
+        id: 
+        displayName: Banner Placement
+        notRequired: 0
+      idInterstitial:
+        id: 
+        displayName: Interstitial Placement
+        notRequired: 0
+      idRewarded:
+        id: 
+        displayName: Rewarded Placement
+        notRequired: 0
+      hasBanner: 1
+      hasInterstitial: 1
+      hasRewarded: 1
+      directedForChildren: 0
+    - platform: 1
+      enabled: 0
+      appId:
+        id: 
+        displayName: App Key
+        notRequired: 0
+      idBanner:
+        id: 
+        displayName: Banner Placement
+        notRequired: 0
+      idInterstitial:
+        id: 
+        displayName: Interstitial Placement
+        notRequired: 0
+      idRewarded:
+        id: 
+        displayName: Rewarded Placement
+        notRequired: 0
+      hasBanner: 1
+      hasInterstitial: 1
+      hasRewarded: 1
+      directedForChildren: 0
+  debugMode: 0
+  usePlaymaker: 0
+  useBolt: 0
+  useGameflow: 0
+  enableATT: 0
+  nativePopupText: We will use your data to provide a better and personalized ad
+    experience.
+  bannerMediation: 1
+  interstitialMediation: 1
+  rewardedMediation: 1
+  externalFileUrl: Paste your external config file url here

@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 802e84447266bbd4c9f8799a04efb362
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: zhuiguangzhe
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zhuiguangzhe
+      rect:
+        serializedVersion: 2
+        x: 22.02675
+        y: 15.051316
+        width: 221.9465
+        height: 233.89737
+      alignment: 9
+      pivot: {x: 0.47747204, y: 0.48289847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: -117}
+        - {x: -110.99999, y: -60}
+        - {x: -110.99999, y: 117}
+        - {x: -78, y: 117}
+        - {x: 111, y: -61}
+        - {x: 111, y: -108.99999}
+        - {x: 102.00001, y: -117}
+      physicsShape:
+      - - {x: 99.99999, y: -80}
+        - {x: 65, y: -52.999996}
+        - {x: 67, y: -35}
+        - {x: 53, y: -15}
+        - {x: 36, y: -22}
+        - {x: 24.999998, y: -15}
+        - {x: -31.999998, y: 46}
+        - {x: -102, y: 114.99999}
+        - {x: -105, y: 114.99999}
+        - {x: -109, y: 112}
+        - {x: -109, y: -9}
+        - {x: -103.99999, y: -15}
+        - {x: 24, y: -91}
+        - {x: 26, y: -89.99999}
+        - {x: 29, y: -86}
+        - {x: 29, y: -83.99999}
+        - {x: 30, y: -83}
+        - {x: 30, y: -79}
+        - {x: 29, y: -92}
+        - {x: 29, y: -95}
+        - {x: 46, y: -108}
+        - {x: 58, y: -106}
+        - {x: 61.999992, y: -94}
+        - {x: 86, y: -115}
+        - {x: 88, y: -116}
+        - {x: 95, y: -116}
+        - {x: 105, y: -111.99999}
+        - {x: 109, y: -100}
+        - {x: 109, y: -89}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898ecc3348b74e899015fa6f4ce42876
+      internalID: 21300000
+      vertices:
+      - {x: 244, y: 71}
+      - {x: 235, y: 15}
+      - {x: 244, y: 23.000008}
+      - {x: 177, y: 15}
+      - {x: 55, y: 249}
+      - {x: 22.000008, y: 249}
+      - {x: 22.000008, y: 72}
+      indices: 060000000500000003000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zhuiguangzhe: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

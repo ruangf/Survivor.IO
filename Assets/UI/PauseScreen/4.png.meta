@@ -1,0 +1,1367 @@
+fileFormatVersion: 2
+guid: 7bf1fee7b5d9bb142b50cb358d407732
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: JoystickCenter
+  - first:
+      213: 21300002
+    second: ProgressFill_BossHp
+  - first:
+      213: 21300004
+    second: yinliang
+  - first:
+      213: 21300006
+    second: ProgressFill_Exp
+  - first:
+      213: 21300008
+    second: WarningLine1
+  - first:
+      213: 21300010
+    second: reborn_circle
+  - first:
+      213: 21300012
+    second: Skill_Item_BG
+  - first:
+      213: 21300014
+    second: Skill_Item_BGEmpty
+  - first:
+      213: 21300016
+    second: home
+  - first:
+      213: 21300018
+    second: Currency_BG
+  - first:
+      213: 21300020
+    second: WarningIcon
+  - first:
+      213: 21300022
+    second: BulletReloadIcon
+  - first:
+      213: 21300024
+    second: SkillUnlock_IconBG
+  - first:
+      213: 21300026
+    second: PauseButtonIcon
+  - first:
+      213: 21300028
+    second: Screen_Shine
+  - first:
+      213: 21300030
+    second: PauseButton_BG
+  - first:
+      213: 21300032
+    second: BattleTopBG
+  - first:
+      213: 21300034
+    second: Weapon_Sub_BG
+  - first:
+      213: 21300036
+    second: ChallengeDifficultyItemBG
+  - first:
+      213: 21300038
+    second: SkillBG_Small
+  - first:
+      213: 21300040
+    second: jingyin
+  - first:
+      213: 21300042
+    second: Supply_Sub_BG
+  - first:
+      213: 21300044
+    second: BossIcon
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 0
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JoystickCenter
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 210
+        width: 138
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: -69}
+        - {x: -69, y: 69}
+        - {x: 69, y: 69}
+        - {x: 69, y: -69}
+      physicsShape:
+      - - {x: 61, y: -13}
+        - {x: 61, y: 16}
+        - {x: 48.999996, y: 39.999996}
+        - {x: 29.999998, y: 55}
+        - {x: 14, y: 61}
+        - {x: -16, y: 61}
+        - {x: -39.999996, y: 48.999996}
+        - {x: -55, y: 29.999998}
+        - {x: -61, y: 14.999999}
+        - {x: -61, y: -14.999999}
+        - {x: -58, y: -24}
+        - {x: -48, y: -39.999996}
+        - {x: -36, y: -51}
+        - {x: -14.999999, y: -61}
+        - {x: 16, y: -61}
+        - {x: 36, y: -51}
+        - {x: 48, y: -39.999996}
+        - {x: 58, y: -22.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242056a9109b42cf928864f1e47c9b23
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 138}
+      - {x: 138, y: 138}
+      - {x: 0, y: 0}
+      - {x: 138, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressFill_BossHp
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 1035
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -517.5, y: -30.000002}
+        - {x: -517.5, y: 30.000002}
+        - {x: 517.5, y: 30.000002}
+        - {x: 517.5, y: -30.000002}
+      physicsShape:
+      - - {x: -517.5, y: 29.999998}
+        - {x: -517.5, y: -14.999999}
+        - {x: -92.49999, y: -29.999998}
+        - {x: 517.5, y: -29.999998}
+        - {x: 517.5, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425beefde179443499091e596b514b7f
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 60}
+      - {x: 1035, y: 60}
+      - {x: 0, y: -0.0000019073486}
+      - {x: 1035, y: -0.0000019073486}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yinliang
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 210
+        width: 87
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -40.5}
+        - {x: -43.5, y: -26.499998}
+        - {x: -43.5, y: 30.5}
+        - {x: -14.5, y: 40.5}
+        - {x: 31.5, y: 40.5}
+        - {x: 43.5, y: 36.5}
+        - {x: 43.5, y: -40.5}
+      physicsShape:
+      - - {x: 32.5, y: 28.5}
+        - {x: 18.5, y: 40.5}
+        - {x: -6.5, y: 40.5}
+        - {x: -9.5, y: 39.5}
+        - {x: -39.5, y: 22.5}
+        - {x: -43.5, y: 16.5}
+        - {x: -43.5, y: -18.5}
+        - {x: -36.499996, y: -24.499998}
+        - {x: -19.5, y: -23.5}
+        - {x: -3.5, y: -40.5}
+        - {x: 12.5, y: -40.5}
+        - {x: 30.5, y: -29.499998}
+        - {x: 43.5, y: -13.499999}
+        - {x: 43.5, y: 11.499999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fe07f82cbf4717b2d4c26a66fcc8ad
+      internalID: 21300004
+      vertices:
+      - {x: 75, y: 81}
+      - {x: 87, y: 0}
+      - {x: 87, y: 77}
+      - {x: 31, y: 0}
+      - {x: 29, y: 81}
+      - {x: 0, y: 71}
+      - {x: 0, y: 14.000002}
+      indices: 060000000500000003000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressFill_Exp
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 1034
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -517, y: -30.000002}
+        - {x: -517, y: 30.000002}
+        - {x: 517, y: 30.000002}
+        - {x: 517, y: -30.000002}
+      physicsShape:
+      - - {x: 427.99997, y: 29.999998}
+        - {x: 417, y: -6}
+        - {x: 417, y: -14.999999}
+        - {x: 437, y: -29.999998}
+        - {x: 513, y: -29.999998}
+        - {x: 517, y: -26.999998}
+        - {x: 517, y: 26}
+        - {x: 513, y: 29.999998}
+      - - {x: -514, y: 29.999998}
+        - {x: -517, y: 28}
+        - {x: -517, y: -11}
+        - {x: -516, y: -14}
+        - {x: -481, y: -14}
+        - {x: -469.99997, y: 26}
+        - {x: -469.99997, y: 29.999998}
+      - - {x: -465, y: 29.999998}
+        - {x: -469, y: 16}
+        - {x: -475.99997, y: 9.999999}
+        - {x: -475.99997, y: -14}
+        - {x: -427, y: -14}
+        - {x: -417.99997, y: 21}
+        - {x: -417, y: 29.999998}
+      - - {x: -414, y: 29.999998}
+        - {x: -423.99997, y: -6}
+        - {x: -423.99997, y: -14}
+        - {x: -374, y: -14}
+        - {x: -364, y: 25}
+        - {x: -364, y: 29.999998}
+      - - {x: -360, y: 29.999998}
+        - {x: -370.99997, y: 4.9999995}
+        - {x: -370.99997, y: -14}
+        - {x: -324, y: -14}
+        - {x: -318.99997, y: -13}
+        - {x: -313, y: 25}
+        - {x: -312, y: 29.999998}
+      - - {x: -308, y: 29.999998}
+        - {x: -318.99997, y: 7}
+        - {x: -318.99997, y: -14}
+        - {x: -270, y: -14}
+        - {x: -259, y: 25}
+        - {x: -259, y: 29.999998}
+      - - {x: -254, y: 29.999998}
+        - {x: -260, y: 22.999998}
+        - {x: -266, y: -8}
+        - {x: -266, y: -14}
+        - {x: -213.99998, y: -14}
+        - {x: -207, y: 29}
+        - {x: -207, y: 29.999998}
+      - - {x: -202, y: 29.999998}
+        - {x: -211.99998, y: -3}
+        - {x: -212.99998, y: -12}
+        - {x: -212.99998, y: -14}
+        - {x: -161, y: -14}
+        - {x: -154, y: 29}
+        - {x: -154, y: 29.999998}
+      - - {x: -149, y: 29.999998}
+        - {x: -159.99998, y: -9}
+        - {x: -159.99998, y: -14}
+        - {x: -110, y: -14}
+        - {x: -101, y: 26}
+        - {x: -101, y: 29.999998}
+      - - {x: -96, y: 29.999998}
+        - {x: -100, y: 16}
+        - {x: -104.99999, y: -3}
+        - {x: -106.99999, y: -12}
+        - {x: -106.99999, y: -13}
+        - {x: -105.99999, y: -14}
+        - {x: -58, y: -14}
+        - {x: -48.999996, y: 21}
+        - {x: -48, y: 29.999998}
+      - - {x: -42.999996, y: 29.999998}
+        - {x: -55, y: 12}
+        - {x: -55, y: -14}
+        - {x: -7, y: -14}
+        - {x: 0, y: 0}
+        - {x: 4.9999995, y: 28}
+        - {x: 4.9999995, y: 29.999998}
+      - - {x: 9, y: 29.999998}
+        - {x: 0, y: 4.9999995}
+        - {x: -2, y: -9.999999}
+        - {x: -2, y: -13}
+        - {x: 0, y: -14}
+        - {x: 42.999996, y: -14}
+        - {x: 47, y: -12}
+        - {x: 57, y: 25}
+        - {x: 57, y: 29.999998}
+      - - {x: 62, y: 29.999998}
+        - {x: 50, y: -9}
+        - {x: 50, y: -13}
+        - {x: 51, y: -14}
+        - {x: 98.99999, y: -14}
+        - {x: 110, y: 25}
+        - {x: 110, y: 29.999998}
+      - - {x: 114, y: 29.999998}
+        - {x: 103, y: 4.9999995}
+        - {x: 103, y: -14}
+        - {x: 150, y: -14}
+        - {x: 162, y: 16}
+        - {x: 162, y: 29.999998}
+      - - {x: 167, y: 29.999998}
+        - {x: 156, y: 4.9999995}
+        - {x: 156, y: -14}
+        - {x: 203, y: -14}
+        - {x: 214.99998, y: 16}
+        - {x: 214.99998, y: 29.999998}
+      - - {x: 218, y: 29.999998}
+        - {x: 211.99998, y: 26}
+        - {x: 207, y: -8}
+        - {x: 207, y: -14}
+        - {x: 257, y: -14}
+        - {x: 266, y: 26}
+        - {x: 266, y: 29.999998}
+      - - {x: 271, y: 29.999998}
+        - {x: 266, y: 16}
+        - {x: 260, y: -11}
+        - {x: 260, y: -14}
+        - {x: 309, y: -14}
+        - {x: 313, y: -1}
+        - {x: 318.99997, y: 28}
+        - {x: 318.99997, y: 29.999998}
+      - - {x: 323, y: 29.999998}
+        - {x: 312, y: -8}
+        - {x: 312, y: -13}
+        - {x: 314, y: -14}
+        - {x: 360, y: -14}
+        - {x: 366.99997, y: 0}
+        - {x: 372, y: 28}
+        - {x: 372, y: 29.999998}
+      - - {x: 376, y: 29.999998}
+        - {x: 366.99997, y: 4.9999995}
+        - {x: 365, y: -9.999999}
+        - {x: 365, y: -13}
+        - {x: 366.99997, y: -14}
+        - {x: 410, y: -14}
+        - {x: 414, y: -12}
+        - {x: 423.99997, y: 25}
+        - {x: 423.99997, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54b41384bd64ca9887e0f926f8a9d3b
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 60}
+      - {x: 1034, y: 60}
+      - {x: 0, y: -0.0000019073486}
+      - {x: 1034, y: -0.0000019073486}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarningLine1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 829
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 403, y: 0, z: 403, w: 0}
+      outline:
+      - - {x: -414.5, y: -5.5}
+        - {x: -414.5, y: 5.5}
+        - {x: 414.5, y: 5.5}
+        - {x: 414.5, y: -5.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2fa2bf6e0c4dae8f331a89971f5bd0
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 11}
+      - {x: 829, y: 11}
+      - {x: 0, y: 0}
+      - {x: 829, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reborn_circle
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 198
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: -67}
+        - {x: -99, y: -33}
+        - {x: -99, y: 37}
+        - {x: -94, y: 46}
+        - {x: -68, y: 79}
+        - {x: -37, y: 99}
+        - {x: 42, y: 99}
+        - {x: 99, y: 51}
+        - {x: 99, y: -49}
+        - {x: 51, y: -99}
+        - {x: -48, y: -99}
+      physicsShape:
+      - - {x: 79, y: -59.999996}
+        - {x: 85, y: -51}
+        - {x: 88, y: -47}
+        - {x: 90, y: -42}
+        - {x: 93, y: -35}
+        - {x: 97, y: -22}
+        - {x: 98.99999, y: -14}
+        - {x: 98.99999, y: 19}
+        - {x: 94, y: 37}
+        - {x: 82, y: 58.999996}
+        - {x: 63, y: 79}
+        - {x: 39.999996, y: 94}
+        - {x: 17, y: 98.99999}
+        - {x: -21, y: 98.99999}
+        - {x: -48, y: 89}
+        - {x: -63, y: 78}
+        - {x: -81, y: 58.999996}
+        - {x: -90, y: 45.999996}
+        - {x: -97.99999, y: 22.999998}
+        - {x: -98.99999, y: 17}
+        - {x: -98.99999, y: -18}
+        - {x: -96, y: -29.999998}
+        - {x: -85.99999, y: -52}
+        - {x: -78, y: -62}
+        - {x: -58, y: -81}
+        - {x: -38, y: -93}
+        - {x: -19.999998, y: -97}
+        - {x: -6, y: -98.99999}
+        - {x: 1, y: -98.99999}
+        - {x: 25, y: -97}
+        - {x: 38, y: -93}
+        - {x: 55, y: -83}
+        - {x: 61, y: -78}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334fffae277347a791bc77c47608e622
+      internalID: 21300010
+      vertices:
+      - {x: 198, y: 150}
+      - {x: 150, y: 0}
+      - {x: 198, y: 50}
+      - {x: 141, y: 198}
+      - {x: 62, y: 198}
+      - {x: 51, y: 0}
+      - {x: 31, y: 178}
+      - {x: 7, y: 32}
+      - {x: 5, y: 145}
+      - {x: 0, y: 136}
+      - {x: 0, y: 66}
+      indices: 0a0000000900000007000000080000000700000009000000060000000700000008000000050000000700000006000000040000000500000006000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Item_BG
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 210
+        width: 76
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 22, y: 67, z: 22, w: 22}
+      outline:
+      - - {x: -36, y: -65}
+        - {x: -38, y: -64}
+        - {x: -38, y: 65}
+        - {x: 38, y: 65}
+        - {x: 38, y: -60.000004}
+        - {x: 35, y: -65}
+      physicsShape:
+      - - {x: -31, y: 65}
+        - {x: -38, y: 57}
+        - {x: -38, y: -64}
+        - {x: -35, y: -65}
+        - {x: 38, y: -65}
+        - {x: 38, y: 65}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7652e82874240ee8abbf72095c34755
+      internalID: 21300012
+      vertices:
+      - {x: 76, y: 130}
+      - {x: 73, y: 0}
+      - {x: 76, y: 4.999996}
+      - {x: 2, y: 0}
+      - {x: 0, y: 130}
+      - {x: 0, y: 1}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Item_BGEmpty
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 200
+        width: 68
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 28, y: 28, z: 28, w: 28}
+      outline:
+      - - {x: -34, y: -32}
+        - {x: -34, y: 32}
+        - {x: 34, y: 32}
+        - {x: 34, y: -32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d873095bbc4b2b91a220b72d0deef8
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 64}
+      - {x: 68, y: 64}
+      - {x: 0, y: 0}
+      - {x: 68, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 172
+        width: 95
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: -38}
+        - {x: -47.5, y: -6}
+        - {x: -47.5, y: 18}
+        - {x: -21.5, y: 38}
+        - {x: 14.5, y: 38}
+        - {x: 47.5, y: 24}
+        - {x: 47.5, y: -15.000001}
+        - {x: 37.5, y: -36}
+        - {x: 36.5, y: -38}
+      physicsShape:
+      - - {x: 33.499996, y: -38}
+        - {x: 36.499996, y: -37}
+        - {x: 37.5, y: -14}
+        - {x: 44.5, y: -9.999999}
+        - {x: 47.5, y: 0}
+        - {x: 47.5, y: 14}
+        - {x: 7.4999995, y: 38}
+        - {x: -6.5, y: 38}
+        - {x: -45.5, y: 17}
+        - {x: -47.5, y: 13}
+        - {x: -47.5, y: -2}
+        - {x: -41.5, y: -9.999999}
+        - {x: -33.499996, y: -36}
+        - {x: -30.5, y: -38}
+        - {x: -7.4999995, y: -38}
+        - {x: -3.5, y: -33}
+        - {x: 5.5, y: -36}
+        - {x: 7.4999995, y: -38}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b77ec5951b94c0b8eb96d7e980882b0
+      internalID: 21300016
+      vertices:
+      - {x: 95, y: 62}
+      - {x: 85, y: 2}
+      - {x: 95, y: 23}
+      - {x: 84, y: 0}
+      - {x: 62, y: 76}
+      - {x: 26, y: 76}
+      - {x: 10, y: 0}
+      - {x: 0, y: 56}
+      - {x: 0, y: 32}
+      indices: 080000000700000006000000050000000600000007000000030000000600000005000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Currency_BG
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 293
+        width: 13
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 0, z: 6, w: 0}
+      outline:
+      - - {x: -6.5, y: -26.499998}
+        - {x: -6.5, y: 26.499998}
+        - {x: 6.5, y: 26.499998}
+        - {x: 6.5, y: -26.499998}
+      physicsShape:
+      - - {x: -6.5, y: 26.499998}
+        - {x: -6.5, y: -26.499998}
+        - {x: 4.5, y: -26.499998}
+        - {x: 6.5, y: -6.5}
+        - {x: 6.5, y: 26.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca377fea239e4311bfd87215c8de997e
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 53}
+      - {x: 13, y: 53}
+      - {x: 0, y: 0.0000019073486}
+      - {x: 13, y: 0.0000019073486}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarningIcon
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 210
+        width: 232
+        height: 203
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -108.00001, y: -100.5}
+        - {x: -116, y: -94.5}
+        - {x: -116, y: -67.5}
+        - {x: -25, y: 91.5}
+        - {x: -13, y: 101.5}
+        - {x: 14, y: 101.5}
+        - {x: 25, y: 93.5}
+        - {x: 116, y: -66.5}
+        - {x: 116, y: -92.5}
+        - {x: 110, y: -101.5}
+        - {x: -107.00001, y: -101.5}
+      physicsShape:
+      - - {x: 116, y: -69.5}
+        - {x: 98.99999, y: -38.5}
+        - {x: 76, y: -0.5}
+        - {x: 66.99999, y: 15.5}
+        - {x: 45, y: 53.499996}
+        - {x: 21, y: 94.5}
+        - {x: 17, y: 98.49999}
+        - {x: 9.999999, y: 101.5}
+        - {x: -11, y: 101.5}
+        - {x: -17, y: 98.49999}
+        - {x: -25, y: 88.5}
+        - {x: -29.999998, y: 79.49999}
+        - {x: -59.999996, y: 27.5}
+        - {x: -85, y: -15.5}
+        - {x: -93, y: -29.499998}
+        - {x: -112, y: -62.5}
+        - {x: -116, y: -71.5}
+        - {x: -116, y: -90.5}
+        - {x: -113, y: -95.5}
+        - {x: -110, y: -98.49999}
+        - {x: -103, y: -101.5}
+        - {x: 103, y: -101.5}
+        - {x: 110, y: -98.49999}
+        - {x: 113, y: -95.5}
+        - {x: 116, y: -89.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e900e5cc05465fb82618a99c9e67a4
+      internalID: 21300020
+      vertices:
+      - {x: 232, y: 35}
+      - {x: 226, y: 0}
+      - {x: 232, y: 9}
+      - {x: 141, y: 195}
+      - {x: 130, y: 203}
+      - {x: 103, y: 203}
+      - {x: 91, y: 193}
+      - {x: 8.999992, y: 0}
+      - {x: 7.9999924, y: 1}
+      - {x: 0, y: 34}
+      - {x: 0, y: 7}
+      indices: 0a0000000900000008000000060000000800000009000000070000000800000006000000010000000700000006000000050000000100000006000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletReloadIcon
+      rect:
+        serializedVersion: 2
+        x: 1820.0762
+        y: 0.076120496
+        width: 71.84776
+        height: 98.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49456084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: -49.538063}
+        - {x: -36, y: -49.538063}
+        - {x: -36, y: 24.461937}
+        - {x: -24, y: 49.461937}
+        - {x: 36, y: 49.461937}
+      physicsShape:
+      - - {x: 19.999998, y: 40.461937}
+        - {x: 12, y: 49.461937}
+        - {x: -9.999999, y: 49.461937}
+        - {x: -24, y: 41.461937}
+        - {x: -29.999998, y: 18.461937}
+        - {x: -35, y: -0.53806305}
+        - {x: -35, y: -48.538063}
+        - {x: 35, y: -48.538063}
+        - {x: 35, y: 9.461936}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a18a0b5dabc400689441a3b133b76ce
+      internalID: 21300022
+      vertices:
+      - {x: 26, y: 100}
+      - {x: 86, y: 1}
+      - {x: 86, y: 100}
+      - {x: 14, y: 75}
+      - {x: 14, y: 1}
+      indices: 040000000300000001000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillUnlock_IconBG
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 0
+        width: 249
+        height: 252
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103.5, y: -119.00001}
+        - {x: -124.5, y: -97}
+        - {x: -124.5, y: 101}
+        - {x: -120.50001, y: 103}
+        - {x: -120.50001, y: 104}
+        - {x: -117.49999, y: 105.99999}
+        - {x: -117.49999, y: 108.00001}
+        - {x: -115.5, y: 109}
+        - {x: -97.5, y: 126}
+        - {x: 96.5, y: 126}
+        - {x: 98.5, y: 124}
+        - {x: 99.5, y: 124}
+        - {x: 124.5, y: 99}
+        - {x: 124.5, y: -98}
+        - {x: 122.5, y: -100}
+        - {x: 121.5, y: -100}
+        - {x: 114.5, y: -108.00001}
+        - {x: 111.5, y: -110}
+        - {x: 105.49999, y: -116}
+        - {x: 104.49999, y: -116}
+        - {x: 94.5, y: -126}
+        - {x: -96.5, y: -126}
+      physicsShape:
+      - - {x: -123.5, y: 126}
+        - {x: -124.5, y: 113}
+        - {x: -124.5, y: -113}
+        - {x: -94.5, y: -126}
+        - {x: 94.5, y: -126}
+        - {x: 124.5, y: -104.99999}
+        - {x: 124.5, y: 124}
+        - {x: 116.5, y: 126}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80aaa701828c462d9e19bce653a9189a
+      internalID: 21300024
+      vertices:
+      - {x: 249, y: 225}
+      - {x: 247, y: 26}
+      - {x: 249, y: 28}
+      - {x: 246, y: 26}
+      - {x: 239, y: 17.999992}
+      - {x: 236, y: 16}
+      - {x: 230, y: 10}
+      - {x: 229, y: 10}
+      - {x: 224, y: 250}
+      - {x: 223, y: 250}
+      - {x: 221, y: 252}
+      - {x: 219, y: 0}
+      - {x: 28, y: 0}
+      - {x: 27, y: 252}
+      - {x: 21, y: 6.9999924}
+      - {x: 9, y: 235}
+      - {x: 7.0000076, y: 234}
+      - {x: 7.0000076, y: 232}
+      - {x: 3.9999924, y: 230}
+      - {x: 3.9999924, y: 229}
+      - {x: 0, y: 227}
+      - {x: 0, y: 29}
+      indices: 15000000140000000e000000130000000e00000014000000120000000e00000013000000110000000e00000012000000100000000e000000110000000f0000000e000000100000000d0000000e0000000f0000000c0000000e0000000d0000000a0000000c0000000d0000000b0000000c0000000a000000070000000b0000000a00000009000000070000000a000000080000000700000009000000000000000700000008000000060000000700000000000000050000000600000000000000040000000500000000000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseButtonIcon
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 254
+        width: 66
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: -29}
+        - {x: -33, y: 29}
+        - {x: 33, y: 29}
+        - {x: 33, y: -29}
+      physicsShape:
+      - - {x: -3, y: 29}
+        - {x: -32, y: 29}
+        - {x: -33, y: 28}
+        - {x: -33, y: -28}
+        - {x: -32, y: -29}
+        - {x: -3, y: -29}
+        - {x: -1, y: -28}
+        - {x: 0, y: -25}
+        - {x: 0, y: 25}
+      - - {x: 0, y: 29}
+        - {x: 0, y: -28}
+        - {x: 2, y: -29}
+        - {x: 32, y: -29}
+        - {x: 33, y: -28}
+        - {x: 33, y: 29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5b1d9d8429462b84fe6fa2406d2c99
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 58}
+      - {x: 66, y: 58}
+      - {x: 0, y: 0}
+      - {x: 66, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screen_Shine
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 172
+        width: 128
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -128}
+        - {x: -64, y: -128}
+        - {x: -64, y: 128}
+        - {x: 64, y: 128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6190f8c05e444708e7378c3da2e825d
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 128, y: 0}
+      - {x: 128, y: 256}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseButton_BG
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 172
+        width: 47
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 0, z: 9, w: 0}
+      outline:
+      - - {x: -16.5, y: -69.5}
+        - {x: -23.5, y: -65.5}
+        - {x: -23.5, y: 12.5}
+        - {x: -20.5, y: 65.5}
+        - {x: -15.5, y: 69.5}
+        - {x: 23.5, y: 69.5}
+        - {x: 23.5, y: -69.5}
+      physicsShape:
+      - - {x: -15.5, y: 69.5}
+        - {x: -23.5, y: 41.5}
+        - {x: -23.5, y: -69.5}
+        - {x: 23.5, y: -69.5}
+        - {x: 23.5, y: 69.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f094bfc24ac4e7ebad0cd5044368541
+      internalID: 21300030
+      vertices:
+      - {x: 8, y: 139}
+      - {x: 47, y: 0}
+      - {x: 47, y: 139}
+      - {x: 7, y: 0}
+      - {x: 3, y: 135}
+      - {x: 0, y: 82}
+      - {x: 0, y: 4}
+      indices: 060000000500000003000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleTopBG
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1080
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 77, z: 0, w: 6}
+      outline:
+      - - {x: -540, y: -42}
+        - {x: -540, y: 42}
+        - {x: 540, y: 42}
+        - {x: 540, y: -42}
+      physicsShape:
+      - - {x: 540, y: 25}
+        - {x: 540, y: 42}
+        - {x: -540, y: 42}
+        - {x: -540, y: 25}
+        - {x: -251, y: 25}
+        - {x: -248, y: 21}
+        - {x: -231, y: -1}
+        - {x: -204, y: -37}
+        - {x: -199, y: -41}
+        - {x: 200, y: -41}
+        - {x: 208, y: -31}
+        - {x: 232, y: -2}
+        - {x: 252, y: 25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f45118a3fa4488abffd6eca55fd82f4
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 84}
+      - {x: 1080, y: 84}
+      - {x: 0, y: 0}
+      - {x: 1080, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Sub_BG
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 537
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 230.5, y: -45}
+        - {x: -268.5, y: -45}
+        - {x: -268.5, y: 45}
+        - {x: 268.5, y: 45}
+        - {x: 268.5, y: 38}
+        - {x: 260.5, y: 22}
+        - {x: 260.5, y: 20}
+        - {x: 255.5, y: 11}
+        - {x: 255.5, y: 9}
+        - {x: 250.50002, y: 0}
+        - {x: 250.50002, y: -2}
+        - {x: 245.5, y: -11}
+        - {x: 245.5, y: -13}
+        - {x: 240.5, y: -22}
+        - {x: 240.5, y: -24}
+        - {x: 235.5, y: -33}
+        - {x: 235.5, y: -35}
+        - {x: 231.5, y: -44}
+      physicsShape:
+      - - {x: -268.5, y: 45}
+        - {x: -268.5, y: -45}
+        - {x: 230.5, y: -45}
+        - {x: 257.5, y: -1}
+        - {x: 268.5, y: 37}
+        - {x: 268.5, y: 45}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8bb92c57ef4b59a1a257a7045bb06c
+      internalID: 21300034
+      vertices:
+      - {x: 537, y: 90}
+      - {x: 529, y: 67}
+      - {x: 537, y: 83}
+      - {x: 524, y: 56}
+      - {x: 529, y: 65}
+      - {x: 519, y: 45}
+      - {x: 524, y: 54}
+      - {x: 514, y: 34}
+      - {x: 519, y: 43}
+      - {x: 509, y: 23}
+      - {x: 514, y: 32}
+      - {x: 504, y: 12}
+      - {x: 509, y: 21}
+      - {x: 500, y: 1}
+      - {x: 504, y: 10}
+      - {x: 499, y: 0}
+      - {x: 0, y: 90}
+      - {x: 0, y: 0}
+      indices: 11000000100000000f0000000b0000000f00000010000000000000000b000000100000000d0000000f0000000b0000000e0000000d0000000b000000090000000b000000000000000c0000000b000000090000000700000009000000000000000a0000000900000007000000050000000700000000000000080000000700000005000000030000000500000000000000060000000500000003000000010000000300000000000000040000000300000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChallengeDifficultyItemBG
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 0
+        width: 285
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 246, y: 0, z: 37, w: 0}
+      outline:
+      - - {x: -142.5, y: -85}
+        - {x: -142.5, y: 85}
+        - {x: 142.5, y: 85}
+        - {x: 142.5, y: -85}
+      physicsShape:
+      - - {x: -142.5, y: 85}
+        - {x: -142.5, y: -85}
+        - {x: 142.5, y: -85}
+        - {x: 142.5, y: 85}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85920757c53a47c9b9820f8ad45562d8
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 170}
+      - {x: 285, y: 170}
+      - {x: 0, y: 0}
+      - {x: 285, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillBG_Small
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 254
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -29}
+        - {x: -29, y: -28}
+        - {x: -29, y: 29}
+        - {x: 29, y: 29}
+        - {x: 29, y: -29}
+      physicsShape:
+      - - {x: -26.999998, y: 29}
+        - {x: -29, y: 26.999998}
+        - {x: -29, y: -26.999998}
+        - {x: -26.999998, y: -29}
+        - {x: 26.999998, y: -29}
+        - {x: 29, y: -26.999998}
+        - {x: 29, y: 26.999998}
+        - {x: 26.999998, y: 29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918e1f653ce446409328710a51257154
+      internalID: 21300038
+      vertices:
+      - {x: 58, y: 58}
+      - {x: 1, y: 0}
+      - {x: 58, y: 0}
+      - {x: 0, y: 58}
+      - {x: 0, y: 1}
+      indices: 040000000300000001000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jingyin
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 342
+        width: 87
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -40.5}
+        - {x: -43.5, y: -15.5}
+        - {x: -43.5, y: 40.5}
+        - {x: 43.5, y: 40.5}
+        - {x: 43.5, y: -39.5}
+        - {x: 41.5, y: -40.5}
+      physicsShape:
+      - - {x: 9.5, y: 40.5}
+        - {x: -10.5, y: 29.499998}
+        - {x: -22.5, y: 40.5}
+        - {x: -31.5, y: 40.5}
+        - {x: -43.5, y: 30.5}
+        - {x: -43.5, y: 3.5}
+        - {x: -31.5, y: -15.5}
+        - {x: -25.5, y: -24.499998}
+        - {x: 9.5, y: -40.5}
+        - {x: 31.5, y: -40.5}
+        - {x: 43.5, y: -34.5}
+        - {x: 43.5, y: 8.5}
+        - {x: 32.5, y: 40.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a35be3f42664244a4f22a650ce714b1
+      internalID: 21300040
+      vertices:
+      - {x: 87, y: 81}
+      - {x: 85, y: 0}
+      - {x: 87, y: 1}
+      - {x: 28, y: 0}
+      - {x: 0, y: 81}
+      - {x: 0, y: 25}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supply_Sub_BG
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 302
+        width: 537
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 268.5, y: -45}
+        - {x: -268.5, y: -45}
+        - {x: -268.5, y: -38}
+        - {x: -260.5, y: -22}
+        - {x: -260.5, y: -20}
+        - {x: -255.5, y: -11}
+        - {x: -255.5, y: -9}
+        - {x: -250.50002, y: 0}
+        - {x: -250.50002, y: 2}
+        - {x: -245.5, y: 11}
+        - {x: -245.5, y: 13}
+        - {x: -240.5, y: 22}
+        - {x: -240.5, y: 24}
+        - {x: -235.5, y: 33}
+        - {x: -235.5, y: 35}
+        - {x: -231.5, y: 44}
+        - {x: -230.5, y: 45}
+        - {x: 268.5, y: 45}
+      physicsShape:
+      - - {x: -230.5, y: 45}
+        - {x: -243.5, y: 37}
+        - {x: -268.5, y: -36}
+        - {x: -268.5, y: -45}
+        - {x: 268.5, y: -45}
+        - {x: 268.5, y: 45}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b29635da8f54bb48e4ef50989bd000a
+      internalID: 21300042
+      vertices:
+      - {x: 38, y: 90}
+      - {x: 537, y: 0}
+      - {x: 537, y: 90}
+      - {x: 37, y: 89}
+      - {x: 33, y: 80}
+      - {x: 33, y: 78}
+      - {x: 28, y: 69}
+      - {x: 28, y: 67}
+      - {x: 23, y: 58}
+      - {x: 23, y: 56}
+      - {x: 17.999985, y: 47}
+      - {x: 17.999985, y: 45}
+      - {x: 13, y: 36}
+      - {x: 13, y: 34}
+      - {x: 8, y: 25}
+      - {x: 8, y: 23}
+      - {x: 0, y: 7}
+      - {x: 0, y: 0}
+      indices: 1100000010000000010000000f00000001000000100000000e000000010000000f0000000d000000010000000e0000000c000000010000000d0000000b000000010000000c0000000a000000010000000b00000009000000010000000a000000080000000100000009000000070000000100000008000000060000000100000007000000050000000100000006000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossIcon
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 350
+        width: 52
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -26.499998}
+        - {x: -26, y: 26.499998}
+        - {x: 26, y: 26.499998}
+        - {x: 26, y: -26.499998}
+      physicsShape:
+      - - {x: -22.999998, y: 26.499998}
+        - {x: -26, y: 22.5}
+        - {x: -26, y: -10.5}
+        - {x: -25, y: -11.499999}
+        - {x: -14, y: -26.499998}
+        - {x: 14.999999, y: -26.499998}
+        - {x: 26, y: -16.5}
+        - {x: 26, y: 26.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013481ef3d19468ba1164ff743eb3069
+      internalID: 21300044
+      vertices:
+      - {x: 0, y: 53}
+      - {x: 52, y: 53}
+      - {x: 0, y: 0.0000019073486}
+      - {x: 52, y: 0.0000019073486}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Currency_BG: 21300018
+      Weapon_Sub_BG: 21300034
+      Supply_Sub_BG: 21300042
+      Screen_Shine: 21300028
+      BulletReloadIcon: 21300022
+      WarningIcon: 21300020
+      yinliang: 21300004
+      reborn_circle: 21300010
+      Skill_Item_BGEmpty: 21300014
+      PauseButtonIcon: 21300026
+      ProgressFill_BossHp: 21300002
+      SkillUnlock_IconBG: 21300024
+      BossIcon: 21300044
+      ProgressFill_Exp: 21300006
+      home: 21300016
+      jingyin: 21300040
+      BattleTopBG: 21300032
+      WarningLine1: 21300008
+      JoystickCenter: 21300000
+      Skill_Item_BG: 21300012
+      PauseButton_BG: 21300030
+      SkillBG_Small: 21300038
+      ChallengeDifficultyItemBG: 21300036
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

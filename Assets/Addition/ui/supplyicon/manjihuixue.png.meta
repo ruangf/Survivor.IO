@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 5e7c34dc30ccf934388a51bfea323235
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: manjihuixue
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 48
+  maxTextureSize: 100
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: manjihuixue
+      rect:
+        serializedVersion: 2
+        x: 8.026751
+        y: 8.012913
+        width: 86.89713
+        height: 87.97418
+      alignment: 9
+      pivot: {x: 0.48302227, y: 0.477266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.475315, y: -44.000004}
+        - {x: -43.475315, y: -38.000004}
+        - {x: -43.475315, y: -10.000004}
+        - {x: -40.475315, y: 3.9999962}
+        - {x: -15.475315, y: 36.999996}
+        - {x: 8.524685, y: 43.999996}
+        - {x: 26.524685, y: 43.999996}
+        - {x: 43.524685, y: 32.999996}
+        - {x: 43.524685, y: -9.000004}
+        - {x: 17.524685, y: -44.000004}
+      physicsShape:
+      - - {x: 41.52468, y: 8.999996}
+        - {x: 41.52468, y: 27.999994}
+        - {x: 40.524685, y: 30.999996}
+        - {x: 29.524685, y: 41.999996}
+        - {x: 12.524685, y: 41.999996}
+        - {x: 5.524685, y: 36.999996}
+        - {x: -12.475315, y: 34.999996}
+        - {x: -24.475313, y: 22.999996}
+        - {x: -37.475315, y: 7.999995}
+        - {x: -39.475315, y: -15.000004}
+        - {x: -41.47531, y: -18.000004}
+        - {x: -41.47531, y: -31.000004}
+        - {x: -40.475315, y: -35.000004}
+        - {x: -32.475315, y: -41.000004}
+        - {x: -26.475315, y: -42}
+        - {x: -17.475315, y: -42}
+        - {x: 4.524685, y: -38.000004}
+        - {x: 25.524683, y: -24.000004}
+        - {x: 35.524685, y: -12.000003}
+        - {x: 37.524685, y: 6.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099892afe3f14fc28d0125e931830355
+      internalID: 21300000
+      vertices:
+      - {x: 78, y: 96}
+      - {x: 95, y: 43}
+      - {x: 95, y: 85}
+      - {x: 69, y: 8}
+      - {x: 60, y: 96}
+      - {x: 36, y: 89}
+      - {x: 18, y: 8}
+      - {x: 11, y: 56}
+      - {x: 8, y: 42}
+      - {x: 8, y: 14}
+      indices: 090000000800000006000000070000000600000008000000050000000600000007000000030000000600000005000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      manjihuixue: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

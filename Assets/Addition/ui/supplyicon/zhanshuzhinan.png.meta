@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: f8dcc5315ea9f5c43a35b09649e6ef95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: zhanshuzhinan
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 48
+  maxTextureSize: 100
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zhanshuzhinan
+      rect:
+        serializedVersion: 2
+        x: 1.026751
+        y: 5.0761204
+        width: 96.89713
+        height: 89.89713
+      alignment: 9
+      pivot: {x: 0.50541484, y: 0.4997254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.47532, y: -45.024685}
+        - {x: -48.47532, y: -36.024685}
+        - {x: -48.47532, y: 0.9753151}
+        - {x: -28.475319, y: 44.975315}
+        - {x: 10.524681, y: 44.975315}
+        - {x: 39.52468, y: 36.975315}
+        - {x: 48.52468, y: 26.975317}
+        - {x: 48.52468, y: -25.024685}
+        - {x: 46.52468, y: -45.024685}
+      physicsShape:
+      - - {x: 47.52468, y: 19.975313}
+        - {x: 36.52468, y: 31.975315}
+        - {x: 26.524681, y: 35.975315}
+        - {x: 10.52468, y: 35.975315}
+        - {x: 0.5246811, y: 32.975315}
+        - {x: -6.475319, y: 42.97531}
+        - {x: -9.475318, y: 43.975315}
+        - {x: -23.475319, y: 43.975315}
+        - {x: -28.475319, y: 38.975315}
+        - {x: -32.47532, y: 32.975315}
+        - {x: -47.47532, y: -14.024685}
+        - {x: -47.47532, y: -28.024685}
+        - {x: -41.47532, y: -34.024685}
+        - {x: -30.475319, y: -39.024685}
+        - {x: -17.475319, y: -40.02468}
+        - {x: 4.524681, y: -32.024685}
+        - {x: 17.524681, y: -33.024685}
+        - {x: 31.524681, y: -43.02468}
+        - {x: 33.52468, y: -44.024685}
+        - {x: 39.52468, y: -44.024685}
+        - {x: 43.524677, y: -39.024685}
+        - {x: 45.52468, y: -7.024685}
+        - {x: 47.52468, y: 9.975314}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00facdccb8634ec7a40d772b790295f3
+      internalID: 21300000
+      vertices:
+      - {x: 98, y: 77}
+      - {x: 96, y: 5}
+      - {x: 98, y: 25}
+      - {x: 89, y: 87}
+      - {x: 60, y: 95}
+      - {x: 21, y: 95}
+      - {x: 16, y: 5}
+      - {x: 1, y: 51}
+      - {x: 1, y: 14}
+      indices: 080000000700000006000000050000000600000007000000010000000600000005000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zhanshuzhinan: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

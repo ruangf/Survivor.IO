@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 11b05c059c8cc21489d2b122b1f24e3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ranyoutong
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 48
+  maxTextureSize: 100
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ranyoutong
+      rect:
+        serializedVersion: 2
+        x: 9.026751
+        y: 1.0761205
+        width: 90.921936
+        height: 98.92388
+      alignment: 9
+      pivot: {x: 0.45064208, y: 0.49456084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.512283, y: 19.461937}
+        - {x: 38.512283, y: 22.461937}
+        - {x: 38.512283, y: 23.461937}
+        - {x: 41.512283, y: 26.461939}
+        - {x: 43.512283, y: 26.461939}
+        - {x: 45.512283, y: 21.461937}
+      - - {x: -28.487717, y: -49.538063}
+        - {x: -45.487717, y: -31.538063}
+        - {x: -45.487717, y: -1.538063}
+        - {x: -36.487717, y: 48.461937}
+        - {x: -34.487717, y: 49.461937}
+        - {x: 5.5122833, y: 49.461937}
+        - {x: 36.512283, y: 31.461937}
+        - {x: 36.512283, y: -48.538063}
+        - {x: 33.512283, y: -49.538063}
+      physicsShape:
+      - - {x: 35.51228, y: -3.538063}
+        - {x: 35.51228, y: 26.461935}
+        - {x: 30.512283, y: 33.461937}
+        - {x: 13.512283, y: 39.461933}
+        - {x: 2.5122833, y: 44.461937}
+        - {x: -12.487717, y: 48.461933}
+        - {x: -15.487717, y: 48.461933}
+        - {x: -23.487717, y: 46.461937}
+        - {x: -30.487717, y: 37.461937}
+        - {x: -36.487717, y: 24.461937}
+        - {x: -44.487713, y: -10.538062}
+        - {x: -44.487713, y: -19.538063}
+        - {x: -43.487717, y: -25.538063}
+        - {x: -33.487717, y: -33.538063}
+        - {x: -12.487717, y: -46.53806}
+        - {x: 14.512283, y: -46.53806}
+        - {x: 23.512283, y: -41.538063}
+        - {x: 34.512283, y: -10.538062}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d88b82b13364985bb08818ae7d0af56
+      internalID: 21300000
+      vertices:
+      - {x: 91, y: 82}
+      - {x: 88, y: 1}
+      - {x: 91, y: 2}
+      - {x: 60, y: 100}
+      - {x: 26, y: 1}
+      - {x: 19.999998, y: 100}
+      - {x: 18, y: 99}
+      - {x: 9, y: 49}
+      - {x: 9, y: 19}
+      - {x: 98, y: 77}
+      - {x: 97, y: 70}
+      - {x: 100, y: 72}
+      - {x: 96, y: 77}
+      - {x: 93, y: 74}
+      - {x: 93, y: 73}
+      indices: 0e0000000d0000000a0000000c0000000a0000000d000000090000000a0000000c0000000b0000000a00000009000000080000000700000004000000060000000400000007000000050000000400000006000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ranyoutong: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

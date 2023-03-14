@@ -1,0 +1,1048 @@
+fileFormatVersion: 2
+guid: cbca6ae5e831aee4ca18745b38c578f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: challenge_title
+  - first:
+      213: 21300002
+    second: Challenge_Box_Light_Normal
+  - first:
+      213: 21300004
+    second: challenge_finish
+  - first:
+      213: 21300006
+    second: Challenge_Box_Normal_Open
+  - first:
+      213: 21300008
+    second: Challenge_Box_Normal
+  - first:
+      213: 21300010
+    second: Challenge_Box_Epic
+  - first:
+      213: 21300012
+    second: challenge_icon_012
+  - first:
+      213: 21300014
+    second: challenge_icon_036
+  - first:
+      213: 21300016
+    second: challenge_icon_028
+  - first:
+      213: 21300018
+    second: challenge_lock
+  - first:
+      213: 21300020
+    second: challenge_icon_002
+  - first:
+      213: 21300022
+    second: Challenge_Box_Epic_Open
+  - first:
+      213: 21300024
+    second: challenge_icon_037
+  - first:
+      213: 21300026
+    second: challenge_icon_023
+  - first:
+      213: 21300028
+    second: Challenge_Box_Light_Epic
+  - first:
+      213: 21300030
+    second: challenge_icon_011
+  - first:
+      213: 21300032
+    second: challenge_title_gray
+  - first:
+      213: 21300034
+    second: challenge_icon_032
+  - first:
+      213: 21300036
+    second: challenge_icon_008
+  - first:
+      213: 21300038
+    second: challenge_icon_029
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 0
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: challenge_title
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 796
+        width: 437
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 380, y: 0, z: 55, w: 0}
+      outline:
+      - - {x: -199.5, y: -25}
+        - {x: -218.5, y: -6}
+        - {x: -218.5, y: 6}
+        - {x: -209.5, y: 16}
+        - {x: -174.5, y: 42}
+        - {x: -170.5, y: 43}
+        - {x: 171.5, y: 43}
+        - {x: 197.5, y: 26}
+        - {x: 217.5, y: 13}
+        - {x: 218.5, y: 9}
+        - {x: 218.5, y: -10}
+        - {x: 203.50002, y: -21}
+        - {x: 171.5, y: -43}
+        - {x: -170.5, y: -43}
+      physicsShape:
+      - - {x: 218.5, y: -4}
+        - {x: 218.5, y: 7}
+        - {x: 210.5, y: 14.999999}
+        - {x: 174.5, y: 39.999996}
+        - {x: 170.5, y: 42.999996}
+        - {x: -169.5, y: 42.999996}
+        - {x: -188.5, y: 29.999998}
+        - {x: -213.5, y: 9.999999}
+        - {x: -218.5, y: 4.9999995}
+        - {x: -218.5, y: -4}
+        - {x: -197.49998, y: -22.999998}
+        - {x: -171.49998, y: -41}
+        - {x: -167.5, y: -42.999996}
+        - {x: 168.5, y: -42.999996}
+        - {x: 172.49998, y: -41}
+        - {x: 190.5, y: -28}
+        - {x: 211.5, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c8d8424c604afea681d3a922bdeb1f
+      internalID: 21300000
+      vertices:
+      - {x: 436, y: 56}
+      - {x: 437, y: 33}
+      - {x: 437, y: 52}
+      - {x: 422, y: 22}
+      - {x: 416, y: 69}
+      - {x: 390, y: 86}
+      - {x: 390, y: 0}
+      - {x: 48, y: 86}
+      - {x: 48, y: 0}
+      - {x: 44, y: 85}
+      - {x: 19, y: 18}
+      - {x: 9, y: 59}
+      - {x: 0, y: 49}
+      - {x: 0, y: 37}
+      indices: 0d0000000c0000000a0000000b0000000a0000000c000000090000000a0000000b000000080000000a00000009000000070000000800000009000000060000000800000007000000050000000600000007000000030000000600000005000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Challenge_Box_Light_Normal
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 0
+        width: 306
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -151, y: -44}
+        - {x: -153, y: -33}
+        - {x: -153, y: 34}
+        - {x: -143, y: 64}
+        - {x: -128, y: 90}
+        - {x: -113, y: 107.00001}
+        - {x: -94, y: 125}
+        - {x: -66, y: 142}
+        - {x: -50, y: 147}
+        - {x: -32, y: 152}
+        - {x: -27.000002, y: 153}
+        - {x: 30.000002, y: 153}
+        - {x: 48, y: 149}
+        - {x: 72, y: 138}
+        - {x: 99, y: 121}
+        - {x: 122, y: 100}
+        - {x: 148, y: 56}
+        - {x: 153, y: 36}
+        - {x: 153, y: -41}
+        - {x: 136, y: -80}
+        - {x: 120.00001, y: -99}
+        - {x: 88, y: -131}
+        - {x: 48, y: -150}
+        - {x: 34, y: -153}
+        - {x: -40, y: -153}
+        - {x: -73, y: -141}
+        - {x: -114, y: -110}
+        - {x: -136, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f926bbe46fd7485aaf855eb5dd9b1221
+      internalID: 21300002
+      vertices:
+      - {x: 301, y: 209}
+      - {x: 306, y: 112}
+      - {x: 306, y: 189}
+      - {x: 289, y: 73}
+      - {x: 275, y: 253}
+      - {x: 273, y: 54}
+      - {x: 252, y: 274}
+      - {x: 241, y: 22}
+      - {x: 225, y: 291}
+      - {x: 201, y: 302}
+      - {x: 201, y: 3}
+      - {x: 187, y: 0}
+      - {x: 183, y: 306}
+      - {x: 126, y: 306}
+      - {x: 121, y: 305}
+      - {x: 113, y: 0}
+      - {x: 103, y: 300}
+      - {x: 87, y: 295}
+      - {x: 80, y: 12}
+      - {x: 59, y: 278}
+      - {x: 40, y: 260}
+      - {x: 39, y: 43}
+      - {x: 25, y: 243}
+      - {x: 17, y: 73}
+      - {x: 10, y: 217}
+      - {x: 2, y: 109}
+      - {x: 0, y: 187}
+      - {x: 0, y: 120}
+      indices: 1b0000001a0000001900000018000000190000001a0000001700000019000000180000001600000017000000180000001500000017000000160000001400000015000000160000001200000015000000140000001300000012000000140000001100000012000000130000000f0000001200000011000000100000000f000000110000000e0000000f000000100000000b0000000f0000000e0000000d0000000b0000000e0000000c0000000b0000000d000000090000000b0000000c0000000a0000000b00000009000000070000000a00000009000000080000000700000009000000060000000700000008000000050000000700000006000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: challenge_finish
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 884
+        width: 103
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 20.5}
+        - {x: -51.5, y: 35.5}
+        - {x: -51.5, y: 47.5}
+        - {x: 51.5, y: 47.5}
+        - {x: 51.5, y: -47.5}
+        - {x: 42.5, y: -47.5}
+      physicsShape:
+      - - {x: -51.5, y: 47.5}
+        - {x: -51.5, y: 37.5}
+        - {x: -46.5, y: 31.5}
+        - {x: 42.5, y: -47.5}
+        - {x: 51.5, y: -47.5}
+        - {x: 51.5, y: 47.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c3a8ec3b4d4e5d8daf38e7fccd5e14
+      internalID: 21300004
+      vertices:
+      - {x: 103, y: 95}
+      - {x: 94, y: 0}
+      - {x: 103, y: 0}
+      - {x: 15, y: 68}
+      - {x: 0, y: 95}
+      - {x: 0, y: 83}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Challenge_Box_Normal_Open
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 796
+        width: 152
+        height: 171
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: -85.5}
+        - {x: -76, y: -85.5}
+        - {x: -76, y: 81.5}
+        - {x: -51, y: 85.5}
+        - {x: 76, y: 85.5}
+        - {x: 76, y: -85.5}
+        - {x: 7, y: -85.5}
+        - {x: -66, y: -82.5}
+      physicsShape:
+      - - {x: -76, y: 85.49999}
+        - {x: -76, y: -79.49999}
+        - {x: -74, y: -81.5}
+        - {x: 76, y: -81.5}
+        - {x: 76, y: 85.49999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7f5bee4f1649c1bfe9d3ac805662a0
+      internalID: 21300006
+      vertices:
+      - {x: 152, y: 171}
+      - {x: 83, y: 0}
+      - {x: 152, y: 0}
+      - {x: 25, y: 171}
+      - {x: 10, y: 3}
+      - {x: 0, y: 167}
+      - {x: 10, y: 0}
+      - {x: 0, y: 0}
+      indices: 070000000500000006000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Challenge_Box_Normal
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 796
+        width: 152
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: -72.5}
+        - {x: -76, y: -72.5}
+        - {x: -76, y: 71.5}
+        - {x: -67, y: 72.5}
+        - {x: 66, y: 72.5}
+        - {x: 76, y: 69.5}
+      physicsShape:
+      - - {x: -66.99999, y: 72.5}
+        - {x: -76, y: 71.5}
+        - {x: -76, y: -39.5}
+        - {x: -74, y: -68.5}
+        - {x: 76, y: -68.5}
+        - {x: 76, y: 68.5}
+        - {x: 66, y: 72.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab97451229de49b88ef4e23048931372
+      internalID: 21300008
+      vertices:
+      - {x: 142, y: 145}
+      - {x: 152, y: 0}
+      - {x: 152, y: 142}
+      - {x: 9, y: 145}
+      - {x: 0, y: 144}
+      - {x: 0, y: 0}
+      indices: 050000000400000001000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Challenge_Box_Epic
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 796
+        width: 152
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: -72.5}
+        - {x: -76, y: -72.5}
+        - {x: -76, y: 71.5}
+        - {x: -67, y: 72.5}
+        - {x: 66, y: 72.5}
+        - {x: 76, y: 69.5}
+      physicsShape:
+      - - {x: -66.99999, y: 72.5}
+        - {x: -76, y: 71.5}
+        - {x: -76, y: -39.5}
+        - {x: -74, y: -68.5}
+        - {x: 76, y: -68.5}
+        - {x: 76, y: 68.5}
+        - {x: 66, y: 72.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bca93f063bc4bbe8039be31900619ff
+      internalID: 21300010
+      vertices:
+      - {x: 142, y: 145}
+      - {x: 152, y: 0}
+      - {x: 152, y: 142}
+      - {x: 9, y: 145}
+      - {x: 0, y: 144}
+      - {x: 0, y: 0}
+      indices: 050000000400000001000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: challenge_icon_012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 314
+        height: 396
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 157, y: -198}
+        - {x: -157, y: -198}
+        - {x: -157, y: 198}
+        - {x: 157, y: 198}
+      physicsShape:
+      - - {x: -157, y: 197.99998}
+        - {x: -157, y: -197.99998}
+        - {x: 157, y: -197.99998}
+        - {x: 157, y: 197.99998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f943dbe09564309936699c94fda69d8
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 396}
+      - {x: 314, y: 0}
+      - {x: 314, y: 396}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: challenge_icon_036
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 0
+        width: 314
+        height: 396
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 157, y: -198}
+        - {x: -157, y: -198}
+        - {x: -157, y: 198}
+        - {x: 157, y: 198}
+      physicsShape:
+      - - {x: -157, y: 197.99998}
+        - {x: -157, y: -197.99998}
+        - {x: 157, y: -197.99998}
+        - {x: 157, y: 197.99998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00b5a2d2930471c8e4e3855a07dad27
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 396}
+      - {x: 314, y: 0}
+      - {x: 314, y: 396}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: challenge_icon_028
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 314
+        height: 396
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 157, y: -198}
+        - {x: -157, y: -198}
+        - {x: -157, y: 198}
+        - {x: 157, y: 198}
+      physicsShape:
+      - - {x: -157, y: 197.99998}
+        - {x: -157, y: -197.99998}
+        - {x: 157, y: -197.99998}
+        - {x: 157, y: 197.99998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b05233d4ba443fea5eec071e02fc160
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 396}
+      - {x: 314, y: 0}
+      - {x: 314, y: 396}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: challenge_lock
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 616
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: -26}
+        - {x: -22.5, y: -26}
+        - {x: -22.5, y: 13}
+        - {x: -20.5, y: 24}
+        - {x: -17.5, y: 26}
+        - {x: 14.5, y: 26}
+        - {x: 20.5, y: 24}
+        - {x: 22.5, y: 20}
+      physicsShape:
+      - - {x: -22.5, y: 14}
+        - {x: -22.5, y: -26}
+        - {x: 22.5, y: -26}
+        - {x: 22.5, y: 21}
+        - {x: 21.499998, y: 25}
+        - {x: 19.5, y: 26}
+        - {x: -8.5, y: 26}
+        - {x: -13.499999, y: 24}
+      - - {x: -0.5, y: -12}
+        - {x: -3.5, y: -8}
+        - {x: -4.5, y: -6}
+        - {x: -1.5, y: -3}
+        - {x: 0.5, y: -2}
+        - {x: 3.5, y: -4}
+        - {x: 3.5, y: -9}
+        - {x: 0.5, y: -12}
+        - {x: 0.5, y: -14.999999}
+        - {x: -1.5, y: -16}
+        - {x: -0.5, y: -14.999999}
+      - - {x: -3.5, y: 14.999999}
+        - {x: -2.4999998, y: 16}
+        - {x: 3.5, y: 16}
+        - {x: 5.5, y: 14}
+        - {x: 5.5, y: 12}
+        - {x: -5.5, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e1c8b2efb74c83996c84a117d56c66
+      internalID: 21300018
+      vertices:
+      - {x: 43, y: 50}
+      - {x: 45, y: 0}
+      - {x: 45, y: 46}
+      - {x: 37, y: 52}
+      - {x: 5, y: 52}
+      - {x: 2, y: 50}
+      - {x: 0, y: 39}
+      - {x: 0, y: 0}
+      indices: 070000000600000001000000050000000100000006000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: challenge_icon_002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 314
+        height: 396
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 157, y: -198}
+        - {x: -157, y: -198}
+        - {x: -157, y: 198}
+        - {x: 157, y: 198}
+      physicsShape:
+      - - {x: -157, y: 197.99998}
+        - {x: -157, y: -197.99998}
+        - {x: 157, y: -197.99998}
+        - {x: 157, y: 197.99998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1010b52f45b343bc9c81d46d1a6e8bf7
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 396}
+      - {x: 314, y: 0}
+      - {x: 314, y: 396}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Challenge_Box_Epic_Open
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 796
+        width: 152
+        height: 171
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: -85.5}
+        - {x: -76, y: -85.5}
+        - {x: -76, y: 81.5}
+        - {x: -51, y: 85.5}
+        - {x: 76, y: 85.5}
+        - {x: 76, y: -85.5}
+        - {x: 7, y: -85.5}
+        - {x: -66, y: -82.5}
+      physicsShape:
+      - - {x: -76, y: 85.49999}
+        - {x: -76, y: -79.49999}
+        - {x: -74, y: -81.5}
+        - {x: 76, y: -81.5}
+        - {x: 76, y: 85.49999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5da38ad62bf4fc08eb5181d1dc5405e
+      internalID: 21300022
+      vertices:
+      - {x: 152, y: 171}
+      - {x: 83, y: 0}
+      - {x: 152, y: 0}
+      - {x: 25, y: 171}
+      - {x: 10, y: 3}
+      - {x: 0, y: 167}
+      - {x: 10, y: 0}
+      - {x: 0, y: 0}
+      indices: 070000000500000006000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: challenge_icon_037
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 398
+        width: 314
+        height: 396
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 157, y: -198}
+        - {x: -157, y: -198}
+        - {x: -157, y: 198}
+        - {x: 157, y: 198}
+      physicsShape:
+      - - {x: -157, y: 197.99998}
+        - {x: -157, y: -197.99998}
+        - {x: 157, y: -197.99998}
+        - {x: 157, y: 197.99998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c947378de274c9f83a86e820f0fa0d6
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 396}
+      - {x: 314, y: 0}
+      - {x: 314, y: 396}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: challenge_icon_023
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 398
+        width: 314
+        height: 396
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 157, y: -198}
+        - {x: -157, y: -198}
+        - {x: -157, y: 198}
+        - {x: 157, y: 198}
+      physicsShape:
+      - - {x: -157, y: 197.99998}
+        - {x: -157, y: -197.99998}
+        - {x: 157, y: -197.99998}
+        - {x: 157, y: 197.99998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596f1bd23ea74e199d15e632ed3a5627
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 396}
+      - {x: 314, y: 0}
+      - {x: 314, y: 396}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Challenge_Box_Light_Epic
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 308
+        width: 306
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -151, y: -44}
+        - {x: -153, y: -33}
+        - {x: -153, y: 34}
+        - {x: -143, y: 64}
+        - {x: -128, y: 90}
+        - {x: -113, y: 107.00001}
+        - {x: -94, y: 125}
+        - {x: -66, y: 142}
+        - {x: -50, y: 147}
+        - {x: -32, y: 152}
+        - {x: -27.000002, y: 153}
+        - {x: 30.000002, y: 153}
+        - {x: 48, y: 149}
+        - {x: 72, y: 138}
+        - {x: 99, y: 121}
+        - {x: 122, y: 100}
+        - {x: 148, y: 56}
+        - {x: 153, y: 36}
+        - {x: 153, y: -41}
+        - {x: 136, y: -80}
+        - {x: 120.00001, y: -99}
+        - {x: 88, y: -131}
+        - {x: 48, y: -150}
+        - {x: 34, y: -153}
+        - {x: -40, y: -153}
+        - {x: -73, y: -141}
+        - {x: -114, y: -110}
+        - {x: -136, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649885b2d2b04de6b27fa3ef7510f7c7
+      internalID: 21300028
+      vertices:
+      - {x: 301, y: 209}
+      - {x: 306, y: 112}
+      - {x: 306, y: 189}
+      - {x: 289, y: 73}
+      - {x: 275, y: 253}
+      - {x: 273, y: 54}
+      - {x: 252, y: 274}
+      - {x: 241, y: 22}
+      - {x: 225, y: 291}
+      - {x: 201, y: 302}
+      - {x: 201, y: 3}
+      - {x: 187, y: 0}
+      - {x: 183, y: 306}
+      - {x: 126, y: 306}
+      - {x: 121, y: 305}
+      - {x: 113, y: 0}
+      - {x: 103, y: 300}
+      - {x: 87, y: 295}
+      - {x: 80, y: 12}
+      - {x: 59, y: 278}
+      - {x: 40, y: 260}
+      - {x: 39, y: 43}
+      - {x: 25, y: 243}
+      - {x: 17, y: 73}
+      - {x: 10, y: 217}
+      - {x: 2, y: 109}
+      - {x: 0, y: 187}
+      - {x: 0, y: 120}
+      indices: 1b0000001a0000001900000018000000190000001a0000001700000019000000180000001600000017000000180000001500000017000000160000001400000015000000160000001200000015000000140000001300000012000000140000001100000012000000130000000f0000001200000011000000100000000f000000110000000e0000000f000000100000000b0000000f0000000e0000000d0000000b0000000e0000000c0000000b0000000d000000090000000b0000000c0000000a0000000b00000009000000070000000a00000009000000080000000700000009000000060000000700000008000000050000000700000006000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: challenge_icon_011
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 0
+        width: 314
+        height: 396
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 157, y: -198}
+        - {x: -157, y: -198}
+        - {x: -157, y: 198}
+        - {x: 157, y: 198}
+      physicsShape:
+      - - {x: -157, y: 197.99998}
+        - {x: -157, y: -197.99998}
+        - {x: 157, y: -197.99998}
+        - {x: 157, y: 197.99998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bef72d06024f03a7ca94d22b9d362e
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 396}
+      - {x: 314, y: 0}
+      - {x: 314, y: 396}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: challenge_title_gray
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 796
+        width: 148
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 71, y: 0, z: 67, w: 0}
+      outline:
+      - - {x: -43, y: -43.5}
+        - {x: -74, y: -11.5}
+        - {x: -74, y: 30.5}
+        - {x: -58.999996, y: 43.5}
+        - {x: 46, y: 43.5}
+        - {x: 74, y: 33.5}
+        - {x: 74, y: -10.5}
+        - {x: 39, y: -43.5}
+      physicsShape:
+      - - {x: 74, y: 6.5}
+        - {x: 70, y: 11.499999}
+        - {x: 29.999998, y: 41.5}
+        - {x: 25, y: 43.5}
+        - {x: -24, y: 43.5}
+        - {x: -29, y: 40.5}
+        - {x: -64, y: 15.5}
+        - {x: -68, y: 10.5}
+        - {x: -74, y: 4.5}
+        - {x: -74, y: -1.5}
+        - {x: -66, y: -10.5}
+        - {x: -36, y: -34.5}
+        - {x: -22.999998, y: -42.5}
+        - {x: -19.999998, y: -43.5}
+        - {x: 22, y: -43.5}
+        - {x: 37, y: -34.5}
+        - {x: 66, y: -10.5}
+        - {x: 74, y: -3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7898b19ec42a4b438dd8a7a5040a00a8
+      internalID: 21300032
+      vertices:
+      - {x: 120, y: 87}
+      - {x: 148, y: 33}
+      - {x: 148, y: 77}
+      - {x: 113, y: 0}
+      - {x: 31, y: 0}
+      - {x: 15.000004, y: 87}
+      - {x: 0, y: 74}
+      - {x: 0, y: 32}
+      indices: 070000000600000004000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: challenge_icon_032
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 0
+        width: 314
+        height: 396
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 157, y: -198}
+        - {x: -157, y: -198}
+        - {x: -157, y: 198}
+        - {x: 157, y: 198}
+      physicsShape:
+      - - {x: -157, y: 197.99998}
+        - {x: -157, y: -197.99998}
+        - {x: 157, y: -197.99998}
+        - {x: 157, y: 197.99998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0924e40416d4b0c9631317d476741b4
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 396}
+      - {x: 314, y: 0}
+      - {x: 314, y: 396}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: challenge_icon_008
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 398
+        width: 314
+        height: 396
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 157, y: -198}
+        - {x: -157, y: -198}
+        - {x: -157, y: 198}
+        - {x: 157, y: 198}
+      physicsShape:
+      - - {x: -157, y: 197.99998}
+        - {x: -157, y: -197.99998}
+        - {x: 157, y: -197.99998}
+        - {x: 157, y: 197.99998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2be2698a9b24b6bab84406843726c56
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 396}
+      - {x: 314, y: 0}
+      - {x: 314, y: 396}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: challenge_icon_029
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 398
+        width: 314
+        height: 396
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 157, y: -198}
+        - {x: -157, y: -198}
+        - {x: -157, y: 198}
+        - {x: 157, y: 198}
+      physicsShape:
+      - - {x: -157, y: 197.99998}
+        - {x: -157, y: -197.99998}
+        - {x: 157, y: -197.99998}
+        - {x: 157, y: 197.99998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de038e695ad4f6185cd347f3ce28f1b
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 396}
+      - {x: 314, y: 0}
+      - {x: 314, y: 396}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      challenge_icon_037: 21300024
+      Challenge_Box_Epic_Open: 21300022
+      challenge_title_gray: 21300032
+      challenge_icon_036: 21300014
+      Challenge_Box_Normal: 21300008
+      Challenge_Box_Normal_Open: 21300006
+      challenge_icon_008: 21300036
+      challenge_lock: 21300018
+      challenge_icon_011: 21300030
+      Challenge_Box_Epic: 21300010
+      challenge_title: 21300000
+      challenge_icon_012: 21300012
+      challenge_icon_029: 21300038
+      Challenge_Box_Light_Normal: 21300002
+      challenge_icon_032: 21300034
+      challenge_finish: 21300004
+      challenge_icon_028: 21300016
+      Challenge_Box_Light_Epic: 21300028
+      challenge_icon_002: 21300020
+      challenge_icon_023: 21300026
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

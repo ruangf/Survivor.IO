@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 2aa572ffa4b11d74f9ab7c1a69143ab0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: yonghengzhiguang
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yonghengzhiguang
+      rect:
+        serializedVersion: 2
+        x: 10.051316
+        y: 7.026751
+        width: 237.87256
+        height: 243.96034
+      alignment: 9
+      pivot: {x: 0.4958482, y: 0.49587262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.987595, y: -122.00692}
+        - {x: -118.98759, y: -53.00692}
+        - {x: -118.98759, y: 121.99308}
+        - {x: -9.987595, y: 121.99308}
+        - {x: 119.01241, y: -22.00692}
+        - {x: 119.01241, y: -83.00692}
+        - {x: 116.0124, y: -86.00692}
+        - {x: 99.012405, y: -89.00692}
+        - {x: 96.012405, y: -88.00692}
+        - {x: 102.012405, y: -92.00692}
+        - {x: 107.01241, y: -96.00692}
+        - {x: 119.01241, y: -115.00692}
+        - {x: 119.01241, y: -122.00692}
+      physicsShape:
+      - - {x: 94.012405, y: -90.00692}
+        - {x: 86.012405, y: -91.00692}
+        - {x: 70.012405, y: -82.00692}
+        - {x: 70.012405, y: -77.00692}
+        - {x: 63.012405, y: -71.00692}
+        - {x: 58.0124, y: -58.00692}
+        - {x: 67.012405, y: -57.00692}
+        - {x: 80.012405, y: -68.00691}
+        - {x: 83.012405, y: -77.00692}
+        - {x: 99.012405, y: -90.00692}
+        - {x: 117.0124, y: -83.00692}
+        - {x: 118.0124, y: -75.00692}
+        - {x: 118.0124, y: -63.00692}
+        - {x: 109.012405, y: -53.00692}
+        - {x: 103.012405, y: -51.00692}
+        - {x: 88.012405, y: -35.00692}
+        - {x: 87.012405, y: -27.00692}
+        - {x: 83.012405, y: -20.00692}
+        - {x: 82.012405, y: 4.99308}
+        - {x: 78.012405, y: 6.99308}
+        - {x: 74.012405, y: 5.99308}
+        - {x: 68.012405, y: 0.99308014}
+        - {x: 60.012405, y: 9.99308}
+        - {x: 57.012405, y: 9.99308}
+        - {x: 53.0124, y: 5.99308}
+        - {x: 45.0124, y: 17.99308}
+        - {x: 17.012405, y: 53.99308}
+        - {x: -0.9875946, y: 76.99308}
+        - {x: -20.987593, y: 96.99307}
+        - {x: -34.987595, y: 104.99307}
+        - {x: -65.987595, y: 115.99307}
+        - {x: -87.987595, y: 119.99307}
+        - {x: -94.987595, y: 119.99307}
+        - {x: -96.987595, y: 118.99307}
+        - {x: -92.98759, y: 93.99308}
+        - {x: -83.987595, y: 73.99308}
+        - {x: -75.987595, y: 55.99308}
+        - {x: -68.987595, y: 46.99308}
+        - {x: -59.98759, y: 36.99308}
+        - {x: -45.987595, y: 23.99308}
+        - {x: -29.987595, y: 11.99308}
+        - {x: 10.012405, y: -16.00692}
+        - {x: 21.012405, y: -25.00692}
+        - {x: 19.012403, y: -32.00692}
+        - {x: 25.012405, y: -37.00692}
+        - {x: 24.012405, y: -50.006916}
+        - {x: 26.012403, y: -52.00692}
+        - {x: 46.012405, y: -57.00692}
+        - {x: 35.012405, y: -55.006916}
+        - {x: 30.012405, y: -59.00692}
+        - {x: 21.012405, y: -52.00692}
+        - {x: -13.987595, y: -30.00692}
+        - {x: -53.98759, y: -10.00692}
+        - {x: -64.987595, y: -8.00692}
+        - {x: -84.987595, y: -9.00692}
+        - {x: -98.98759, y: -10.00692}
+        - {x: -115.987595, y: -12.00692}
+        - {x: -116.987595, y: -15.00692}
+        - {x: -116.987595, y: -21.006918}
+        - {x: -107.98759, y: -33.00692}
+        - {x: -93.987595, y: -50.006916}
+        - {x: -79.987595, y: -63.00692}
+        - {x: -57.987595, y: -73.00692}
+        - {x: -42.987595, y: -78.00692}
+        - {x: 2.0124054, y: -90.00692}
+        - {x: 16.012405, y: -96.00692}
+        - {x: 15.012405, y: -99.00691}
+        - {x: 21.012405, y: -103.00692}
+        - {x: 24.012405, y: -113.00692}
+        - {x: 31.012405, y: -115.00692}
+        - {x: 49.012405, y: -109.00691}
+        - {x: 65.012405, y: -109.00691}
+        - {x: 86.012405, y: -121.00691}
+        - {x: 96.012405, y: -121.00691}
+        - {x: 106.0124, y: -116.00692}
+        - {x: 109.012405, y: -107.00691}
+        - {x: 106.0124, y: -98.00692}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4d1c2e2bbe42b0b9af3a3ddaa72206
+      internalID: 21300000
+      vertices:
+      - {x: 224, y: 41}
+      - {x: 223, y: 41}
+      - {x: 225, y: 41}
+      - {x: 222, y: 41}
+      - {x: 248, y: 107}
+      - {x: 245, y: 43}
+      - {x: 248, y: 46}
+      - {x: 228, y: 40}
+      - {x: 200, y: 52}
+      - {x: 119, y: 251}
+      - {x: 236, y: 33}
+      - {x: 248, y: 7}
+      - {x: 248, y: 14}
+      - {x: 231, y: 37}
+      - {x: 203, y: 46}
+      - {x: 99, y: 7}
+      - {x: 10.000008, y: 251}
+      - {x: 10.000008, y: 76}
+      indices: 11000000100000000f000000090000000f00000010000000080000000f000000090000000e0000000f000000080000000b0000000f0000000e000000030000000b0000000e000000010000000b00000003000000020000000b000000010000000d0000000b000000020000000a0000000b0000000d0000000c0000000b0000000a000000090000000400000008000000030000000800000004000000000000000300000004000000020000000000000004000000070000000200000004000000050000000700000004000000060000000500000004000000030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      yonghengzhiguang: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

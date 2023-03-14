@@ -1,0 +1,1322 @@
+fileFormatVersion: 2
+guid: 8d292be34767be743bc8fe2227d034a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: LevelInvest_lv_bg_2
+  - first:
+      213: 21300002
+    second: LevelInvest_BuyBtnBg3
+  - first:
+      213: 21300004
+    second: LevelInvest_item_bg_1
+  - first:
+      213: 21300006
+    second: LevelInvest_item_bottom
+  - first:
+      213: 21300008
+    second: LevelInvest_Top
+  - first:
+      213: 21300010
+    second: LevelInvest_item_bg_2
+  - first:
+      213: 21300012
+    second: LevelInvest_icon_bg_1
+  - first:
+      213: 21300014
+    second: LevelInvest_lv_bg_1
+  - first:
+      213: 21300016
+    second: LevelInvest_BuyBtnBg1
+  - first:
+      213: 21300018
+    second: LevelInvest_lv_slider_2
+  - first:
+      213: 21300020
+    second: LevelInvest_Bg
+  - first:
+      213: 21300022
+    second: LevelInvest_BuyBtnBg2
+  - first:
+      213: 21300024
+    second: LevelInvest_icon_2
+  - first:
+      213: 21300026
+    second: LevelInvest_icon_4
+  - first:
+      213: 21300028
+    second: LevelInvest_lock
+  - first:
+      213: 21300030
+    second: LevelInvest_icon_bg_3
+  - first:
+      213: 21300032
+    second: LevelInvest_lv_slider_1
+  - first:
+      213: 21300034
+    second: LevelInvest_lv_bg_3
+  - first:
+      213: 21300036
+    second: LevelInvest_icon_3
+  - first:
+      213: 21300038
+    second: LevelInvest_icon_bg_2
+  - first:
+      213: 21300040
+    second: LevelInvest_icon_1
+  - first:
+      213: 21300042
+    second: LevelInvest_icon_bg_4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 0
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LevelInvest_lv_bg_2
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1378
+        width: 93
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -54.000004}
+        - {x: -46.5, y: -36}
+        - {x: -46.5, y: 30.000002}
+        - {x: -45.5, y: 37}
+        - {x: -28.5, y: 54.000004}
+        - {x: 28.5, y: 54.000004}
+        - {x: 46.5, y: 28}
+        - {x: 46.5, y: -36}
+        - {x: 13.500001, y: -54.000004}
+      physicsShape:
+      - - {x: 46.5, y: -25}
+        - {x: 46.5, y: 25}
+        - {x: 36.499996, y: 34}
+        - {x: 23.5, y: 42.999996}
+        - {x: 4.5, y: 53.999996}
+        - {x: -5.5, y: 53.999996}
+        - {x: -14.5, y: 48}
+        - {x: -43.5, y: 28}
+        - {x: -46.5, y: 25}
+        - {x: -46.5, y: -25}
+        - {x: -43.5, y: -28}
+        - {x: -26.499998, y: -41}
+        - {x: -4.5, y: -53.999996}
+        - {x: 5.5, y: -53.999996}
+        - {x: 11.499999, y: -51}
+        - {x: 35.5, y: -34}
+        - {x: 43.5, y: -28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f03e2bdd35347f4b6a4ac87d0c4baf8
+      internalID: 21300000
+      vertices:
+      - {x: 75, y: 108}
+      - {x: 93, y: 18}
+      - {x: 93, y: 82}
+      - {x: 60, y: -0.0000038146973}
+      - {x: 23, y: -0.0000038146973}
+      - {x: 18, y: 108}
+      - {x: 1, y: 91}
+      - {x: 0, y: 84}
+      - {x: 0, y: 18}
+      indices: 080000000700000004000000060000000400000007000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelInvest_BuyBtnBg3
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 398
+        width: 365
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 182.5, y: -80.5}
+        - {x: -182.5, y: -80.5}
+        - {x: -182.5, y: 33.5}
+        - {x: -181.5, y: 34.5}
+        - {x: -181.5, y: 37.5}
+        - {x: -178.5, y: 40.5}
+        - {x: -173.5, y: 44.5}
+        - {x: -173.5, y: 45.5}
+        - {x: -170.5, y: 48.5}
+        - {x: -170.5, y: 49.5}
+        - {x: -166.5, y: 53.500004}
+        - {x: -166.5, y: 54.5}
+        - {x: -162.5, y: 58.499996}
+        - {x: -162.5, y: 59.500004}
+        - {x: -158.5, y: 63.5}
+        - {x: -158.5, y: 64.5}
+        - {x: -153.5, y: 70.5}
+        - {x: -153.5, y: 71.5}
+        - {x: -149.5, y: 75.5}
+        - {x: -149.5, y: 76.5}
+        - {x: -145.5, y: 80.5}
+        - {x: 182.5, y: 80.5}
+      physicsShape:
+      - - {x: -175.5, y: 80.5}
+        - {x: -182.5, y: 35.5}
+        - {x: -182.5, y: -80.5}
+        - {x: 182.5, y: -80.5}
+        - {x: 182.5, y: 80.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d879a2b7a94050ab2b4d99f5f80b31
+      internalID: 21300002
+      vertices:
+      - {x: 37, y: 161}
+      - {x: 365, y: 0}
+      - {x: 365, y: 161}
+      - {x: 33, y: 157}
+      - {x: 33, y: 156}
+      - {x: 29, y: 152}
+      - {x: 29, y: 151}
+      - {x: 24, y: 145}
+      - {x: 24, y: 144}
+      - {x: 20, y: 140}
+      - {x: 20, y: 139}
+      - {x: 16, y: 135}
+      - {x: 16, y: 134}
+      - {x: 12, y: 130}
+      - {x: 12, y: 129}
+      - {x: 9, y: 126}
+      - {x: 9, y: 125}
+      - {x: 4, y: 121}
+      - {x: 1, y: 118}
+      - {x: 1, y: 115}
+      - {x: 0, y: 114}
+      - {x: 0, y: 0}
+      indices: 1500000014000000010000001300000001000000140000001200000001000000130000001100000001000000120000001000000001000000110000000f00000001000000100000000e000000010000000f0000000d000000010000000e0000000c000000010000000d0000000b000000010000000c0000000a000000010000000b00000009000000010000000a000000080000000100000009000000070000000100000008000000060000000100000007000000050000000100000006000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelInvest_item_bg_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1080
+        height: 549
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 494, z: 0, w: 19}
+      outline:
+      - - {x: 540, y: -274.5}
+        - {x: -540, y: -274.5}
+        - {x: -540, y: 274.5}
+        - {x: 540, y: 274.5}
+      physicsShape:
+      - - {x: -540, y: 274.5}
+        - {x: -540, y: -274.5}
+        - {x: 540, y: -274.5}
+        - {x: 540, y: 274.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16a0410386942f38db02c0c3bd201ce
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 549}
+      - {x: 1080, y: 0}
+      - {x: 1080, y: 549}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelInvest_item_bottom
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1531
+        width: 27
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 6, z: 4, w: 6}
+      outline:
+      - - {x: -13.500001, y: -11.5}
+        - {x: -13.500001, y: 11.5}
+        - {x: 13.500001, y: 11.5}
+        - {x: 13.500001, y: -11.5}
+      physicsShape:
+      - - {x: -13.499999, y: 11.499999}
+        - {x: -13.499999, y: -11.499999}
+        - {x: 13.499999, y: -11.499999}
+        - {x: 13.499999, y: 11.499999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c287735ddce4eea946f70401a8ece5e
+      internalID: 21300006
+      vertices:
+      - {x: -0.0000009536743, y: 23}
+      - {x: 27, y: 23}
+      - {x: -0.0000009536743, y: 0}
+      - {x: 27, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelInvest_Top
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 551
+        width: 1080
+        height: 484
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 540, y: -242}
+        - {x: -540, y: -242}
+        - {x: -540, y: 242}
+        - {x: 540, y: 242}
+      physicsShape:
+      - - {x: -540, y: 241.99998}
+        - {x: -540, y: -241.99998}
+        - {x: 540, y: -241.99998}
+        - {x: 540, y: 241.99998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cafd0c380d4d8c82f61f985515f823
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 484}
+      - {x: 1080, y: 0}
+      - {x: 1080, y: 484}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelInvest_item_bg_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1037
+        width: 1080
+        height: 339
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 21, z: 0, w: 283}
+      outline:
+      - - {x: 540, y: -169.5}
+        - {x: -540, y: -169.5}
+        - {x: -540, y: 169.5}
+        - {x: 540, y: 169.5}
+      physicsShape:
+      - - {x: -540, y: 169.5}
+        - {x: -540, y: -169.5}
+        - {x: 540, y: -169.5}
+        - {x: 540, y: 169.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3366283f58234f64aa12d7ef47010162
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 339}
+      - {x: 1080, y: 0}
+      - {x: 1080, y: 339}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelInvest_icon_bg_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1378
+        width: 255
+        height: 233
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124.5, y: -107.50001}
+        - {x: -127.5, y: -100.5}
+        - {x: -127.5, y: 97.5}
+        - {x: -126.5, y: 101.5}
+        - {x: -124.5, y: 104.49999}
+        - {x: -121.5, y: 110.5}
+        - {x: -116.5, y: 114.5}
+        - {x: -115.5, y: 114.5}
+        - {x: -113.5, y: 116.5}
+        - {x: 114.5, y: 116.5}
+        - {x: 123.5, y: 107.50001}
+        - {x: 127.5, y: 98.5}
+        - {x: 127.5, y: -100.5}
+        - {x: 124.5, y: -107.50001}
+        - {x: 118.49999, y: -113.5}
+        - {x: 111.5, y: -116.5}
+        - {x: -111.5, y: -116.5}
+        - {x: -118.49999, y: -113.5}
+      physicsShape:
+      - - {x: -125.5, y: 116.5}
+        - {x: -125.5, y: -96.5}
+        - {x: -115.5, y: -108.49999}
+        - {x: 125.5, y: -108.49999}
+        - {x: 125.5, y: 116.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: addb77d7c78d431a8339a9034b2cdf2f
+      internalID: 21300012
+      vertices:
+      - {x: 255, y: 215}
+      - {x: 252, y: 8.999992}
+      - {x: 255, y: 16}
+      - {x: 251, y: 224}
+      - {x: 246, y: 3}
+      - {x: 242, y: 233}
+      - {x: 239, y: 0}
+      - {x: 16, y: 0}
+      - {x: 14, y: 233}
+      - {x: 12, y: 231}
+      - {x: 11, y: 231}
+      - {x: 9.000008, y: 3}
+      - {x: 6, y: 227}
+      - {x: 3, y: 221}
+      - {x: 3, y: 8.999992}
+      - {x: 1, y: 218}
+      - {x: 0, y: 214}
+      - {x: 0, y: 16}
+      indices: 11000000100000000e0000000f0000000e000000100000000d0000000e0000000f0000000b0000000e0000000d0000000c0000000b0000000d0000000a0000000b0000000c000000070000000b0000000a00000009000000070000000a000000080000000700000009000000050000000700000008000000060000000700000005000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelInvest_lv_bg_1
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 842
+        width: 93
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -54.000004}
+        - {x: -46.5, y: -36}
+        - {x: -46.5, y: 30.000002}
+        - {x: -45.5, y: 37}
+        - {x: -28.5, y: 54.000004}
+        - {x: 28.5, y: 54.000004}
+        - {x: 46.5, y: 28}
+        - {x: 46.5, y: -36}
+        - {x: 13.500001, y: -54.000004}
+      physicsShape:
+      - - {x: 46.5, y: -25}
+        - {x: 46.5, y: 25}
+        - {x: 36.499996, y: 34}
+        - {x: 23.5, y: 42.999996}
+        - {x: 4.5, y: 53.999996}
+        - {x: -5.5, y: 53.999996}
+        - {x: -14.5, y: 48}
+        - {x: -43.5, y: 28}
+        - {x: -46.5, y: 25}
+        - {x: -46.5, y: -25}
+        - {x: -43.5, y: -28}
+        - {x: -26.499998, y: -41}
+        - {x: -4.5, y: -53.999996}
+        - {x: 5.5, y: -53.999996}
+        - {x: 11.499999, y: -51}
+        - {x: 35.5, y: -34}
+        - {x: 43.5, y: -28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb6e939ecf1456e8d6ee82ae3cff7e7
+      internalID: 21300014
+      vertices:
+      - {x: 75, y: 108}
+      - {x: 93, y: 18}
+      - {x: 93, y: 82}
+      - {x: 60, y: -0.0000038146973}
+      - {x: 23, y: -0.0000038146973}
+      - {x: 18, y: 108}
+      - {x: 1, y: 91}
+      - {x: 0, y: 84}
+      - {x: 0, y: 18}
+      indices: 080000000700000004000000060000000400000007000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelInvest_BuyBtnBg1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1613
+        width: 346
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 173, y: -80.5}
+        - {x: -173, y: -80.5}
+        - {x: -173, y: 33.5}
+        - {x: -172, y: 34.5}
+        - {x: -172, y: 37.5}
+        - {x: -169, y: 40.5}
+        - {x: -164, y: 44.5}
+        - {x: -164, y: 45.5}
+        - {x: -161, y: 49.5}
+        - {x: -157, y: 53.500004}
+        - {x: -157, y: 54.5}
+        - {x: -153, y: 58.499996}
+        - {x: -153, y: 59.500004}
+        - {x: -149, y: 63.5}
+        - {x: -149, y: 64.5}
+        - {x: -144, y: 70.5}
+        - {x: -144, y: 71.5}
+        - {x: -140, y: 75.5}
+        - {x: -140, y: 76.5}
+        - {x: -136, y: 80.5}
+        - {x: 173, y: 80.5}
+      physicsShape:
+      - - {x: -136, y: 80.5}
+        - {x: -173, y: 34.5}
+        - {x: -173, y: -80.5}
+        - {x: 173, y: -80.5}
+        - {x: 173, y: 80.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5296410570454696837cee7b2696e7
+      internalID: 21300016
+      vertices:
+      - {x: 37, y: 161}
+      - {x: 346, y: 0}
+      - {x: 346, y: 161}
+      - {x: 33, y: 157}
+      - {x: 33, y: 156}
+      - {x: 29, y: 152}
+      - {x: 29, y: 151}
+      - {x: 24, y: 145}
+      - {x: 24, y: 144}
+      - {x: 20, y: 140}
+      - {x: 20, y: 139}
+      - {x: 16, y: 135}
+      - {x: 16, y: 134}
+      - {x: 12, y: 130}
+      - {x: 9, y: 126}
+      - {x: 9, y: 125}
+      - {x: 4, y: 121}
+      - {x: 1, y: 118}
+      - {x: 1, y: 115}
+      - {x: 0, y: 114}
+      - {x: 0, y: 0}
+      indices: 1400000013000000010000001200000001000000130000001100000001000000120000001000000001000000110000000f00000001000000100000000e000000010000000f0000000d000000010000000e0000000c000000010000000d0000000b000000010000000c0000000a000000010000000b00000009000000010000000a000000080000000100000009000000070000000100000008000000060000000100000007000000050000000100000006000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelInvest_lv_slider_2
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 163
+        width: 59
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 15, z: 13, w: 12}
+      outline:
+      - - {x: 29.499998, y: -34}
+        - {x: -29.499998, y: -34}
+        - {x: -29.499998, y: 34}
+        - {x: 29.499998, y: 34}
+      physicsShape:
+      - - {x: -29.499998, y: 34}
+        - {x: -29.499998, y: -34}
+        - {x: 29.499998, y: -34}
+        - {x: 29.499998, y: 34}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4994f75b5de041c081719a2b20d53aa4
+      internalID: 21300018
+      vertices:
+      - {x: 0.0000019073486, y: 68}
+      - {x: 59, y: 0}
+      - {x: 59, y: 68}
+      - {x: 0.0000019073486, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelInvest_Bg
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 561
+        width: 41
+        height: 280
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 13, z: 12, w: 5}
+      outline:
+      - - {x: 20.5, y: -140}
+        - {x: -20.5, y: -140}
+        - {x: -20.5, y: 140}
+        - {x: 20.5, y: 140}
+      physicsShape:
+      - - {x: -20.5, y: 140}
+        - {x: -20.5, y: -140}
+        - {x: 20.5, y: -140}
+        - {x: 20.5, y: 140}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50466198afc24f668bec4ca4548aeeef
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 280}
+      - {x: 41, y: 0}
+      - {x: 41, y: 280}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelInvest_BuyBtnBg2
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 0
+        width: 375
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 187.5, y: -80.5}
+        - {x: -187.5, y: -80.5}
+        - {x: -187.5, y: 31.5}
+        - {x: -186.5, y: 32.5}
+        - {x: -186.5, y: 35.5}
+        - {x: -183.5, y: 38.5}
+        - {x: -178.5, y: 42.5}
+        - {x: -178.5, y: 43.5}
+        - {x: -175.5, y: 46.5}
+        - {x: -175.5, y: 47.5}
+        - {x: -171.5, y: 51.5}
+        - {x: -171.5, y: 52.499996}
+        - {x: -167.5, y: 56.5}
+        - {x: -167.5, y: 57.5}
+        - {x: -163.5, y: 61.5}
+        - {x: -163.5, y: 62.5}
+        - {x: -158.5, y: 68.5}
+        - {x: -158.5, y: 69.5}
+        - {x: -154.5, y: 73.5}
+        - {x: -154.5, y: 74.5}
+        - {x: -148.5, y: 80.5}
+        - {x: 187.5, y: 80.5}
+      physicsShape:
+      - - {x: -149.5, y: 80.5}
+        - {x: -187.5, y: 32.5}
+        - {x: -187.5, y: -80.5}
+        - {x: 187.5, y: -80.5}
+        - {x: 187.5, y: 80.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347f2382a0574469bfecdeab87148e77
+      internalID: 21300022
+      vertices:
+      - {x: 39, y: 161}
+      - {x: 375, y: 0}
+      - {x: 375, y: 161}
+      - {x: 33, y: 155}
+      - {x: 33, y: 154}
+      - {x: 29, y: 150}
+      - {x: 29, y: 149}
+      - {x: 24, y: 143}
+      - {x: 24, y: 142}
+      - {x: 20, y: 138}
+      - {x: 20, y: 137}
+      - {x: 16, y: 133}
+      - {x: 16, y: 132}
+      - {x: 12, y: 128}
+      - {x: 12, y: 127}
+      - {x: 9, y: 124}
+      - {x: 9, y: 123}
+      - {x: 4, y: 119}
+      - {x: 1, y: 116}
+      - {x: 1, y: 113}
+      - {x: 0, y: 112}
+      - {x: 0, y: 0}
+      indices: 1500000014000000010000001300000001000000140000001200000001000000130000001100000001000000120000001000000001000000110000000f00000001000000100000000e000000010000000f0000000d000000010000000e0000000c000000010000000d0000000b000000010000000c0000000a000000010000000b00000009000000010000000a000000080000000100000009000000070000000100000008000000060000000100000007000000050000000100000006000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelInvest_icon_2
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 0
+        width: 144
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: -78.5}
+        - {x: -72, y: -62.5}
+        - {x: -72, y: 45.5}
+        - {x: -25, y: 78.5}
+        - {x: 22, y: 78.5}
+        - {x: 72, y: 45.5}
+        - {x: 72, y: -48.5}
+        - {x: 46, y: -78.5}
+      physicsShape:
+      - - {x: 72, y: 27.5}
+        - {x: 69, y: 41.5}
+        - {x: 39.999996, y: 62.5}
+        - {x: 22.999998, y: 72.5}
+        - {x: 9, y: 78.5}
+        - {x: -4.9999995, y: 78.5}
+        - {x: -14.999999, y: 77.5}
+        - {x: -39, y: 63.5}
+        - {x: -59.999996, y: 48.5}
+        - {x: -72, y: 34.5}
+        - {x: -72, y: -36.499996}
+        - {x: -62, y: -49.499996}
+        - {x: -42.999996, y: -62.5}
+        - {x: -13, y: -78.5}
+        - {x: 14, y: -78.5}
+        - {x: 59.999996, y: -51.5}
+        - {x: 71, y: -38.5}
+        - {x: 72, y: -25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a584c1f8b6ad44348117c594fd275747
+      internalID: 21300024
+      vertices:
+      - {x: 144, y: 124}
+      - {x: 118, y: 0}
+      - {x: 144, y: 30}
+      - {x: 94, y: 157}
+      - {x: 47, y: 157}
+      - {x: 38, y: 0}
+      - {x: 0, y: 124}
+      - {x: 0, y: 16}
+      indices: 070000000600000005000000040000000500000006000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelInvest_icon_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1378
+        width: 153
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.499996, y: -75.5}
+        - {x: -76.5, y: -64.5}
+        - {x: -76.5, y: 25.5}
+        - {x: -39.5, y: 75.5}
+        - {x: 61.5, y: 75.5}
+        - {x: 76.5, y: 49.5}
+        - {x: 76.5, y: -40.5}
+        - {x: 41.5, y: -75.5}
+      physicsShape:
+      - - {x: 74.5, y: -12.5}
+        - {x: 76.5, y: -4.5}
+        - {x: 76.5, y: 25.5}
+        - {x: 73.49999, y: 36.499996}
+        - {x: 61.5, y: 51.5}
+        - {x: 42.5, y: 69.5}
+        - {x: 33.499996, y: 74.5}
+        - {x: 28.5, y: 75.5}
+        - {x: -0.5, y: 75.5}
+        - {x: -11.499999, y: 73.49999}
+        - {x: -27.5, y: 65.5}
+        - {x: -42.5, y: 54.5}
+        - {x: -57.5, y: 38.5}
+        - {x: -67.5, y: 25.5}
+        - {x: -75.5, y: 4.5}
+        - {x: -76.5, y: -2.4999998}
+        - {x: -76.5, y: -24.499998}
+        - {x: -74.5, y: -31.5}
+        - {x: -67.5, y: -43.5}
+        - {x: -50.5, y: -62.5}
+        - {x: -31.5, y: -74.5}
+        - {x: -26.499998, y: -75.5}
+        - {x: 9.5, y: -75.5}
+        - {x: 18.5, y: -73.49999}
+        - {x: 47.5, y: -52.499996}
+        - {x: 59.499996, y: -39.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd21bc3b5074788a26751e0ba955c99
+      internalID: 21300026
+      vertices:
+      - {x: 138, y: 151}
+      - {x: 153, y: 35}
+      - {x: 153, y: 125}
+      - {x: 118, y: 0}
+      - {x: 37, y: 151}
+      - {x: 24.000004, y: 0}
+      - {x: 0, y: 101}
+      - {x: 0, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelInvest_lock
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 561
+        width: 75
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: -39}
+        - {x: -37.5, y: -39}
+        - {x: -37.5, y: 16}
+        - {x: -17.5, y: 39}
+        - {x: 32.5, y: 39}
+        - {x: 37.5, y: 24}
+      physicsShape:
+      - - {x: -17.5, y: 39}
+        - {x: -34.5, y: 31}
+        - {x: -37.5, y: 22}
+        - {x: -37.5, y: -39}
+        - {x: 35.5, y: -39}
+        - {x: 37.5, y: -36}
+        - {x: 37.5, y: 17}
+        - {x: 15.5, y: 39}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c3d68d3369410092c37522412c443c
+      internalID: 21300028
+      vertices:
+      - {x: 70, y: 78}
+      - {x: 75, y: 0}
+      - {x: 75, y: 63}
+      - {x: 20, y: 78}
+      - {x: 0, y: 55}
+      - {x: 0, y: 0}
+      indices: 050000000400000001000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelInvest_icon_bg_3
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 163
+        width: 255
+        height: 233
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124.5, y: -107.50001}
+        - {x: -127.5, y: -100.5}
+        - {x: -127.5, y: 97.5}
+        - {x: -126.5, y: 101.5}
+        - {x: -124.5, y: 104.49999}
+        - {x: -121.5, y: 110.5}
+        - {x: -116.5, y: 114.5}
+        - {x: -115.5, y: 114.5}
+        - {x: -113.5, y: 116.5}
+        - {x: 114.5, y: 116.5}
+        - {x: 123.5, y: 107.50001}
+        - {x: 127.5, y: 98.5}
+        - {x: 127.5, y: -100.5}
+        - {x: 124.5, y: -107.50001}
+        - {x: 118.49999, y: -113.5}
+        - {x: 111.5, y: -116.5}
+        - {x: -111.5, y: -116.5}
+        - {x: -118.49999, y: -113.5}
+      physicsShape:
+      - - {x: -125.5, y: 116.5}
+        - {x: -125.5, y: -96.5}
+        - {x: -115.5, y: -108.49999}
+        - {x: 125.5, y: -108.49999}
+        - {x: 125.5, y: 116.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd73ba3d4f35494cb89736c8d43c3e1f
+      internalID: 21300030
+      vertices:
+      - {x: 255, y: 215}
+      - {x: 252, y: 8.999992}
+      - {x: 255, y: 16}
+      - {x: 251, y: 224}
+      - {x: 246, y: 3}
+      - {x: 242, y: 233}
+      - {x: 239, y: 0}
+      - {x: 16, y: 0}
+      - {x: 14, y: 233}
+      - {x: 12, y: 231}
+      - {x: 11, y: 231}
+      - {x: 9.000008, y: 3}
+      - {x: 6, y: 227}
+      - {x: 3, y: 221}
+      - {x: 3, y: 8.999992}
+      - {x: 1, y: 218}
+      - {x: 0, y: 214}
+      - {x: 0, y: 16}
+      indices: 11000000100000000e0000000f0000000e000000100000000d0000000e0000000f0000000b0000000e0000000d0000000c0000000b0000000d0000000a0000000b0000000c000000070000000b0000000a00000009000000070000000a000000080000000700000009000000050000000700000008000000060000000700000005000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelInvest_lv_slider_1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1378
+        width: 43
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 22, z: 7, w: 18}
+      outline:
+      - - {x: 21.5, y: -40}
+        - {x: -21.5, y: -40}
+        - {x: -21.5, y: 40}
+        - {x: 21.5, y: 40}
+      physicsShape:
+      - - {x: -21.499998, y: 39.999996}
+        - {x: -21.499998, y: -39.999996}
+        - {x: 21.499998, y: -39.999996}
+        - {x: 21.499998, y: 39.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78f2ea87ede47fab3c6a8bf54b39590
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 80}
+      - {x: 43, y: 0}
+      - {x: 43, y: 80}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelInvest_lv_bg_3
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 714
+        width: 104
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -63}
+        - {x: -52, y: -31}
+        - {x: -52, y: 32}
+        - {x: -4, y: 63}
+        - {x: 10, y: 63}
+        - {x: 52, y: 33}
+        - {x: 52, y: -34}
+        - {x: 6, y: -63}
+      physicsShape:
+      - - {x: 52, y: -28}
+        - {x: 52, y: 28}
+        - {x: 48.999996, y: 31}
+        - {x: 42.999996, y: 36}
+        - {x: 28, y: 45.999996}
+        - {x: 18, y: 52.999996}
+        - {x: 12, y: 57}
+        - {x: 2, y: 63}
+        - {x: -2, y: 63}
+        - {x: -19.999998, y: 51}
+        - {x: -45, y: 34}
+        - {x: -52, y: 26.999998}
+        - {x: -52, y: -26.999998}
+        - {x: -48, y: -31}
+        - {x: -26.999998, y: -45.999996}
+        - {x: -17, y: -52.999996}
+        - {x: -11, y: -57}
+        - {x: -1, y: -63}
+        - {x: 3, y: -63}
+        - {x: 21, y: -51}
+        - {x: 48.999996, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3dd67bf06d4764afad4a021b780d9d
+      internalID: 21300034
+      vertices:
+      - {x: 62, y: 126}
+      - {x: 104, y: 29}
+      - {x: 104, y: 96}
+      - {x: 58, y: 0}
+      - {x: 48, y: 126}
+      - {x: 41, y: 0}
+      - {x: 0, y: 95}
+      - {x: 0, y: 32}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelInvest_icon_3
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 561
+        width: 153
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.499996, y: -75.5}
+        - {x: -76.5, y: -64.5}
+        - {x: -76.5, y: 25.5}
+        - {x: -39.5, y: 75.5}
+        - {x: 61.5, y: 75.5}
+        - {x: 76.5, y: 49.5}
+        - {x: 76.5, y: -40.5}
+        - {x: 41.5, y: -75.5}
+      physicsShape:
+      - - {x: 74.5, y: -12.5}
+        - {x: 76.5, y: -4.5}
+        - {x: 76.5, y: 25.5}
+        - {x: 73.49999, y: 36.499996}
+        - {x: 61.5, y: 51.5}
+        - {x: 42.5, y: 69.5}
+        - {x: 33.499996, y: 74.5}
+        - {x: 28.5, y: 75.5}
+        - {x: -0.5, y: 75.5}
+        - {x: -11.499999, y: 73.49999}
+        - {x: -27.5, y: 65.5}
+        - {x: -42.5, y: 54.5}
+        - {x: -57.5, y: 38.5}
+        - {x: -67.5, y: 25.5}
+        - {x: -75.5, y: 4.5}
+        - {x: -76.5, y: -2.4999998}
+        - {x: -76.5, y: -24.499998}
+        - {x: -74.5, y: -31.5}
+        - {x: -67.5, y: -43.5}
+        - {x: -50.5, y: -62.5}
+        - {x: -31.5, y: -74.5}
+        - {x: -26.499998, y: -75.5}
+        - {x: 9.5, y: -75.5}
+        - {x: 18.5, y: -73.49999}
+        - {x: 47.5, y: -52.499996}
+        - {x: 59.499996, y: -39.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b5b308f4ab4db9ae2e75049226b81b
+      internalID: 21300036
+      vertices:
+      - {x: 138, y: 151}
+      - {x: 153, y: 35}
+      - {x: 153, y: 125}
+      - {x: 118, y: 0}
+      - {x: 37, y: 151}
+      - {x: 24.000004, y: 0}
+      - {x: 0, y: 101}
+      - {x: 0, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelInvest_icon_bg_2
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 0
+        width: 255
+        height: 233
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124.5, y: -107.50001}
+        - {x: -127.5, y: -100.5}
+        - {x: -127.5, y: 97.5}
+        - {x: -126.5, y: 101.5}
+        - {x: -124.5, y: 104.49999}
+        - {x: -121.5, y: 110.5}
+        - {x: -116.5, y: 114.5}
+        - {x: -115.5, y: 114.5}
+        - {x: -113.5, y: 116.5}
+        - {x: 114.5, y: 116.5}
+        - {x: 123.5, y: 107.50001}
+        - {x: 127.5, y: 98.5}
+        - {x: 127.5, y: -100.5}
+        - {x: 124.5, y: -107.50001}
+        - {x: 118.49999, y: -113.5}
+        - {x: 111.5, y: -116.5}
+        - {x: -111.5, y: -116.5}
+        - {x: -118.49999, y: -113.5}
+      physicsShape:
+      - - {x: -125.5, y: 116.5}
+        - {x: -125.5, y: -96.5}
+        - {x: -115.5, y: -108.49999}
+        - {x: 125.5, y: -108.49999}
+        - {x: 125.5, y: 116.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5efef1b664b4054b07f5a3145cf2b6c
+      internalID: 21300038
+      vertices:
+      - {x: 255, y: 215}
+      - {x: 252, y: 8.999992}
+      - {x: 255, y: 16}
+      - {x: 251, y: 224}
+      - {x: 246, y: 3}
+      - {x: 242, y: 233}
+      - {x: 239, y: 0}
+      - {x: 16, y: 0}
+      - {x: 14, y: 233}
+      - {x: 12, y: 231}
+      - {x: 11, y: 231}
+      - {x: 9.000008, y: 3}
+      - {x: 6, y: 227}
+      - {x: 3, y: 221}
+      - {x: 3, y: 8.999992}
+      - {x: 1, y: 218}
+      - {x: 0, y: 214}
+      - {x: 0, y: 16}
+      indices: 11000000100000000e0000000f0000000e000000100000000d0000000e0000000f0000000b0000000e0000000d0000000c0000000b0000000d0000000a0000000b0000000c000000070000000b0000000a00000009000000070000000a000000080000000700000009000000050000000700000008000000060000000700000005000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelInvest_icon_1
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 561
+        width: 143
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -80.5}
+        - {x: -71.5, y: -48.5}
+        - {x: -71.5, y: 52.499996}
+        - {x: -30.5, y: 80.5}
+        - {x: 51.5, y: 80.5}
+        - {x: 71.5, y: 68.5}
+        - {x: 71.5, y: -52.499996}
+        - {x: 63.5, y: -80.5}
+      physicsShape:
+      - - {x: 71.5, y: 24.499998}
+        - {x: 70.5, y: 37.5}
+        - {x: 56.5, y: 51.5}
+        - {x: 34.5, y: 66.5}
+        - {x: 7.4999995, y: 80.5}
+        - {x: -7.4999995, y: 80.5}
+        - {x: -24.499998, y: 73.49999}
+        - {x: -59.499996, y: 50.5}
+        - {x: -69.5, y: 38.5}
+        - {x: -71.5, y: 34.5}
+        - {x: -71.5, y: -38.5}
+        - {x: -70.5, y: -42.5}
+        - {x: -43.5, y: -62.5}
+        - {x: -5.5, y: -80.5}
+        - {x: 4.5, y: -80.5}
+        - {x: 7.4999995, y: -79.49999}
+        - {x: 56.5, y: -54.5}
+        - {x: 71.5, y: -39.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5ffc1aa4e547bd868e87eedd61b6a4
+      internalID: 21300040
+      vertices:
+      - {x: 143, y: 149}
+      - {x: 135, y: 0}
+      - {x: 143, y: 28.000004}
+      - {x: 123, y: 161}
+      - {x: 48, y: 0}
+      - {x: 41, y: 161}
+      - {x: 0, y: 133}
+      - {x: 0, y: 32}
+      indices: 070000000600000004000000050000000400000006000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelInvest_icon_bg_4
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 235
+        width: 247
+        height: 223
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -116.5, y: -109.5}
+        - {x: -121.5, y: -104.49999}
+        - {x: -121.5, y: -103.5}
+        - {x: -123.5, y: -101.5}
+        - {x: -123.5, y: 101.5}
+        - {x: -121.5, y: 103.5}
+        - {x: -121.5, y: 104.49999}
+        - {x: -116.5, y: 109.5}
+        - {x: -115.5, y: 109.5}
+        - {x: -113.5, y: 111.5}
+        - {x: 114.5, y: 111.5}
+        - {x: 117.49999, y: 108.5}
+        - {x: 123.5, y: 101.5}
+        - {x: 123.5, y: -102.5}
+        - {x: 120.50001, y: -104.49999}
+        - {x: 120.50001, y: -105.49999}
+        - {x: 113.5, y: -111.5}
+        - {x: -113.5, y: -111.5}
+        - {x: -115.5, y: -109.5}
+      physicsShape:
+      - - {x: -123.5, y: 111.5}
+        - {x: -123.5, y: -111.5}
+        - {x: 117.49999, y: -111.5}
+        - {x: 123.5, y: -106.49999}
+        - {x: 123.5, y: 111.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50eebf681704fa28218c36bfb7ee330
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 213}
+      - {x: 2, y: 8}
+      - {x: 2, y: 215}
+      - {x: 0, y: 10}
+      - {x: 247, y: 213}
+      - {x: 244, y: 7.0000076}
+      - {x: 247, y: 9}
+      - {x: 241, y: 220}
+      - {x: 244, y: 6.0000076}
+      - {x: 238, y: 223}
+      - {x: 237, y: 0}
+      - {x: 10, y: 223}
+      - {x: 10, y: 0}
+      - {x: 8, y: 221}
+      - {x: 8, y: 2}
+      - {x: 7, y: 221}
+      - {x: 7, y: 2}
+      - {x: 2, y: 216}
+      - {x: 2, y: 7.0000076}
+      indices: 1200000001000000100000000200000010000000010000001100000010000000020000000f00000010000000110000000e000000100000000f0000000d0000000e0000000f0000000c0000000e0000000d0000000b0000000c0000000d0000000a0000000c0000000b000000090000000a0000000b000000080000000a00000009000000070000000800000009000000050000000800000007000000040000000500000007000000060000000500000004000000030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LevelInvest_Bg: 21300020
+      LevelInvest_icon_4: 21300026
+      LevelInvest_icon_bg_4: 21300042
+      LevelInvest_BuyBtnBg3: 21300002
+      LevelInvest_lv_bg_1: 21300014
+      LevelInvest_icon_bg_2: 21300038
+      LevelInvest_lv_bg_3: 21300034
+      LevelInvest_lv_slider_2: 21300018
+      LevelInvest_item_bottom: 21300006
+      LevelInvest_item_bg_2: 21300010
+      LevelInvest_icon_bg_1: 21300012
+      LevelInvest_icon_3: 21300036
+      LevelInvest_BuyBtnBg1: 21300016
+      LevelInvest_item_bg_1: 21300004
+      LevelInvest_icon_bg_3: 21300030
+      LevelInvest_icon_1: 21300040
+      LevelInvest_Top: 21300008
+      LevelInvest_lv_bg_2: 21300000
+      LevelInvest_icon_2: 21300024
+      LevelInvest_lv_slider_1: 21300032
+      LevelInvest_BuyBtnBg2: 21300022
+      LevelInvest_lock: 21300028
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
