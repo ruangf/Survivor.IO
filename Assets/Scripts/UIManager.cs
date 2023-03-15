@@ -75,7 +75,7 @@ public class UIManager : MonoBehaviour
             DestroyEnemys = true;
             StopAllAudios = true;
             FinishScreen.SetActive(true);
-            Advertisements.Instance.ShowInterstitial();
+            //Advertisements.Instance.ShowInterstitial();
             Manager.PlayerDeath = false;
             Manager.Health = 100;
             Manager.HealthBar.color = Color.green;
@@ -105,7 +105,7 @@ public class UIManager : MonoBehaviour
         Weapons.DesactivateAll();
         Destroy(CurrentLevel);
         StartCoroutine(StartBacking());
-        Advertisements.Instance.ShowInterstitial();
+        //Advertisements.Instance.ShowInterstitial();
     }
     IEnumerator StartBacking()
     {

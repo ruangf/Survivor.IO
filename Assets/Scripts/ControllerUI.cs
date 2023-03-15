@@ -20,7 +20,7 @@ public class ControllerUI : MonoBehaviour
 
     void Awake()
     {
-        Advertisements.Instance.Initialize();
+        //Advertisements.Instance.Initialize();
     }
     void Update()
     {

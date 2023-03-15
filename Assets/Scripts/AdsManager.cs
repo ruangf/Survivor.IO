@@ -7,11 +7,11 @@ public class AdsManager : MonoBehaviour
     public static AdsManager Ads;
     public void Showintertitial()
     {
-        Advertisements.Instance.ShowInterstitial();
+        //Advertisements.Instance.ShowInterstitial();
     }
     public void ShowrewardVideo()
     {
-        Advertisements.Instance.ShowRewardedVideo(CompleteMethod);
+        //Advertisements.Instance.ShowRewardedVideo(CompleteMethod);
         void CompleteMethod(bool completed, string advertiser)
         {
             Debug.Log("Closed rewarded from: " + advertiser + " -> Completed " + completed);
